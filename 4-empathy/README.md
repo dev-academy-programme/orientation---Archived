@@ -4,7 +4,9 @@ Here at EDA we are not creating web developers but developing people. We run a s
 
 What you will learn about most is yourself.
 
-<img src="/images/siy-cover.jpg" width="333" height="499" alt="Search Inside Yourself" style="float: right; margin: 10px">
+<div style="float: right; margin: 10px">
+  <img src="/images/siy-cover.jpg" width="333" height="499" alt="Search Inside Yourself">
+</div>
 
 We deliver the material in a wide variety of creative and exciting ways. In Phase Zero it will mostly be through videos and reading material.
 
