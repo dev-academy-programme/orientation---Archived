@@ -13,16 +13,7 @@
 ### Review the objectives for the sprint
 
 2. Tools
-  1. Vagrant (download and setup)
-	2. Chrome Developer Tools (basics)
-	3. Sublime Text 3 (basics)
-	4. Git and GitHub (creating, cloning, staging, commiting, pushing, pulling)
-	6. Slack (use it!)
-	7. Node.js REPL
-		1. What a REPL is
-		2. How to start
-		3. How to quit
-		4. Limitations
+
 3. Resources
 	1. Use the resources!
 	2. The team
