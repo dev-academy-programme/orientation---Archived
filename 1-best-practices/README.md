@@ -20,6 +20,7 @@ You can also do deeper or shallower dives into the material, but do try to make 
 At the beginning of each sprint, review the list of objectives and any deliverables for the sprint. This will give you an idea of what you'll be learning, and what's expected of you. Make note of anything that particularly interests or confuses you.
 
 We'll give you time estimates for these parts. These will range widely as some of us move more quickly than others. Also, the time required will depend on how deeply and thoroughly you work through the material.
+
 **Don't go down rabbit holes!** You're not Alice in Wonderland (though you may sometimes feel like Alice), so do stay out of rabbit holes. To "go down a rabbit hole" means to get so involved in or obsessed with a topic that you spent way too much time on it. The material in Phase Zero other than the code is for your *familiarization*. You are not meant to become an expert in any of this.
 
 ## Skim the material
