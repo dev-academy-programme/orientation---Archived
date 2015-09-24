@@ -1,5 +1,9 @@
 # Chrome Developer Tools
 
+The Chrome web browser contains a host of tools that make your life as a developer much easier. Take the time to get to learn them and you'll relieve or mitigate a lot of the pain of web development, allowing you to focus on the pleasure.
+
+
+
 ## Chrome extensions we'll use
 
 You'll need the following extensions in Chrome. They should already be installed in the Vagrant machine.
