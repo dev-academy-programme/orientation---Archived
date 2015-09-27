@@ -65,3 +65,5 @@ Note that Atom also provides line numbers in the "gutter" to the left of the ind
 </figure>
 
 See how the `<header>` element is closed up right now, and see the little > in the gutter next to it. If I mouse over the gutter, I will see a whole line of little arrows like that indicating where I can click to close or open sections of code. This is great for keeping only the part of the code you're working on visible.
+
+Play around with Atom until you're comfortable with it. We'll be using it a lot, and not just for HTML.
