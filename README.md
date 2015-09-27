@@ -40,7 +40,7 @@ Now follow the links below (while your virtual box is downloading) to complete t
 
 1. [Best practices for success in Phase Zero](/1-best-practices/) (10 minutes)
 2. [Expectations](/2-expectations/) (5-20 minutes)
-3. [Tools you'll need](/3-tools/)
+3. [Tools you'll use](/3-tools/)
 4. [Resources you will use](/4-resources/) (10 minutes)
 5. [Empathy](/5-empathy/) (10 minutes)
 6. [Accessibility to persons with disabilities](/6-accessibility/) (15 minutes)
