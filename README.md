@@ -36,6 +36,17 @@ On Windows, the terminal is generally called the "command prompt" or "command li
 
 Now follow the links below (while your virtual box is downloading) to complete the orientation.
 
+### OK, it's done downloading. Now WHERE IS IT?
+
+It's possible that after the virtual machine downloads and starts, you won't see a window. This happened to me on my Linux machine. What a pain, eh? So here's how to handle that if it happens:
+
+1. Open VirtualBox (it's in your applications, right?).
+2. Find the virtual machine in the left bar. It's probably the only one and it should be running.
+3. Right click on the virtual machine name and select Close > Power Off.
+4. After the machine shuts down, click the green arrow to start it back up again. This time you should see the window open.
+5. LET IT BOOT UP COMPLETELY *before* you start messin' with it. You broke it, you bought it.
+6. Have fun!
+
 ## Table of contents
 
 1. [Best practices for success in Phase Zero](/1-best-practices/) (10 minutes)
