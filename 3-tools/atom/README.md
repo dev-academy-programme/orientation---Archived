@@ -38,3 +38,30 @@ This will create a new file called `index.html` and will open it in the main win
   </figcaption>
 </figure>
 
+Note that we can open many files in tabs. Make a habit of closing files you're not working on! Too many tabs not only clutters your working environment, but uses memory and slows things down. Close any tab you don't need right this minute.
+
+At the bottom of the window is a status bar. Among other things this tells us that there are no issues with this file (Atom checks your work for you, depending on what type of file you're working on). It gives us the file name. It tells us that we are on line 1 at character 1. The `LF` means that we're using Unix line endings, which is a very good thing (LF stands for line feed). UTF-8 is the character encoding (more on this later). ALWAYS use UTF-8. HTML is the type of file.
+
+That last one&mdash;the file type&mdash;means that Atom will "syntax highlight" the code in our file, making it easier to read. As different languages have different syntaxes, Atom needs to know what the language is to highlight it properly.
+
+Let's add some HTML to see the syntax highlighting at work.
+
+<figure>
+  <img src="/images/atom-html.png" alt="Atom html highlighting"><br>
+  <figcaption>
+    <p><strong>Figure 5:</strong> Atom highlighting an HTML file</p>
+  </figcaption>
+</figure>
+
+From the status bar, we can see that our cursor is on line 10 at character 13. As this is just inside the `<header>` element, that element is highlighted. But notice that Atom also highlights the equivalent closing tag. And see the colors? That is syntax highlighting: element tags are one color, attribute names another, attribute values still another, etc.
+
+Note that Atom also provides line numbers in the "gutter" to the left of the index.html file. That's nice, too. And there is "case folding", which allows me to fold up sections of code that I don't want to examine right now:
+
+<figure>
+  <img src="/images/folding.png" alt="Folding"><br>
+  <figcaption>
+    <p><strong>Figure 6:</strong> Folding sections of code</p>
+  </figcaption>
+</figure>
+
+See how the `<header>` element is closed up right now, and see the little > in the gutter next to it. If I mouse over the gutter, I will see a whole line of little arrows like that indicating where I can click to close or open sections of code. This is great for keeping only the part of the code you're working on visible.
