@@ -1,6 +1,6 @@
 # Atom
 
-Atom is a text editor from GitHub. We'll be using it throughout Phase Zero. It's fairly new (so there are occasional bugs), but it's loaded with cool features.
+Atom is a text editor from GitHub. We'll be using it throughout Phase-0. It's fairly new (so there are occasional bugs), but it's loaded with cool features.
 
 To use atom, we'll first `cd` to our `workspace` directory, then we'll open Atom in that directory by typing `atom .` (remember: the `.` is the current directory) and hitting the Enter key.
 

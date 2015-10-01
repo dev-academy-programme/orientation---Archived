@@ -2,7 +2,7 @@
 
 ## DO THIS IMMEDIATELY (it's gonna take a while)
 
-For Phase Zero, we'll be using a "virtual machine". This is a "computer within a computer".
+For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
 Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
@@ -10,13 +10,13 @@ When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an 
 
 The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, rather than spending a lot of time dealing with frustrating computer issues.
 
-That said, running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase Zero. If you can't borrow one, and despite your best efforts the virtual machine won't run on your computer, then let us know and we'll try to help you get set up otherwise.
+That said, running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0. If you can't borrow one, and despite your best efforts the virtual machine won't run on your computer, then let us know and we'll try to help you get set up otherwise.
 
 ## How to set up the box
 
 1. Go to [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and download and install the correct VirtualBox application for your operating system.
 2. Go to [Vagrant](https://www.vagrantup.com/downloads.html) and download and install the correct Vagrant application for your operating system.
-3. From a **terminal**, enter the following line of code to download and run the Phase Zero virtual machine. NOTE: This download will take *hours*, so start it ASAP.
+3. From a **terminal**, enter the following line of code to download and run the Phase-0 virtual machine. NOTE: This download will take *hours*, so start it ASAP.
 
 ```sh
 vagrant init chas/phase-zero; vagrant up --provider virtualbox

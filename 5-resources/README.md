@@ -16,7 +16,7 @@ Throughout your career as a web developer or in a related field, you will often 
 
 The greatest value of Enspiral, after the opportunities to learn soft skills, is the availability of significant and easy-to-find resources. Please don't miss this opportunity to launch your career into the stratosphere.
 
-The biggest resource available to you is your instructors. Throughout Phase Zero, *use the Slack channel to get help*. You can also message instructors directly if it's not something you want to share with the entire channel.
+The biggest resource available to you is your instructors. Throughout Phase-0, *use the Slack channel to get help*. You can also message instructors directly if it's not something you want to share with the entire channel.
 
 ## Resources
 
@@ -27,4 +27,4 @@ The biggest resource available to you is your instructors. Throughout Phase Zero
 - Learn how to use the documentation. Yes, it's a lot of reading. Get used to it now. The API documentation, tutorials, standards, etc. may seem daunting at first, but they will be your best friends when you are stuck on some problem. And let us not forget Google! No one really knows how web developers worked before Google, but we think it may have involved stone knives and bearskin rugs.
 - Learn how to use forums, IRC, gitter, etc. There are many tools out there for you to use to find the answer to your problem. At the top of that list is [StackExchange](http://stackoverflow.com/), usually called "stack overflow". But IRC channels, [gitter channels](https://gitter.im/), [Google forums](https://groups.google.com/forum/#!overview), GitHub issues, and much more are available 24/7 with folks eager to answer your most foolish questions. Don't keep them waiting!
 8. Slack your instructors and teammates! Speak up! As them Romans used to say, [*audentes fortuna iuvat*](https://en.wikipedia.org/wiki/Fortune_favours_the_bold).
-9. Use [Teamtreehouse for interactive videos](http://teamtreehouse.com) and tutorials that compliment the weekly challenge. Treehouse free of charge while in Phase Zero. The treehouse community forums have thousands of users who can also be of help if you are having trouble. Try their [forum](https://teamtreehouse.com/community)
+9. Use [Teamtreehouse for interactive videos](http://teamtreehouse.com) and tutorials that compliment the weekly challenge. Treehouse free of charge while in Phase-0. The treehouse community forums have thousands of users who can also be of help if you are having trouble. Try their [forum](https://teamtreehouse.com/community)
