@@ -4,6 +4,10 @@
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
+> Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us.
+
+> Note: If you are already using Ubuntu, then contact us for instructions. You will not need to install the virtual machine as you'd just be putting Ubuntu on Ubuntu. Not really worth it, eh?
+
 Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
 When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are. It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer.
