@@ -2,7 +2,7 @@
 
 Atom is a text editor from GitHub. We'll be using it throughout Phase-0. It's fairly new (so there are occasional bugs), but it's loaded with cool features.
 
-To use atom, we'll first `cd` to our `workspace` directory, then we'll open Atom in that directory by typing `atom .` (remember: the `.` is the current directory) and hitting the Enter key.
+To use atom, we'll start in the terminal and `cd` to our `workspace` directory. Then open Atom in that directory by entering `atom .` (remember: the `.` is the current directory).
 
 <figure>
   <img src="/images/open-atom.png" alt="Opening Atom"><br>
