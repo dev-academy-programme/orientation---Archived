@@ -10,5 +10,9 @@ You are about to embark on a new learning experience. You will be challenged in 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>. (5 min)
 
 ## Next up:
-[Complete the prep form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform)
-[Table of Contents](/readme.md)
+<a href="https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform" target="_blank">Complete the prep form</a>. <br>
+
+[Table of contents](../readme.md)
+
+
+
