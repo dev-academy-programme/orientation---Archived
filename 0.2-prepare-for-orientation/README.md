@@ -9,5 +9,6 @@ You are about to embark on a new learning experience. You will be challenged in 
 - Identify your
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>. (5 min)
 
-[Next: Complete the prep form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform)
+## Next up:
+[Complete the prep form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform)
 [Table of Contents](readme.md)
