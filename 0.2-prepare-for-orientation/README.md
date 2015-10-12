@@ -12,7 +12,7 @@ You are about to embark on a new learning experience. You will be challenged in 
 ## Next up:
 <a href="https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform" target="_blank">Complete the prep form</a>. <br>
 
-[Table of contents](../readme.md)
+[Table of contents](../README.md)
 
 
 
