@@ -5,7 +5,7 @@ Complete upon acceptance to the programme
 
 1. [Sign up for accounts](/0.1-accounts) (10 minutes)
 2. [Learn about your learning style](0.2-learning-style) (10 minutes)
-3. [Complete the preperation form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) (2 minutes)
+3. [Complete the preparation form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) (2 minutes)
  
 ## Orientation 
 Complete **before** you begin phase-0 start
