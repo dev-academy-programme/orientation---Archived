@@ -61,7 +61,7 @@ Now we're ready to add some basic HTML:
 
 Note that we can open many files in tabs. Make a habit of closing files you're not working on! Too many tabs not only clutters your working environment, but uses memory and slows things down. Close any tab you don't need right this minute.
 
-At the bottom of the window is a status bar. This tells us that the cursor is on Line 10, Column 15. It tells us that our tab key is set to enter two *spaces* (instead of tabs). *You should **always** have this set to 2 spaces!* At some point in your career, you may work using a language or style guide that mandates a different setting, but 2 spaces is very common, and it's what we'll use throughout EDA. It is very important for developers to standardize so that teams can collaborate on code without having to deal with each other's idiosyncrasies.
+At the bottom of the window is a status bar. This tells us that the cursor is on Line 10, Column 15. It tells us that our tab key is set to enter two *spaces* (instead of tabs). *You should always have this set to 2 spaces!* At some point in your career, you may work using a language or style guide that mandates a different setting, but 2 spaces is very common, and it's what we'll use throughout EDA. It is very important for developers to standardize so that teams can collaborate on code without having to deal with each other's idiosyncrasies.
 
 We can set Sublime to default to two spaces. First, open the User settings:
 
