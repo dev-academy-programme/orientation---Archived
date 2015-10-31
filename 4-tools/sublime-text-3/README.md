@@ -83,7 +83,7 @@ This is a JSON file (we told you this might be a little confusing). Just add thi
 
 Thi last thing on the status bar&mdash;the file type, HTML&mdash;means that Sublime will "syntax highlight" the code in our file, making it easier to read. As different languages have different syntaxes, Sublime needs to know what the language is to highlight it properly.
 
-Note that Sublime also provides line numbers in the "gutter" to the left of the index.html file. That's nice, too. And there is "case folding", which allows me to fold up sections of code that I don't want to examine right now. We can click on those little triangles that appear when we hover over the gutter with the mouse. This will expand and collapse sections of code. Another reason it is so important to *indent your code properly*. We'll be focusing on good syntax, proper naming, and good indentation and use of "whitespace" throughout this course.
+Note that Sublime also provides line numbers in the "gutter" to the left of the index.html file. That's nice, too. And there is "case folding", which allows us to fold up sections of code that we don't want to examine right now. We can click on those little triangles that appear when we hover over the gutter with the mouse. This will expand and collapse sections of code. Another reason it is so important to *indent your code properly*. We'll be focusing on good syntax, proper naming, and good indentation and use of "whitespace" throughout this course.
 
 <figure>
   <img src="/images/sublime-collapsed.png" alt="Collapsed sections in Sublime"><br>
@@ -92,7 +92,7 @@ Note that Sublime also provides line numbers in the "gutter" to the left of the 
   </figcaption>
 </figure>
 
-See how the `<head>` and `<body>` elements are closed up right now, and see the little ... next to them. If I mouse over the gutter, I will see a whole line of little triangles like that indicating where I can click to close or open sections of code. This is great for keeping only the part of the code you're working on visible. *Clutter is the enemy of good code!* The human mind can only handle so much input. Reduce clutter every chance you get and you will do better, faster work, and you'll enjoy it more.
+See how the `<head>` and `<body>` elements are closed up right now, and see the little ... next to them. If we mouse over the gutter, we will see a whole line of little triangles like that indicating where we can click to close or open sections of code. This is great for keeping only the part of the code you're working on visible. *Clutter is the enemy of good code!* The human mind can only handle so much input. Reduce clutter every chance you get and you will do better, faster work, and you'll enjoy it more.
 
 Again, clean, well-written, uncluttered code written in a comfortable, uncluttered environment free from distractions *cannot be stressed too highly!* Begin making great habits from Day One.
 
