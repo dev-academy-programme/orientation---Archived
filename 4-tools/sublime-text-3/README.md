@@ -83,8 +83,6 @@ This is a JSON file (we told you this might be a little confusing). Just add thi
 
 Thi last thing on the status bar&mdash;the file type, HTML&mdash;means that Sublime will "syntax highlight" the code in our file, making it easier to read. As different languages have different syntaxes, Sublime needs to know what the language is to highlight it properly.
 
-From the status bar, we can see that our cursor is on line 10 at character 13. As this is just inside the `<header>` element, that element is highlighted. But notice that Sublime also highlights the equivalent closing tag. And see the colors? That is syntax highlighting: element tags are one color, attribute names another, attribute values still another, etc.
-
 Note that Sublime also provides line numbers in the "gutter" to the left of the index.html file. That's nice, too. And there is "case folding", which allows me to fold up sections of code that I don't want to examine right now. We can click on those little triangles that appear when we hover over the gutter with the mouse. This will expand and collapse sections of code. Another reason it is so important to *indent your code properly*. We'll be focusing on good syntax, proper naming, and good indentation and use of "whitespace" throughout this course.
 
 <figure>
