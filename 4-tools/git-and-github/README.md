@@ -96,4 +96,4 @@ These lessons will walk you through installing Git on your system. If you choose
 - Watch/try: [How to Use Git and GitHub 1: Install Git and Basic Commands](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
 - Watch/try: [Treehouse Git Basics](https://teamtreehouse.com/library/git-basics). This is a treehouse course and is only accessible with an account. As a phase-0 student you will be given access to treehouse when you begin phase-0.
 
-*Next step: See [Git and Github weekly workflow](/using-github-druing-phase-0.md)
+*Next step: See [Git and Github weekly workflow](using-github-during-phase-0.md)*
