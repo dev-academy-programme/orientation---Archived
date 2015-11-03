@@ -4,7 +4,7 @@
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
-> Note: Vagrant and VirtualBox will take up less than 300 MB total, we think. The real cost here is the virtual machine, which can take up to 10 GB or more. See the note below. Download times seem to be averaging around 40 minutes for us. Your mileage may vary, as they say.
+> Note: Vagrant and VirtualBox will take up less than 300 MB total, we think. The real cost here is the virtual machine, which can take up to 10 GB or more. See the note below. Download times seem to be averaging around 2 hours for us, though we've seen under an hour. Your mileage may vary, as they say. Actual download should be around 4 GB, altogether.
 
 > Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. You'll also need at least 10 GB of space with room to breathe. Figure 15-20 GB is probably best. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us. If you don't have room, please try to move things off your drive, possibly to the cloud or a remote drive, in order to make room. Contact us if you have problems.
 
@@ -20,7 +20,7 @@ That said, running two computers on one set of hardware does put a little strain
 
 1. Go to [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and download and install the correct VirtualBox application for your operating system.
 2. Go to [Vagrant](https://www.vagrantup.com/downloads.html) and download and install the correct Vagrant application for your operating system.
-3. From a **terminal**, enter the following line of code to download and run the Phase-0 virtual machine. NOTE: This download will take *hours*, so start it ASAP.
+3. From a **terminal**, enter the following line of code to download and run the Phase-0 virtual machine. NOTE: This download will probably take a couple hours, but could take considerably less if you have a really fast connection. Be prepared for a wait, and ​*start it now*​.
 
 ```sh
 vagrant init eda/phase-zero; vagrant up
