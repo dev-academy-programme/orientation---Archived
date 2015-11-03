@@ -28,6 +28,6 @@ We recommend you be familar with these tools/technologies
 4. [Javascript](8-practice#javascript)
 5. [HTML/CSS](8-practice#html-and-css)
 
-## Additional information
+## Important information
 
-1. [Useful course information](/9-information)
+1. [Code of conduct, staff contact, Learning strategies etc](/9-information)
