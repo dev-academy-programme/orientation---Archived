@@ -31,4 +31,4 @@ We recommend you be familiar with these tools/technologies
 ## Important information
 Important information including policies, contact lists, learning strategies etc.
 
-1. [Important supplementary information](/9-information)
+1. [Important course information](/9-information)
