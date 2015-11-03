@@ -2,7 +2,7 @@
 
 Sublime Text 3 (hereafter, "Sublime") is a very popular GUI text editor. We'll be using it throughout Phase-0. It's loaded with cool features, though working with it can sometimes be confusing.
 
-To use Sublime, we'll first `cd` to our `workspace` directory, then we'll clone our repository into our workspace (you learned how to do this in the [Git and GitHub](/4-tools/git-and-github/using-github-during-phase-0.md) lesson)
+To use Sublime, we'll first `cd` to our `workspace` directory, then we'll clone our repository into our workspace (you learned how to do this in the [Git and GitHub](/4-tools/git-and-github/) lesson)
 
 Next, we'll open Sublime in that directory by typing `subl .` (remember: the `.` is the current directory) and hitting the Enter key.
 
@@ -98,7 +98,6 @@ Again, clean, well-written, uncluttered code written in a comfortable, unclutter
 
 Play around with Sublime until you're comfortable with it. We'll be using it a lot, and not just for HTML.
 
-
 # Sublime Shortcuts
 Here is a reference for Sublime Text shortcuts pick 1 or 2 every time you start a challenge
 
@@ -131,3 +130,4 @@ cmd + / comment or uncomment selected text/line.
 cmd + [ or ] indent or un-indent line or selected lines.
 
 cmd + shift + p open command prompt.
+
