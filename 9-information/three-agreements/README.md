@@ -36,7 +36,7 @@ We expect everyone to complete the assigned challenges, but we want to reinforce
 
 **Not meeting these agreements are grounds for being asked to leave the program (at any phase).**
 
-We will send periodic updates to those of you who have not submitted your work, missed a Guided Pairing Session (GPS), or have fallen out of integrity in other ways. These emails are not meant to shame. Rather, we simply want to remind you of your agreement to come to EDA in integrity, with kindness, and with effort everyday. We want to give everyone the opportunity to meet these agreements.
+We will send periodic updates to those of you who have not submitted your work or have fallen out of integrity in other ways. These emails are not meant to shame. Rather, we simply want to remind you of your agreement to come to EDA in integrity, with kindness, and with effort everyday. We want to give everyone the opportunity to meet these agreements.
 
 However, we recognise that life happens which can make it impossible to complete every challenge. In these situations, it's vital that you communicate with staff regularly to create a personal action plan that will get you on back on track.  At Dev Academy, we hold a very high bar to measure your success and we expect that you leverage all the supports we provide to help you get there - teachers, tutors and your fellow cohort mates.
 
