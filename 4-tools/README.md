@@ -2,7 +2,7 @@
 
 Just as carpenters, surgeons, blacksmiths, and accountants need their tools, so do web developers.
 
-The Enspiral course is very hands on. You'll be writing code almost from day one, and you'll be doing it using the same tools that professional web developers use&mdash;because you are a professional, right?
+The Enspiral Dev Academy course is very hands on. You'll be writing code almost from day one, and you'll be doing it using the same tools that professional web developers use.
 
 1. [Vagrant](/4-tools/vagrant/)
 2. [Terminal](/4-tools/terminal/)

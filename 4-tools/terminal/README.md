@@ -1,4 +1,4 @@
-# The terminal / Console
+# The Console (aka Terminal, Shell, Prompt)
 
 The Console is another way of interacting with your computer. Instead of working with windows, toolbars,
 menus, and buttons, you're just interacting with text.
@@ -7,7 +7,12 @@ You perform actions by writing commands, and you get your information back from 
 You'll be using the terminal regularly throughout your career as a developer.
 
 # Why the console?
+Websites and web applications will be deployed on remote computers called servers and most of the time, the only way to interact directly with these machines is to use a command line over a remote connection called SSH.
+The fact is, it's hard to avoid running into the console.
 
+And why would you want to? Once you become familiar with the environment, reaching for your mouse to mess with some menu will seem like a big waste of time when you could just type a couple of words and be done with it.
+
+Most operating systems actually provide a console or a command prompt in some form or another - for example, Mac uses "Terminal".
 
 
 Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument.
