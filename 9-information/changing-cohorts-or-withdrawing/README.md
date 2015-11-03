@@ -9,9 +9,9 @@ Here are a few things to note if you are considering repeating a Unit of Phase 0
 * You must re-do all challenges for the weeks you are repeating.
 * EDA can ask a student to repeat if they have not met the expectations to a reasonable standard
 * EDA reserves the right to restrict the number of times a student repeats a phase.
+* You will need to complete the [change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
 
-If repeating is an option you want to explore more, please message Jaime [mailto:jaime@devacademy.co.nz]
-Students must complete the [change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
+If repeating is an option you want to explore more, please message Jaime <mailto:jaime@devacademy.co.nz>  
 
 ## Deferring to a Later Cohort
 
