@@ -1,4 +1,4 @@
-For general information about Git and GitHub see [git and GitHub intro](../git-and-GitHub)
+For general information about Git and GitHub see [git and GitHub intro](../git-and-github)
 
 # GitHub
 
