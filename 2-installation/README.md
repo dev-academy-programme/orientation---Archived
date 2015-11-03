@@ -4,9 +4,11 @@
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
-> Note: Vagrant and VirtualBox will take up less than 300 MB total, we think. The real cost here is the virtual machine, which can take up to 10 GB or more. See the note below. Download times seem to be averaging around 2 hours for us, though we've seen under an hour. Your mileage may vary, as they say. Actual download should be around 4 GB, altogether.
+> Note: Altogether, the virtual machine (VM) and applications, plus a snapshot will take around 14 GB. Figure 15 to be safe. You'll need room, too, so you should have at least 20 GB or more free space on your computer before you start. See the note below. Download times seem to be averaging around 2 hours for us, though we've seen under an hour. Your mileage may vary, as they say. Actual download should be around 4 GB, altogether.
 
-> Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. You'll also need at least 10 GB of space with room to breathe. Figure 15-20 GB is probably best. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us. If you don't have room, please try to move things off your drive, possibly to the cloud or a remote drive, in order to make room. Contact us if you have problems.
+> Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. You'll also need at least 20 GB of space to have room to breathe.
+
+> If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade your OS or contact us. If you don't have room, please try to move things off your drive, possibly to the cloud or a remote drive, in order to make room. Contact us if you have problems.
 
 Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
