@@ -1,25 +1,18 @@
-# The Console (aka Terminal, Shell, Prompt)
+# The command line (a.k.a Terminal, Shell, Prompt)
 
-The Console is another way of interacting with your computer. Instead of working with windows, toolbars,
-menus, and buttons, you're just interacting with text.
+The command line is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
 You perform actions by writing commands, and you get your information back from the computer in the form of text.
-You'll be using the terminal regularly throughout your career as a developer.
+Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
-# Why the console?
-Websites and web applications will be deployed on remote computers called servers and most of the time, the only way to interact directly with these machines is to use a command line over a remote connection called SSH.
-The fact is, it's hard to avoid running into the console.
-
-And why would you want to? Once you become familiar with the environment, reaching for your mouse to mess with some menu will seem like a big waste of time when you could just type a couple of words and be done with it.
-
-Most operating systems actually provide a console or a command prompt in some form or another - for example, Mac uses "Terminal".
+# Practicing the command line
+Both these tutorials can help you get more familar with the command line 
+- [Read/do: The command line crash course](http://cli.learncodethehardway.org/book/)
+- [Read/do: Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
 
 
-Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument.
-
-Conversely, you can use the terminal sparingly and only when necessary, and then use graphical user interface (GUI) applications for most of your work. Because time is limited in this course, we'll focus on the GUI applications and will make minimal use of the terminal. But feel free to practice in your spare time if you want to become a command line wizard.
-
-There are a small set of commands you'll need to get started with the terminal.
+# Common commands: 
+Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument. There are a small set of commands you'll need to get started with the terminal.
 
 ## pwd
 
