@@ -10,5 +10,11 @@ All students are provided a personal Treehouse account during phase-0. This is t
 - Watch treehouse videos in half the time by altering the playback speed
 
 
-![treehouse playback speed](images/treehouse-speed.png)
+
+<figure>
+  <img src="/images/treehouse-speed.png" alt="Change the speed of video playback"><br>
+  <figcaption>
+    <p><strong>Figure 3:</strong> treehouse speed</p>
+  </figcaption>
+</figure>
 
