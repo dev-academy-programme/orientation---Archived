@@ -1,20 +1,18 @@
 # Virtual machine installation and set up
 
-## DO THIS IMMEDIATELY (it's gonna take a while)
+## DO THIS IMMEDIATELY (it will take a little while to download)
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
 > Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us.
 
-> Note: If you are already using Ubuntu, then contact us for instructions. You will not need to install the virtual machine as you'd just be putting Ubuntu on Ubuntu. Not really worth it, eh?
-
 Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
-When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are. It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer.
+When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer.
 
-The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, rather than spending a lot of time dealing with frustrating computer issues.
+The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, rather than spending a lot of time dealing with frustrating computer issues. Another good reason is that a *lot* of web development these days involves using virtual machines. So get used to it now.
 
-That said, running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0. If you can't borrow one, and despite your best efforts the virtual machine won't run on your computer, then let us know and we'll try to help you get set up otherwise.
+That said, running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0. If you can't borrow one, and despite your best efforts the virtual machine won't run on your computer, then let us know and we'll try to help you get set up otherwise. But using the VM is by far our preference.
 
 ## How to set up the box
 
@@ -23,7 +21,7 @@ That said, running two computers on one set of hardware does put a little strain
 3. From a **terminal**, enter the following line of code to download and run the Phase-0 virtual machine. NOTE: This download will take *hours*, so start it ASAP.
 
 ```sh
-vagrant init chas/phase-zero; vagrant up --provider virtualbox
+vagrant init eda/phase-zero; vagrant up
 ```
 
 ### Whoa! What is this "terminal" of which you speak?
@@ -36,7 +34,7 @@ If you're on Linux, we're betting you're already quite familiar with the termina
 
 On Windows, the terminal is generally called the "command prompt" or "command line". Open the Command Prompt window by clicking the Start button, clicking All Programs, clicking Accessories, and then clicking Command Prompt.
 
-**PLEASE LET US KNOW IMMEDIATELY IF YOU ARE HAVING TROUBLE WITH INSTALLING THE VIRTUAL MACHINE**. The good news is that this is probably the most difficult part of the course: installing things. Somehow it never really gets easier.
+**PLEASE LET US KNOW IMMEDIATELY IF YOU ARE HAVING TROUBLE WITH INSTALLING THE VIRTUAL MACHINE**. The good news is that this is probably the most difficult part of the course: installing things. Somehow it never really gets any easier.
 
 Now follow the links below (while your virtual box is downloading) to complete the orientation.
 
@@ -46,9 +44,15 @@ It's possible that after the virtual machine downloads and starts, you won't see
 
 1. Open VirtualBox (it's in your applications, right?).
 2. Find the virtual machine in the left bar. It's probably the only one and it should be running.
-3. Right click on the virtual machine name and select Close > Power Off.
-4. After the machine shuts down, click the green arrow to start it back up again. This time you should see the window open.
-5. LET IT BOOT UP COMPLETELY *before* you start messin' with it. You broke it, you bought it.
+3. If the virtual machine is running, then click the big green arrow that says "Show". If it's not running, click the big green arrow that says "Start".
+4. LET IT BOOT UP COMPLETELY *before* you start messin' with it. You broke it, you bought it. (Just kidding. It's free!)
+5. Hey, let's take a "snapshot" of the machine so that if you do somehow break it, you can just back up to your snapshot and all good again!
+  1. Open VirtualBox if it's not open already.
+  2. Click on the "Snapshots" toggle button in the upper corner of the VB window.
+  3. Click on the little icon that looks like a camera (sort of).
+  4. Give your snapshot a name, such as "Clean install" or something like that.
+  5. Click OK to save your snapshot. Now, if you ever install something that gives your VM indigestion, you can just back up to this snapshot.
+  6. We *strongly* recommend that you do not spend a lot of time installing extra things or customizing this setup. And keep all your work in GitHub repositories, committed and pushed up as frequently as possible. That way you're effectively backing up your work. Now, if you need to switch back to a snapshot, you won't lose everything. Nice, eh?
 6. Have fun!
 
 ## Resources
