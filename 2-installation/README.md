@@ -4,7 +4,9 @@
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
 
-> Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us.
+> Note: Vagrant and VirtualBox will take up less than 300 MB total, we think. The real cost here is the virtual machine, which can take up to 10 GB or more. See the note below. Download times seem to be averaging around 40 minutes for us. Your mileage may vary, as they say.
+
+> Note: Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. You'll also need at least 10 GB of space with room to breathe. Figure 15-20 GB is probably best. If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade or contact us. If you don't have room, please try to move things off your drive, possibly to the cloud or a remote drive, in order to make room. Contact us if you have problems.
 
 Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
@@ -30,13 +32,15 @@ The terminal is essentially a window directly into your operating system. It run
 
 On a Mac, you can find the terminal in your Applications/Utilities folder.
 
-If you're on Linux, we're betting you're already quite familiar with the terminal.
+If you're on Linux, we're betting you're already quite familiar with the terminal. Please download and install the VM *no matter what operating system you're currently on*. It's for your own safety!
 
 On Windows, the terminal is generally called the "command prompt" or "command line". Open the Command Prompt window by clicking the Start button, clicking All Programs, clicking Accessories, and then clicking Command Prompt.
 
 **PLEASE LET US KNOW IMMEDIATELY IF YOU ARE HAVING TROUBLE WITH INSTALLING THE VIRTUAL MACHINE**. The good news is that this is probably the most difficult part of the course: installing things. Somehow it never really gets any easier.
 
 Now follow the links below (while your virtual box is downloading) to complete the orientation.
+
+While downloading, try not to lose your connection. It shouldn't take long to download&mdash;it seems to be averaging well under an hour. If you do lose the connection, just run `vagrant up` in the terminal to restart it.
 
 ### OK, it's done downloading. Now WHERE IS IT?
 
