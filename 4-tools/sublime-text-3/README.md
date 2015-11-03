@@ -2,7 +2,7 @@
 
 Sublime Text 3 (hereafter, "Sublime") is a very popular GUI text editor. We'll be using it throughout Phase-0. It's loaded with cool features, though working with it can sometimes be confusing.
 
-To use Sublime, we'll first `cd` to our `workspace` directory, then we'll clone our repository into our workspace (you learned how to do this in the [Git and GitHub](/4-tools/git-and-github/) lesson)
+To use Sublime, we'll first `cd` to our `workspace` directory, then we'll clone our repository into our workspace (you learned how to do this in the [Git and GitHub](/4-tools/git-and-github/using-github-during-phase-0.md) lesson)
 
 Next, we'll open Sublime in that directory by typing `subl .` (remember: the `.` is the current directory) and hitting the Enter key.
 
