@@ -6,7 +6,7 @@ For Phase-0, we'll be using a "virtual machine". This is a "computer within a co
 
 When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer. Running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0.
 
-## Requirements 
+## Requirements: 
 * A laptop that was purchased within the last 4 years (not a Chromebox or tablet) - if you don't own / can't borrow a reasonably new laptop, please contact us immediately.
 * A stable internet connection - the virtual machine needs to be downloaded in one session. You can not pause the download
 * A minimum of 2 hours to download - (time may vary) 
