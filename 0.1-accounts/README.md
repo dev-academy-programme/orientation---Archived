@@ -1,5 +1,7 @@
 # Create Accounts!
-Welcome to Ensprial Dev Academy (EDA)!!
+
+
+Ngā mihi nui kia koutou katoa! Warm greetings to you all! Welcome to Dev Academy.
 
 You will need to set up each of these accounts before starting Phase 0. The general rule of thumb is to **use your first name as part of your username wherever possible** and include a photo of yourself (i.e. not your cat or bike). This helps us (the EDA community of staff, teachers, coaches and alumni) to better support you.
 
@@ -12,7 +14,7 @@ You will need to set up each of these accounts before starting Phase 0. The gene
 ## Accept Invitations
 Inviations are sent out 2-5 days before phase-0 begin. Only then will these links work.
 
-- [Slack](/slack.md): Slack is where cohort communications and technical support happens.**Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material.
+- [Slack](/slack.md): Slack is where cohort communications and technical support happens. **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material.
 
 - [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
 
