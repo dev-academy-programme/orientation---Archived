@@ -1,6 +1,6 @@
-# Prepare for day-one 
+# Prepare for introduction session
 
-## Virtual orientation
+## Virtual orientation (introduction session)
 On day one of phase-0, we will host two **virtual** orientations via google hangouts. These are typically at 1pm and 6pm and last for 45 minutes. Your facilitator will confirm the time. It is necessary to participate in **either** of the sessions, but not both.
 
 ## Personal preparation (optional)

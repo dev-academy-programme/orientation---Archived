@@ -10,3 +10,5 @@ The Enspiral Dev Academy course is very hands on. You'll be writing code almost 
 4. [Sublime Text 3](/4-tools/sublime-text-3/)
 5. [Git and GitHub](/4-tools/git-and-github/)
 6. [Git and GitHub weekly workflow](/4-tools/git-and-github/using-github-during-phase-0.md)
+7. [Slack](/4-tools/slack)
+8. [Teamtreehouse](/4-tools/treehouse)

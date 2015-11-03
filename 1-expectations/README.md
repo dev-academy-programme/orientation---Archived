@@ -19,7 +19,7 @@ Pair programming has gained in popularity among companies by enabling developers
 
 While it is not mandatory, we recommend pairing twice per week, but that is up to you.
 
-For more information on how to pair see [Pairing in Phase-0][1] in the student handbook.
+For more information on how to pair see [Pairing](../9-pairing)
 
 ## Show up with Integrity, Kindness and Effort
 
@@ -27,7 +27,8 @@ At EDA, we are asking you to do a crazy thing: learn how to be a web developer w
 
 To outline these rules we have three agreements that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
 
-Please read about [The Three Agreements][2] in the student handbook.
+Please read about [The Three Agreements](../9-3-agreements).
 
-[1]:	https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/pairing-in-phase-0.md
-[2]:	https://github.com/dev-academy-phase0/phase-0-handbook/blob/master/pillars.md
+## Learning strategies
+Read more about our approach to eductation in the [Learning strategies section](../9-learning-strategies)
+
