@@ -1,16 +1,22 @@
-# The terminal
+# The command line (a.k.a Terminal, Shell, Prompt)
 
-You'll be using the terminal regularly throughout your career as a developer.
+The command line is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
-Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument.
+You perform actions by writing commands, and you get your information back from the computer in the form of text.
+Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
-Conversely, you can use the terminal sparingly and only when necessary, and then use graphical user interface (GUI) applications for most of your work. Because time is limited in this course, we'll focus on the GUI applications and will make minimal use of the terminal. But feel free to practice in your spare time if you want to become a command line wizard.
+# Practicing the command line
+Both these tutorials can help you get more familiar with the command line
+- [Read/do: The command line crash course](http://cli.learncodethehardway.org/book/)
+- [Read/do: Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
 
-There are a small set of commands you'll need to get started with the terminal.
+
+# Common commands:
+Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument. There are a small set of commands you'll need to get started with the terminal.
 
 ## pwd
 
-You can use the "print working directory" command, `pwd`, to see which directory you are currently working in. The terminal is always pointing to a particular directory (folder) in your filesystem. Often, you'll see an indication of this directory in the "prompt": the text immediately above and/or to the left of the line on which you type. The "prompt" (to prompt you to type) varies depending on how your terminal is set up, but it appears every time it's your turn to type. The simplest prompt is just `$`.
+You can use the "print working directory" command, `pwd`, to see which directory you are currently working in. The terminal is always pointing to a particular directory (folder) in your file system. Often, you'll see an indication of this directory in the "prompt": the text immediately above and/or to the left of the line on which you type. The "prompt" (to prompt you to type) varies depending on how your terminal is set up, but it appears every time it's your turn to type. The simplest prompt is just `$`.
 
 Here's an example of running `pwd` on the virtual machine you're currently downloading:
 
@@ -38,7 +44,7 @@ So we can move multiple folders at once by stringing them together with /:
   </figcaption>
 </figure>
 
-Here we went down into the `workspace` folder (which is a subfolder in the current foldler), then back up two folders to the parent of the current folder, and then back into the current folder (`/home/dev`&mdash;our "home" folder). Which leaves us . . . wait for it . . . *right back where we started!* Why would we do this? We wouldn't. It's pointless.
+Here we went down into the `workspace` folder (which is a sub-folder in the current folder), then back up two folders to the parent of the current folder, and then back into the current folder. Which leaves us . . . right back where we started! Why would we do this? We wouldn't. It's pointless.
 
 But nevertheless there *is* a point here, which is that we can combine folder names and .. to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
 

@@ -22,7 +22,7 @@ Previous students have reported the following benefits, among others:
   <figcaption><p><em>Search Inside Yourself</em></p></figcaption>
 </figure>
 
-Some of what we will be referencing is included in *Search Inside Yourself*, which you will be expected to read and utilize throughout Phase-0, and, indeed, throughout the onsite course as well.
+Some of what we will be referencing is included in *Search Inside Yourself*, which you will be expected to read and utilize throughout Phase-0, and, indeed, throughout the on-site course as well.
 
 You can find a copy we've shared with you in your [Google Drive](https://drive.google.com/drive/my-drive) by searching for 'search inside'.
 

@@ -48,7 +48,7 @@ While downloading, try not to lose your connection. It shouldn't take long to do
 
 It's possible that after the virtual machine downloads and starts, you won't see a window. This happened to me on my Linux machine. What a pain, eh? So here's how to handle that if it happens:
 
-1. Open VirtualBox (it's in your applications, right?).
+1. Open VirtualBox (it's in your applications).
 2. Find the virtual machine in the left bar. It's probably the only one and it should be running.
 3. If the virtual machine is running, then click the big green arrow that says "Show". If it's not running, click the big green arrow that says "Start".
 4. LET IT BOOT UP COMPLETELY *before* you start messin' with it. You broke it, you bought it. (Just kidding. It's free!)
