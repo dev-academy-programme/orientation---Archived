@@ -96,18 +96,17 @@ Half way through each pairing session you and your pair should switch roles if y
 ## Successful Pairing
 Successful pairing requires two components:
 
-1. Good Communication
+**Good Communication**  
 Good communication during pairing is mainly through vocalizing your thoughts and thought process.
-
 - If you don't understand, you should tell your partner.
 - If you want to try something in IRB or NETRepl, tell your pair.
 - If you want to go research something, tell your partner.
 *Tell your partner everything you are thinking and doing!*
 
-2. Being on the same page
+**Being on the same page**  
 Both people should know the exact line of code and the solution or concept they are discussing.
 
-**Good pairing sessions feel like a conversation**.
+*Good pairing sessions feel like a conversation.*
 
 
 ## Remote pairing
