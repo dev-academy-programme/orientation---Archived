@@ -14,7 +14,7 @@ So to conclude, Github is a tool that you download and Github is a service that 
 During your Dev Academy experience (and for the most part of your web development career) you will be using Git and Github daily.
 **During Phase-0 you will be using a virtual machine that has git already installed.** Nonetheless there is nothing stopping you from downloading Git and having a play around with it on your local (not virtual) machine.
 
-While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamilar with the command line interface please see the section in tools [console](/console/readme.md)
+While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamilar with the command line interface please see the tools section - [command line interface](../terminal) 
 
 ## Why use Git
 Without Git or another form of version control system (VCS), being a webdeveloper would be signifcantly more painful day to day. Using a
