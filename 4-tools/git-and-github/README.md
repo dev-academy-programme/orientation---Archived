@@ -53,7 +53,7 @@ looked like this time last week, last month, last year? Git will let you do all 
 `Branch:` How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project.
 
 ### Git-Specific Commands
-* Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)*
+*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)*
 
 Since Git was designed with a big project like Linux in mind, there are a lot of Git commands. However, to use the basics of Git, you’ll only need to know a few terms. They all begin the same way, with the word “git.”
 
@@ -96,3 +96,4 @@ These lessons will walk you through installing Git on your system. If you choose
 - Watch/try: [How to Use Git and GitHub 1: Install Git and Basic Commands](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
 - Watch/try: [Treehouse Git Basics](https://teamtreehouse.com/library/git-basics). This is a treehouse course and is only accessible with an account. As a phase-0 student you will be given access to treehouse when you begin phase-0.
 
+*Next step: See [Git and Github weekly workflow](/using-github-druing-phase-0.md)

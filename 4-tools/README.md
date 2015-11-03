@@ -9,3 +9,4 @@ The Enspiral course is very hands on. You'll be writing code almost from day one
 3. [Chrome Developer Tools](/4-tools/chrome-dev-tools/)
 4. [Sublime Text 3](/4-tools/sublime-text-3/)
 5. [Git and GitHub](/4-tools/git-and-github/)
+6. [Git and GitHub weekly workflow](/4-tools/git-and-github/using-github-during-phase-0.md)
