@@ -1,6 +1,13 @@
 # Chrome Developer Tools
 
+The Developer Tools in Google Chrome is a web app that helps web developers debug problems and try new things quickly. Other browsers have similar features, but many designers and developers prefer Chrome for its robust developer tools and support of web standards. 
+
 The Chrome web browser contains a host of tools that make your life as a developer much easier. Take the time to get to learn them and you'll relieve or mitigate a lot of the pain of web development, allowing you to focus on the pleasure.
+
+## Developer Tools in Action
+Both these free tutorials are an excellent introduction to Dev tools. Watch and follow along or read the over overview below:
+- [Watch: A re-introduction to Dev tools](http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/)
+- [Try: Discover Dev Tools](http://discover-devtools.codeschool.com/)
 
 <figure>
   <img src="/images/chrome.png" alt="Chrome"><br>
