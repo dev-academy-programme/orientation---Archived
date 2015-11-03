@@ -30,5 +30,5 @@ To outline these rules we have three agreements that guide the actions of everyo
 Please read about [The Three Agreements](../9-3-agreements).
 
 ## Learning strategies
-Read more about our approach to eductation in the [Learning strategies section](../9-learning-strategies)
+Read more about our approach to eductation in the [Learning strategies section](../9-information-learning-strategies)
 
