@@ -15,13 +15,13 @@ You can use the "print working directory" command, `pwd`, to see which directory
 Here's an example of running `pwd` on the virtual machine you're currently downloading:
 
 <figure>
-  <img src="/images/pwd.png" alt="The pwd command"><br>
+  <img src="../../images/pwd.png" alt="The pwd command"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> pwd</p>
   </figcaption>
 </figure>
 
-Notice how the prompt (vagrant@vagrant-VirtualBox:~$) comes right back again? That's why we call it the *prompt*. Also notice that after we typed `pwd` and hit Enter, the terminal responded by outputting the current working directory (/home/vagrant) to the next line. That's how the terminal works.
+Notice how the prompt (dev@eda: ~) comes right back again? That's why we call it the *prompt*. (Uh, not because it comes back quickly, but because it keeps prompting you for input.) Also notice that after we typed `pwd` and hit Enter, the terminal responded by outputting the current working directory (/home/dev) to the next line. That's how the terminal works.
 
 Let's try a few more commands:
 
@@ -32,18 +32,18 @@ We can move up or down directories (folders) by calling "change directory" (`cd`
 So we can move multiple folders at once by stringing them together with /:
 
 <figure>
-  <img src="/images/cd-circles.png" alt="The cd command"><br>
+  <img src="../../images/cd-circles.png" alt="The cd command"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> cd</p>
   </figcaption>
 </figure>
 
-Here we went down into the `workspace` folder (which is a subfolder in the current foldler), then back up two folders to the parent of the current folder, and then back into the current folder. Which leaves us . . . right back where we started! Why would we do this? We wouldn't. It's pointless.
+Here we went down into the `workspace` folder (which is a subfolder in the current foldler), then back up two folders to the parent of the current folder, and then back into the current folder (`/home/dev`&mdash;our "home" folder). Which leaves us . . . wait for it . . . *right back where we started!* Why would we do this? We wouldn't. It's pointless.
 
-But there is a point here, which is that we can combine folder names and .. to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
+But nevertheless there *is* a point here, which is that we can combine folder names and .. to move all through the folder hierarchy with a single command. Now let's `cd` into our `workspace` folder. This is where you'll do all your work for this course. Keep it all here.
 
 <figure>
-  <img src="/images/cd-workspace.png" alt="Change directory to workspace"><br>
+  <img src="../../images/cd-workspace.png" alt="Change directory to workspace"><br>
   <figcaption>
     <p><strong>Figure 3:</strong> cd workspace</p>
   </figcaption>
@@ -51,27 +51,27 @@ But there is a point here, which is that we can combine folder names and .. to m
 
 Hey, look! Our prompt has changed. What does all that mean, anyway?
 
-Well, "vagrant" is our username and "vagrant-VirtualBox" is the name of our computer. Remind me next time to choose a shorter name for the computer!
+Well, "dev" is our username and "eda" is the name of our computer.
 
-The tilde (~) represents our home folder, in this instance `/home/vagrant`. And we're now in the `workspace` folder *inside* our home folder, hence `~/workspace`. And the $ is the standard prompt.
+The tilde (~) represents our home folder, in this instance `/home/dev`. And we're now in the `workspace` folder *inside* our home folder, hence `~/workspace`. And the $ is the standard prompt. This will change if we start an application, such as a JavaScript REPL (read, evaluate, print loop), but we'll explain that when we come to it.
 
 ## ls
 
 What if we want to list the files and folders in this folder? We can do that with the list (`ls`) command. If we want to see more than just the names, we can add "flags" to the command, preceded with a hyphen. The `a` flag means "all": show all the files, even the hidden ones (files with names starting with a `.` are hidden usually). The "l" flag means use a long listing format, which gives us extra information. We can combine them thus:
 
 <figure>
-  <img src="/images/ls-al.png" alt="The ls -al command"><br>
+  <img src="../../images/ls-al.png" alt="The ls -al command"><br>
   <figcaption>
     <p><strong>Figure 4:</strong> ls and ls -al</p>
   </figcaption>
 </figure>
 
-Notice that the `ls` command didn't return anything. That's because our folder is currently empty. But when I use the `-a` flag, I see the hidden files and folders (beginning with `.`), too. That includes&mdash;and this is no accident&mdash;the current folder `.` and the parent folder `..`.
+Notice that the `ls` command didn't return anything. That's because our folder is currently empty. But when I use the `-a` flag, I see the hidden files and folders (beginning with `.`), too. That includes&mdash;and it is no accident that these both start with a dot&mdash;the current folder `.` and the parent folder `..`.
 
 By using the `-l` flag as well, I tell the terminal to list more information. So here I see this line for the current folder:
 
 ```bash
-drwxrwxr-x  2 vagrant vagrant 4096 Sep 26 22:27 .
+drwxrwxr-x  2 dev dev 4096 Sep 26 22:27 .
 ```
 
 This tells me a lot, actually, though you don't need to know it all.
@@ -81,8 +81,8 @@ This tells me a lot, actually, though you don't need to know it all.
 - `rwx` the second time means that the group to which the owner belongs also has read, write, and execute privileges
 - `r-x` means that all other users can read or execute, but cannot write to this folder
 - `2` no one really knows what this number means; it probably just got lost and wandered in here for company
-- `vagrant` the first time is the user
-- `vagrant` the second time is the group
+- `dev` the first time is the user
+- `dev` the second time is the user's "group"
 - `4096` is the file size in bytes
 - `Sep 26 22:27` is an indication that the author was doing this at the very last minute
 - `.` is the name of the folder: the *current* folder
