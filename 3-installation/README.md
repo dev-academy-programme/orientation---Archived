@@ -2,21 +2,33 @@
 
 ## DO THIS IMMEDIATELY (it will take a little while to download)
 
-For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer".
+For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer". Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
+When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer. Running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0.
+
+## Requirements: 
+* A laptop that was purchased within the last 4 years (not a Chromebox or tablet) - if you don't own / can't borrow a reasonably new laptop, please contact us immediately.
+* A stable internet connection - the virtual machine needs to be downloaded in one session. You can not pause the download
+* A minimum of 2 hours to download - (time may vary) 
+* A minimum of 25GB of free space
+* A minimum of 4GB Ram
+* A recent operating system 
+
+<!--
 > Note: Altogether, the virtual machine (VM) and applications, plus a snapshot will take around 14 GB. Figure 15 to be safe. You'll need room, too, so you should have at least 20 GB or more free space on your computer before you start. See the note below. Download times seem to be averaging around 2 hours for us, though we've seen under an hour. Your mileage may vary, as they say. Actual download should be around 4 GB, altogether.
 
 > Your computer needs to be powerful enough to run the virtual machine. In general a laptop computer (not a Chromebox or tablet or equivalent) purchased in the last two or three years with a minimum of 4 GB of RAM, and running a recent operating system is required. You'll also need at least 20 GB of space to have room to breathe.
 
 > If you attempt to install Vagrant and/or VirtualBox and you get a warning that your operating system is not new enough, either upgrade your OS or contact us. If you don't have room, please try to move things off your drive, possibly to the cloud or a remote drive, in order to make room. Contact us if you have problems.
+-->
 
-Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
+## Purpose:
 
-When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a "sandbox" on your computer, so it can't hurt your computer.
+The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, and you have more time to learn. Another good reason is that a *lot* of web development these days involves using virtual machines. 
 
-The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, rather than spending a lot of time dealing with frustrating computer issues. Another good reason is that a *lot* of web development these days involves using virtual machines. So get used to it now.
+## What if I already have linux running?
 
-That said, running two computers on one set of hardware does put a little strain on your computer, so if you have a really old computer or one with very little power, then try to borrow a better one for Phase-0. If you can't borrow one, and despite your best efforts the virtual machine won't run on your computer, then let us know and we'll try to help you get set up otherwise. But using the VM is by far our preference.
+**We still recommend using the virtual machine** - This is because everything is configured to run out of the box with all the necessrary software and packages installed. Unfortunately, in most cases it is impossible for us to help people setup their individual machines and doing so takes considerable amount of time away from the energy you can put into learning the material. 
 
 ## How to set up the box
 
