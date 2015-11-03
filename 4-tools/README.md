@@ -1,4 +1,4 @@
-# Tools you'll use
+# Tools you may use
 
 Just as carpenters, surgeons, blacksmiths, and accountants need their tools, so do web developers.
 
