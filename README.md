@@ -18,9 +18,13 @@ Complete **before** you begin phase-0 start
 6. [Accessibility to persons with disabilities](/6-accessibility/) (15 minutes)
 7. [Empathy](/7-empathy/) (10 minutes)
 
+
 ## Get a head start
 We recommend you be familar with these tools/technologies
 
-1. [Github]
-2. [Console]
-3. [Javascript]
+1. [Command line/Terminal](4-tools/terminal#practicing-the-command-line)
+2. [Typing and shortcuts](8-practice#typing-and-shortcuts)
+3. [Git and Github](4-tools/git-and-github#giving-git-a-test-drive)
+4. [Javascript](8-practice#javascript)
+5. [HTML/CSS](8-practice#html-and-css)
+
