@@ -65,4 +65,5 @@ It's possible that after the virtual machine downloads and starts, you won't see
 - [Vagrant](https://www.vagrantup.com/)
 - [Linux terminal](http://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Mac terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
+- [Windows Command Prompt in 15 minutes](http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
 
