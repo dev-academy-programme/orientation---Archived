@@ -29,5 +29,6 @@ We recommend you be familar with these tools/technologies
 5. [HTML/CSS](8-practice#html-and-css)
 
 ## Important information
+Important infomation including policies, contact lists, learning strategies etc.
 
-1. [Code of conduct, staff contact, Learning strategies etc](/9-information)
+1. [Important supplementary information](/9-information)
