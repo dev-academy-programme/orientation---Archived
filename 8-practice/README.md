@@ -18,18 +18,19 @@ You need to be able to:
 -[Watch/Do: Code Schools introduction to Javascript](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
 **Other JS Resources:**
--[Do: Code Academy](https://www.codecademy.com/learn/javascript). This is a long course, but is good for practice.
--[Do: FreeCodeCamp](http://www.freecodecamp.com/). Learn to code while building projects for nonprofits
--[Read: Code Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf). A free e-book on JS.
--[Watch/Do: Treehouse Front End Development course](https://teamtreehouse.com/tracks/front-end-web-development)
+- [Do: Code Academy](https://www.codecademy.com/learn/javascript). This is a long course, but is good for practice.
+- [Do: FreeCodeCamp](http://www.freecodecamp.com/). Learn to code while building projects for nonprofits
+- [Read: Code Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf). A free e-book on JS.
+- [Watch/Do: Treehouse Front End Development course](https://teamtreehouse.com/tracks/front-end-web-development)
 
 ## HTML and CSS
--[Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web).
--[Read/Do: Learn HTML/CSS](http://learn.shayhowe.com/html-css/)
+- [Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web). 
+- [Read/Do: Learn HTML/CSS Shaye Howe](http://learn.shayhowe.com/html-css/)
+- [Build a website with CodeAcademy](https://www.codecademy.com/learn/web)
 
 ## Git and GitHub
--[See Git and GitHub in Tools section](../4-tools/git-and-github#giving-git-a-test-drive)
+- [See Git and GitHub in Tools section](../4-tools/git-and-github#giving-git-a-test-drive) 
 
 ## Command line
--[See Command line/terminal in Tools section](../4-tools/terminal#practicing-the-command-line)
+- [See Command line/terminal in Tools section](../4-tools/terminal#practicing-the-command-line)
 
