@@ -1,4 +1,4 @@
-Using Github during Phase-0
+For general inforamtion about Git and Github see [git and github intro](/README)
 
 # GitHub
 
@@ -18,7 +18,7 @@ You will learn how to
 
 Estimated time to complete: 10 minutes
 
-## Step one: Create a repo.
+## Step 1: Create a repo.
 To create the repository for this week, go to your GitHub profile page. Mine is `/github.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
 
 You should see the page below, except for the username, of course.
@@ -44,7 +44,7 @@ You should see an "Https clone URl" to the right of your newly cloned repo (imag
   </figcaption>
 </figure>
 
-## Step two: Create a working folder / directory.
+## Step 2: Create a working folder / directory.
 You'll want to create a folder within your virtual machine where you keep all of your repos (and definitely not on your desktop!). Mine is called `Workspace` and it's in my home folder.
 
 - Open the command line on your virtual machine
@@ -52,7 +52,7 @@ You'll want to create a folder within your virtual machine where you keep all of
 - Navigate to where you want to create your directory. Remember that `cd` is to change directories
 - Create new folder (e.g. workspace) `mkdir workspace
 
-## Step three: Clone your repo to your local directory
+## Step 3: Clone your repo to your local directory
 
 - From the command line `cd` into the workspace directory you just created
 - Inside the workspace directory clone the repo into your workspace. Do this by pasting the copied link from the github repo that you created in Step one, (figure 2). E.g. `git clone https://the-link-you-copied-when-you-created-your-repo.git`
@@ -75,7 +75,7 @@ You'll want to create a folder within your virtual machine where you keep all of
   </figcaption>
 </figure>
 
-## Step four: Create a new file in your directory
+## Step 4: Create a new file in your directory
 
 Now Sublime has opened in the `sprint-1.md` folder and I see this:
 
@@ -89,11 +89,18 @@ Now Sublime has opened in the `sprint-1.md` folder and I see this:
 * Begin by creating a test.md file by typing `test.md`.
 * Click save.
 
-# Step 6: Stage files to be committed
+## Step 6: Stage files to be committed
 
-# Step 7: Add credientials to Github
+## Step 7: Add credientials to Github
 
-# Step 8: Push files to github.
+## Step 8: Push files to GitHub.
+
+## Step 9: Create a branch
+
+## Step 10: Create a pull request
+
+
+
 
 <!--
 <figure>
