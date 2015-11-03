@@ -9,6 +9,11 @@ Both these free tutorials are an excellent introduction to Dev tools. Watch and 
 - [Watch: A re-introduction to Dev tools](http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/)
 - [Try: Discover Dev Tools](http://discover-devtools.codeschool.com/)
 
+Additional practice and resources:
+- [Watch: Secrets of the Chrome Developer Dev Tools](https://vimeo.com/53073654)
+- [Watch/Try: Treehouse Chrome Developer Tools](http://teamtreehouse.com/library/debugging-a-web-app-with-chrome-dev-tools)
+
+
 <figure>
   <img src="/images/chrome.png" alt="Chrome"><br>
   <figcaption>
@@ -54,7 +59,6 @@ The other tab you'll want to use right away is the Console tab. From the console
 
 Notice how as we type, we get a list of possible commands. Nice, eh?
 
-If you're interested, there's a [35 minute workshop on Chrome Developer Tools](http://teamtreehouse.com/library/debugging-a-web-app-with-chrome-dev-tools) on Treehouse.
 
 
 ## Chrome extensions we'll use
