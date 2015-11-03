@@ -11,7 +11,7 @@ Here are a few things to note if you are considering repeating a Unit of Phase 0
 * EDA reserves the right to restrict the number of times a student repeats a phase.
 * You will need to complete the [change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
 
-If repeating is an option you want to explore more, please message Jaime <mailto:jaime@devacademy.co.nz>  
+If repeating is an option you want to explore more, please message Jaime <mailto:jaime@devacademy.co.nz>
 
 ## Deferring to a Later Cohort
 
@@ -27,5 +27,5 @@ If you have decided to leave the program, there are a few steps we ask you to ta
 
 **If you have not started Phase 0** yet, or are in the Week 0 module, please contact both <mailto:admissions@devacademy.co.nz> and your phase-0 facilitator to let us know of your decision.
 
-You will need to complete the [withdrawl form](http://goo.gl/forms/heEV7aH0zh)
+You will need to complete the [withdrawal form](http://goo.gl/forms/heEV7aH0zh)
 

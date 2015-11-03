@@ -1,25 +1,25 @@
-For general inforamtion about Git and Github see [git and github intro](../git-and-github)
+For general information about Git and GitHub see [git and GitHub intro](../git-and-GitHub)
 
 # GitHub
 
 To pass copies of the your repository around to your team, you need a place to put a copy where everyone on your team can have access to it. That is what GitHub does. Really, that's almost all it does: provide a place for you to store your code.
 
-As part of your preperation for Phase-0 you should have set up an account on [GitHub](https://github.com/) using your first name as part of your github user name. If not, go set one up right now.
+As part of your preparation for Phase-0 you should have set up an account on [GitHub](https://GitHub.com/) using your first name as part of your GitHub user name. If not, go set one up right now.
 
 Once you have an account, you can create your first repository. Then we'll clone it to your new virtual machine.
 
-# Github workflow:
-This is an example of how you will be interacting with github each week.
+# GitHub workflow:
+This is an example of how you will be interacting with GitHub each week.
 
 You will learn how to
 * Create a standard workspace directory (A folder which will hold all of your EDA repositories)
-* Create a repoistory (E.g. `Sprint-1)
-* Clone it, make changes to it, commit them and push to Github
+* Create a repository (E.g. `Sprint-1)
+* Clone it, make changes to it, commit them and push to GitHub
 
 Estimated time to complete: 10 minutes
 
 ## Step 1: Create a repo.
-To create the repository for this week, go to your GitHub profile page. Mine is `/github.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
+To create the repository for this week, go to your GitHub profile page. Mine is `/GitHub.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
 
 You should see the page below, except for the username, of course.
 
@@ -55,7 +55,7 @@ You'll want to create a folder within your virtual machine where you keep all of
 ## Step 3: Clone your repo to your local directory
 
 - From the command line `cd` into the workspace directory you just created
-- Inside the workspace directory clone the repo into your workspace. Do this by pasting the copied link from the github repo that you created in Step one, (figure 2). E.g. `git clone https://the-link-you-copied-when-you-created-your-repo.git`
+- Inside the workspace directory clone the repo into your workspace. Do this by pasting the copied link from the GitHub repo that you created in Step one, (figure 2). E.g. `git clone https://the-link-you-copied-when-you-created-your-repo.git`
 
 <figure>
   <img src="/images/cloning.png" alt="Cloning the Repo"><br>
@@ -91,7 +91,7 @@ Now Sublime has opened in the `sprint-1.md` folder and I see this:
 
 ## Step 6: Stage files to be committed
 
-## Step 7: Add credientials to Github
+## Step 7: Add credentials to GitHub
 
 ## Step 8: Push files to GitHub.
 
@@ -182,7 +182,7 @@ Whoops. We have to set one more thing (then never again!). Copy the line
 Now I can see those changes on GitHub (reload the page):
 
 <figure>
-  <img src="/images/changes-on-github.png" alt="Changes"><br>
+  <img src="/images/changes-on-GitHub.png" alt="Changes"><br>
   <figcaption>
     <p><strong>Figure 12:</strong> Now my changes are visible on GitHub</p>
   </figcaption>

@@ -100,7 +100,7 @@ Play around with Sublime until you're comfortable with it. We'll be using it a l
 
 
 # Sublime Shortcuts
-Here is a reference for Sublime Text shortcuts pick 1 or 2 everytime you start a challenge
+Here is a reference for Sublime Text shortcuts pick 1 or 2 every time you start a challenge
 
 [Sublime Shortcut OSX](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 

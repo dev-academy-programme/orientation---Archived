@@ -11,7 +11,7 @@ Another important thing to note about this learning style is it's not necessaril
 3. Submit weekly feedback form
 4. Communicate if there are circumstances that will effect your ability to hand in work on time.
 
-Each Monday you will have a weeks worth of material and deliverables that will be given to you via github. We expect that you will work incrementally on the material and have it completed by Sunday 11:59pm. At the end of each week you will need to complete a feedback form in addition to your final push.
+Each Monday you will have a weeks worth of material and deliverables that will be given to you via GitHub. We expect that you will work incrementally on the material and have it completed by Sunday 11:59pm. At the end of each week you will need to complete a feedback form in addition to your final push.
 
 ## Pairing
 
@@ -30,5 +30,5 @@ To outline these rules we have three agreements that guide the actions of everyo
 Please read about [The Three Agreements](/9-information/three-agreements).
 
 ## Learning strategies
-Read more about our approach to eductation in the [Learning strategies section](/9-information/learning-strategies)
+Read more about our approach to education in the [Learning strategies section ](/9-information/learning-strategies)
 

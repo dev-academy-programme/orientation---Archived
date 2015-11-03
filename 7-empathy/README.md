@@ -29,6 +29,6 @@ Previous students have reported the following benefits, among others:
   </figcaption>
 </figure>
 
-Some of what we will be referencing is included in *Search Inside Yourself*, which you will be expected to read and utilize throughout Phase-0, and, indeed, throughout the onsite course as well.
+Some of what we will be referencing is included in *Search Inside Yourself*, which you will be expected to read and utilize throughout Phase-0, and, indeed, throughout the on-site course as well.
 
 You can find the E-book the [Google Drive folder](https://drive.google.com/open?id=0B5aB0OHeInzgdmgteTFTZ2ZqNnc) EDA has shared with you&mdash;it may be in "My Drive", or in "Shared with me" in Google Drive left nav bar.

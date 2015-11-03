@@ -20,7 +20,7 @@ Complete **before** you begin phase-0 start
 
 
 ## Get a head start
-We recommend you be familar with these tools/technologies
+We recommend you be familiar with these tools/technologies
 
 1. [Command line/Terminal](4-tools/terminal#practicing-the-command-line)
 2. [Typing and shortcuts](8-practice#typing-and-shortcuts)
@@ -29,6 +29,6 @@ We recommend you be familar with these tools/technologies
 5. [HTML/CSS](8-practice#html-and-css)
 
 ## Important information
-Important infomation including policies, contact lists, learning strategies etc.
+Important information including policies, contact lists, learning strategies etc.
 
 1. [Important supplementary information](/9-information)

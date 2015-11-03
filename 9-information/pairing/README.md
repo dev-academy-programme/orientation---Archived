@@ -80,7 +80,7 @@ Driver-Navigator pairing involves the driver typing and the navigator talking an
 This is probably the most common pairing technique professionally, particularly in [Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) environments. It involves one person writing a test for the code and the other person writing the code to pass the test.  You may use this type of pairing in Phases 2 and 3.
 
 - **Expert-Novice Pairing**
-This is a variation of Driver-Navigator pairing, where one person is more knowledgable about the problem or technique than the other. Depending on the goal of the pairing session, this can either involve:
+This is a variation of Driver-Navigator pairing, where one person is more knowledgeable about the problem or technique than the other. Depending on the goal of the pairing session, this can either involve:
 
 -- **Expert Drives** The expert acts as a mentor helping to guide the novice in the right direction without giving away too much.  This variation is often used during job interviews.
 -- **Novice Drives** This allows the expert to relay information and teach in a very focused way.  However, there is risk of the novice disengaging if the expert just tells him/her what to do.  Pairing should always feel like a conversation.
@@ -96,14 +96,14 @@ Half way through each pairing session you and your pair should switch roles if y
 ## Successful Pairing
 Successful pairing requires two components:
 
-**Good Communication**  
+**Good Communication**
 Good communication during pairing is mainly through vocalizing your thoughts and thought process.
 - If you don't understand, you should tell your partner.
 - If you want to try something in IRB or NETRepl, tell your pair.
 - If you want to go research something, tell your partner.
 *Tell your partner everything you are thinking and doing!*
 
-**Being on the same page**  
+**Being on the same page**
 Both people should know the exact line of code and the solution or concept they are discussing.
 
 *Good pairing sessions feel like a conversation.*

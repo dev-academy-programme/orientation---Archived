@@ -1,23 +1,23 @@
-# Introduction to Git and GitHub
+# Introduction to Git and gitHub
 
-Git allows groups of people to work together on the same code, at the same time, without overwriting each others work. It is not Ruby, or JS, or C#. It is software that you download - a form of distributed version control which means it manages changes to a project without overwritting any part of the project.
+Git allows groups of people to work together on the same code, at the same time, without overwriting each others work. It is not Ruby, or JS, or C#. It is software that you download - a form of distributed version control which means it manages changes to a project without overwriting any part of the project.
 
-Git doesn't require any remote servers for its operation (it can simply be installed on your computer), but for easy access and collaboration, web developers use Github (the largest code host on the planet) for storing and sharing code.
+Git doesn't require any remote servers for its operation (it can simply be installed on your computer), but for easy access and collaboration, web developers use gitHub (the largest code host on the planet) for storing and sharing code.
 
-With over 10 million users, Github has become a social network for webdevelopers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
+With over 10 million users, gitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
 
-So to conclude, Github is a tool that you download and Github is a service that you sign up to.
+So to conclude, gitHub is a tool that you download and gitHub is a service that you sign up to.
 
 
 ## Git
 
-During your Dev Academy experience (and for the most part of your web development career) you will be using Git and Github daily.
+During your Dev Academy experience (and for the most part of your web development career) you will be using Git and gitHub daily.
 **During Phase-0 you will be using a virtual machine that has git already installed.** Nonetheless there is nothing stopping you from downloading Git and having a play around with it on your local (not virtual) machine.
 
-While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamilar with the command line interface please see the tools section - [command line interface](../terminal) 
+While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamiliar with the command line interface please see the tools section - [command line interface](../terminal)
 
 ## Why use Git
-Without Git or another form of version control system (VCS), being a webdeveloper would be signifcantly more painful day to day. Using a
+Without Git or another form of version control system (VCS), being a web developer would be significantly more painful day to day. Using a
 VCS is extra work, and the advantages aren't always obvious. But trust us, Git is a very powerful (and essential) tool for collaboration.
 
 <!--
@@ -32,19 +32,19 @@ A VCS (e.g. Git) takes care of all of this for you.
 -->
 ## How Git works
 
-With Git, each project has its own repository - a collection of all the versions of the project along with some special information - What order the changes occured; A description of each change; who was responsible for each change etc.
+With Git, each project has its own repository - a collection of all the versions of the project along with some special information - What order the changes occurred; A description of each change; who was responsible for each change etc.
 
-Git doesn't automatically keep track of your versions - You have to explicitly tell it when you are finished so that Git will track them for you. **The act of telling git that the version is finished is called commiting**. Much like you would commit something to memory, you also commit changes into your repository. Because of this, versions are often referred to as commits. In many cases, it doesn't make sense to treat unfinished work as a version. But in others, a commit might simply be a spelling correction or a fix to a broken link.
+Git doesn't automatically keep track of your versions - You have to explicitly tell it when you are finished so that Git will track them for you. **The act of telling git that the version is finished is called committing**. Much like you would commit something to memory, you also commit changes into your repository. Because of this, versions are often referred to as commits. In many cases, it doesn't make sense to treat unfinished work as a version. But in others, a commit might simply be a spelling correction or a fix to a broken link.
 
 Most of the time when you interact with your project, the complexity is hidden so that you won't even know it is there until you need to interact with it. Git has a set of tools to review your project history - For example, providing you the ability to view or filter the full list of commits, or even switch what version your project is currently displaying. Want to go take a look at what your project
 looked like this time last week, last month, last year? Git will let you do all of those things and more, often with just one command.
 
 ## Words people talk about when they talk about Git
-*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)*
+*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)*
 
 `Command Line:` The computer program we use to input Git commands. On a Mac, it’s called Terminal. On a PC, it’s a non-native program that you download when you download Git for the first time. In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
 
-`Repository:` A directory or storage space where your projects can live. Sometimes GitHub users shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
+`Repository:` A directory or storage space where your projects can live. Sometimes gitHub users shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on gitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
 
 `Version Control:` Basically, the purpose Git was designed to serve. When you have a Microsoft Word file, you either overwrite every saved file with a new save, or you save multiple versions. With Git, you don’t have to. It keeps “snapshots” of every point in time in the project’s history, so you can never lose or overwrite it.
 
@@ -53,7 +53,7 @@ looked like this time last week, last month, last year? Git will let you do all 
 `Branch:` How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project.
 
 ### Git-Specific Commands
-*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)*
+*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)*
 
 Since Git was designed with a big project like Linux in mind, there are a lot of Git commands. However, to use the basics of Git, you’ll only need to know a few terms. They all begin the same way, with the word “git.”
 
@@ -75,25 +75,25 @@ Since Git was designed with a big project like Linux in mind, there are a lot of
 
 `git merge:` When you’re done working on a branch, you can merge your changes back to the master branch, which is visible to all collaborators. git merge cats would take all the changes you made to the “cats” branch and add them to the master.
 
-`git push:` If you’re working on your local computer, and want your commits to be visible online on GitHub as well, you “push” the changes up to GitHub with this command.
+`git push:` If you’re working on your local computer, and want your commits to be visible online on gitHub as well, you “push” the changes up to gitHub with this command.
 
-`git pull:` If you’re working on your local computer and want the most up-to-date version of your repository to work with, you “pull” the changes down from GitHub with this command.
+`git pull:` If you’re working on your local computer and want the most up-to-date version of your repository to work with, you “pull” the changes down from gitHub with this command.
 
 # Giving Git a test drive
-Usually you would need to download and install git on your computer or use the virtual machine (which has Git already included). Nonetheless, these 2 lessons allow you to practice git and github workflow in just the web browser, without downloading and installing.
+Usually you would need to download and install git on your computer or use the virtual machine (which has Git already included). Nonetheless, these 2 lessons allow you to practice git and gitHub workflow in just the web browser, without downloading and installing.
 
 **For beginners:**
-- [Try Git](https://try.github.io/levels/1/challenges/1) - This basics of git commands, demostrating the ways in which you will be interacting with git.
+- [Try Git](https://try.gitHub.io/levels/1/challenges/1) - This basics of git commands, demonstrating the ways in which you will be interacting with git.
 
 **Intermediate Git'ers**
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - basic git commands and branching.
+- [Learn Git Branching](http://pcottle.gitHub.io/learnGitBranching/) - basic git commands and branching.
 
 ## More Git Practice [Optional]
-These lessons will walk you through installing Git on your system. If you choose to do them, use them in conjunction with the github user account you created as part of your [preperation](/0.1-accounts) for Phase-0
+These lessons will walk you through installing Git on your system. If you choose to do them, use them in conjunction with the gitHub user account you created as part of your [preparation](/0.1-accounts) for Phase-0
 
-- Read/try: [Github for begginers: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
-- Read/try: [Git the simple guide](http://rogerdudler.github.io/git-guide/)
-- Watch/try: [How to Use Git and GitHub 1: Install Git and Basic Commands](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
+- Read/try: [GitHub for begginers: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)
+- Read/try: [Git the simple guide](http://rogerdudler.gitHub.io/git-guide/)
+- Watch/try: [How to Use Git and gitHub 1: Install Git and Basic Commands](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
 - Watch/try: [Treehouse Git Basics](https://teamtreehouse.com/library/git-basics). This is a treehouse course and is only accessible with an account. As a phase-0 student you will be given access to treehouse when you begin phase-0.
 
-*Next step: See [Git and Github weekly workflow](using-github-during-phase-0.md)*
+*Next step: See [Git and gitHub weekly workflow](using-gitHub-during-phase-0.md)*
