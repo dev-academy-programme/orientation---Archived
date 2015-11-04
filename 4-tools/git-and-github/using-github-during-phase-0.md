@@ -192,103 +192,187 @@ git config --global push.default simple
   </figcaption>
 </figure>
 
-## Step 9: Create a branch
+## Step 10: Create a branch
 
-## Step 10: Create a pull request
+Normally, we don't work in the "master" branch of our code. What we'll do is to create a separate "feature" branch, named after whatever feature we're adding to our code, and we'll work in that. Git will keep the two branches separate, so my code in the master branch remains the same despite my changes in the feature branch.
+
+There are two parts to working in a branch. The first is creating the branch. The second is "checking it out", that is, moving into that branch to work.
+
+Later, when we have completed the feature and want it in our code, we'll "merge" that branch back into master. Then we can leave the feature branch there, do more work in it, delete it&mdash;whatever we want.
+
+If we (or another teammate) have made changes in the master branch since we created our feature branch, it is possible that there could be a conflict between those changes and the ones we made in our branch. There are serveral ways of dealing with these conflicts. The most common is to let git merge what it can, and then to fix those conflicts it can't.
+
+When git can handle the merge without conflicts, it calls this "fast-forwarding". We'll learn much more about merging, conflicts, and how to deal with them in the coming weeks.
+
+For now, we can both create a new branch *and* check it out with a single command:
+
+```sh
+git checkout -b sample-feature
+```
+
+The `-b` tells git to create the branch. `checkout` checks it out. `sample-feature` is the name of our example new branch. In reality, you'd name it something such as `log-in-dialog` (assuming you were adding a log-in dialog, of course).
+
+<figure>
+  <img src="../../images/git-checkout-b.png" alt="Checkout new branch"><br>
+  <figcaption>
+    <p><strong>Figure 13:</strong> Creating and checking out a new branch</p>
+  </figcaption>
+</figure>
+
+Notice how the name of the branch has changed from "master" to "sample-feature". We can go back and forth between branches with `git checkout <branch-name>`. So `git checkout master` takes me back to master and `git checkout sample-feature` would then bring me back to this branch.
+
+## Step 11: Pushing the new branch
+
+The branch we created is in our local repository only. If we want to push a copy to the remote repository (GitHub, known as the "origin"), then we'll need to specify both the remote repository and our local branch. Let's start by making some changes to our branch.
+
+<figure>
+  <img src="../../images/new-file.png" alt="Adding a new file"><br>
+  <figcaption>
+    <p><strong>Figure 14:</strong> Changes to the sample-feature branch</p>
+  </figcaption>
+</figure>
+
+
+Then we'll stage and commit our changes, then we'll push and create the new remote branch.
+
+```sh
+git push origin sample-branch
+```
+
+<figure>
+  <img src="../../images/push-branch.png" alt="Pushing the new branch"><br>
+  <figcaption>
+    <p><strong>Figure 15:</strong> Pushing the new branch to GitHub (origin)</p>
+  </figcaption>
+</figure>
+
+Unfortunately, even though we've done this, git doesn't automatically remember that the remote branch is supposed to track our local one. If we try to push again, we'll get an error message. Conveniently, it provides the solution. All we need to do is copy and paste this line (yours will be different if you have a different branch name, of course):
+
+```sh
+git push --set-upstream origin sample-feature
+```
+
+Now we can push to our hearts content with nothing more than `git push`. Of course, we could have added that `--set-upstream` flag the first time we pushed&mdash;if we could remember it&mdash;but git kindly reminds us if we just try it without that flag first.
+
+<figure>
+  <img src="../../images/track-remote-branch.png" alt="Tracking the remote branch"><br>
+  <figcaption>
+    <p><strong>Figure 16:</strong> Telling git which remote branch tracks this one</p>
+  </figcaption>
+</figure>
+
+## Step 12: Merging changes back into master
+
+Now that we've committed and pushed our changes to the sample-feature branch, we can merge those changes back into master. First, we checkout master with `git checkout master`. Then we merge our feature branch with `git merge sample-feature`. Because we've made no conflicting changes to master in the meantime, we can "fast-forward" the changes and the merge is simple.
+
+<figure>
+  <img src="../../images/git-merge-master.png" alt="Merging into master"><br>
+  <figcaption>
+    <p><strong>Figure 16:</strong> "Fast-forward" merging sample-feature into master</p>
+  </figcaption>
+</figure>
+
+## Forks and pull requests
+
+Forks and pull requests are not a feature of git, but of GitHub. They are a way of working with repositories online *without having direct access to that repository*.
+
+For example, suppose that you want to help us to fix a typo in this repository. If you lack permission to commit changes to this repository, then that makes it difficult, no? You can clone the repository, but when you try to push changes you'll get a message that you don't have the authority to do so.
+
+But not all is lost! You can "fork" your own copy of our repo, and then clone that. You make changes to your own copy and push them to your forked repo. Then you create a "pull request" that let's us know that you have changes you'd like us to incorporate into our canonical repo. We can see the changes, and we can agree to incorporate them or not. It's up to us.
+
+This is how many open source projects work if you're not a "committer"&mdash;i.e., not someone who has the authority to make commits and pushes to the actual repo. For such circumstances, you'll fork a copy, make your changes (or your "patch" to their code), and then submit a pull request. If they like what you did, they'll pull the changes into the official repo. If you do this often enough, they might even invite you to become a "committer". Big prestige points!
+
+So how do we do this. Well, *we have to do it from GitHub*, of course, because it's a GitHub feature not a git feature.
+
+We go to the official repository we want to clone. For example, suppose I wanted to clone this Orientation repository to my personal GitHub account. I go to the repository page and click the "Fork" button in the upper right corner. GitHub asks me where I want to fork it to (maybe not if you only have one account!), I choose which organization to fork it to, and presto! I have my own copy.
+
+<figure>
+  <img src="../../images/forking.png" alt="Forking a repo"><br>
+  <figcaption>
+    <p><strong>Figure 17:</strong> Click the "Fork" button to fork the repo</p>
+  </figcaption>
+</figure>
+
+After I've forked the repository to my own account, it looks like this. Notice that we're not on *my* account, not "dev-academy-phase0", and that next to the "Fork" button, the number of forks is now 1.
+
+<figure>
+  <img src="../../images/forked.png" alt="Forked repo"><br>
+  <figcaption>
+    <p><strong>Figure 17:</strong> The repo is now "forked" onto my personal account</p>
+  </figcaption>
+</figure>
+
+I can now clone this to my development machine, make changes, commit them, etc. Here I clone the forked repo:
+
+<figure>
+  <img src="../../images/clone-the-fork.png" alt="Cloning the forked repo"><br>
+  <figcaption>
+    <p><strong>Figure 18:</strong> Now I've changed folders, cloned the fork, and opened it in Sublime</p>
+  </figcaption>
+</figure>
+
+I made a small change in a file using Sublime Text 3, then saved the change. Now I do the normal staging, commit and push:
+
+<figure>
+  <img src="../../images/push-the-fork.png" alt="Pushing changes to the forked repo"><br>
+  <figcaption>
+    <p><strong>Figure 19:</strong> After making my changes, I stage, commit, and push normally</p>
+  </figcaption>
+</figure>
+
+Now we can go back to *my* GitHub account and create a pull request. To the right we should see a Pull request tab (see image above). If I click on that, then click the big, green "New pull request" button, then we arrive at the form to create the pull request. There are select boxes from which we can select the "from" and "to" repositories/branches. I'll leave them where they are.
+
+<figure>
+  <img src="../../images/comparing-changes.png" alt="Comparing changes to the forked repo"><br>
+  <figcaption>
+    <p><strong>Figure 20:</strong> Next-to-last step before creating the pull request</p>
+  </figcaption>
+</figure>
+
+We can also scroll down to see what has changed in this pull request. This is called a "diff" and it only shows what lines will be removed (-) and what lines will be added (+). To create the pull request, we click the big, green "Create pull request" button. Next we'll have a chance to name and comment on our pull request before submitting it for reals.
+
+<figure>
+  <img src="../../images/comment-pull-request.png" alt="Commenting on changes to the forked repo"><br>
+  <figcaption>
+    <p><strong>Figure 21:</strong> Last step before creating the pull request</p>
+  </figcaption>
+</figure>
+
+Click the big, green "Create pull request" button (another one!), and the pull request is on its way to the owners of the official "canonical" repo.
+
+Now, if we were those owners, we'd see a pull request show up on our repo. (Note that do this from the original repository, not our fork!)
+
+<figure>
+  <img src="../../images/new-pull-request.png" alt="New pull request"><br>
+  <figcaption>
+    <p><strong>Figure 22:</strong> The owners of the official repo see our pull request</p>
+  </figcaption>
+</figure>
+
+As an owner, I can click on "Pull requests" and see the waiting pull requests:
+
+<figure>
+  <img src="../../images/waiting-pull-requests.png" alt="Waiting pull request"><br>
+  <figcaption>
+    <p><strong>Figure 22:</strong> Waiting pull requests</p>
+  </figcaption>
+</figure>
+
+I can click on the "Fix minor wording" pull request to check it out before accepting or rejecting it.
+
+<figure>
+  <img src="../../images/merge-pull-request.png" alt="Merge pull request"><br>
+  <figcaption>
+    <p><strong>Figure 23:</strong> Merge or close the pull request</p>
+  </figcaption>
+</figure>
+
+I can comment on the request (and conduct a discussion with the person who made the pull request as well as others on my team). I can accept it and merge it in. Or I can close it without merging it.
+
+And that's all there is to forking and pull requests. You'll be using them a lot.
 
 # Code reviews
 
 # Engineering empathy - reflection workflow
 
 
-
-
-
-<!--
-<figure>
-  <img src="/images/context-menu.png" alt="Atom context menu"><br>
-  <figcaption>
-    <p><strong>Figure 6:</strong> The right-click context menu</p>
-  </figcaption>
-</figure>
-
-Save it:
-
-<figure>
-  <img src="/images/file-dialog.png" alt="Atom file dialog"><br>
-  <figcaption>
-    <p><strong>Figure 7:</strong> The file dialog</p>
-  </figcaption>
-</figure>
-
-Add some [Markdown](http://daringfireball.net/projects/markdown/syntax):
-
-<figure>
-  <img src="/images/test-markdown.png" alt="Atom test markdown text"><br>
-  <figcaption>
-    <p><strong>Figure 8:</strong> Saving some changes</p>
-  </figcaption>
-</figure>
-
-Now we'll stage those changes in git with `git add -A` and then we'll check the status of our staged files with `git status`:
-
-<figure>
-  <img src="/images/git-add-a.png" alt="Git add and status"><br>
-  <figcaption>
-    <p><strong>Figure 9:</strong> Staging the files and checking the status</p>
-  </figcaption>
-</figure>
-
-Green means it's staged. (Note: if you have red-green color blindness, notice that it says "Changes to be committed". That's your cue.)
-
-So now let's commit our changes to our *local* repository with `git commit` and a message:
-
-<figure>
-  <img src="/images/git-commit-error.png" alt="Commit"><br>
-  <figcaption>
-    <p><strong>Figure 10:</strong> Error commiting the changes to the local repository</p>
-  </figcaption>
-</figure>
-
-Oops. We need to tell GitHub who we are (just once). Note, to copy in Linux terminal, you must use Control-SHIFT-C. Similarly, paste is Control-SHIFT-V and cut is Control-SHIFT-X. That's because Control-c is already used. Be careful! Control-c means "cancel".
-
-<figure>
-  <img src="/images/who-am-i.png" alt="Commit"><br>
-  <figcaption>
-    <p><strong>Figure 10:</strong> Telling git who I am</p>
-  </figcaption>
-</figure>
-
-OK, now we can commit:
-
-Finally, I'll push them to GitHub with `git push`:
-
-<figure>
-  <img src="/images/git-commit.png" alt="Commit"><br>
-  <figcaption>
-    <p><strong>Figure 10:</strong> Commiting the changes to the local repository</p>
-  </figcaption>
-</figure>
-
-Finally, I'll push them to GitHub with `git push`:
-
-<figure>
-  <img src="/images/git-push.png" alt="Push"><br>
-  <figcaption>
-    <p><strong>Figure 11:</strong> Pushing my changes to the remote repository on GitHub</p>
-  </figcaption>
-</figure>
-
-Whoops. We have to set one more thing (then never again!). Copy the line
-
-Now I can see those changes on GitHub (reload the page):
-
-<figure>
-  <img src="/images/changes-on-GitHub.png" alt="Changes"><br>
-  <figcaption>
-    <p><strong>Figure 12:</strong> Now my changes are visible on GitHub</p>
-  </figcaption>
-</figure>
-
-Lather, rinse, repeat.
--->

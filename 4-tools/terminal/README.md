@@ -1,17 +1,18 @@
-# The command line (a.k.a Terminal, Shell, Prompt)
+# The command line
 
-The command line is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
+The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
 You perform actions by writing commands, and you get your information back from the computer in the form of text.
 Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
 # Practicing the command line
+
 Both these tutorials can help you get more familiar with the command line
 - [Read/do: The command line crash course](http://cli.learncodethehardway.org/book/)
 - [Read/do: Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
 
+# Common commands
 
-# Common commands:
 Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument. There are a small set of commands you'll need to get started with the terminal.
 
 ## pwd
