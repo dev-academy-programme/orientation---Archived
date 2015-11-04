@@ -384,4 +384,14 @@ Finally, we'll go to GitHub and will create a pull request for you. You should g
 
 # Empathy reflection workflow
 
-
+1. Go to [https://github.com/dev-academy-phase0/karearea-2015-ee](https://github.com/dev-academy-phase0/karearea-2015-ee)
+2. Clone the repo to your machine
+3. `cd` into the repo
+4. Make a branch with your name `git checkout -b <your GitHub name>`. Be sure to replace `<your GitHub name>` with *your* GitHub name!
+5. Write some reflections
+6. Commit your changes
+7. Push changes to your branch on the remote (GitHub)
+   - The first time, use `git push --set-upstream origin <your GitHub name>`
+   - thereafter, git knows where you want to push - `git push` is sufficient.
+8. Repeat steps 5 - 7 until you've finished reflecting
+9. Create a pull request - go back to [https://github.com/dev-academy-phase0/karearea-2015-ee](https://github.com/dev-academy-phase0/karearea-2015-ee) and submit a pull request from your branch to master. many ways to do this, ask if you're stuck.
