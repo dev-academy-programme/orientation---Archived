@@ -9,6 +9,7 @@ As part of your preparation for Phase-0 you should have set up an account on [Gi
 Once you have an account, you can create your first repository. Then we'll clone it to your new virtual machine.
 
 # GitHub workflow:
+
 This is an example of how you will be interacting with GitHub each week.
 
 You will learn how to
@@ -373,6 +374,14 @@ And that's all there is to forking and pull requests. You'll be using them a lot
 
 # Code reviews
 
-# Engineering empathy - reflection workflow
+We'll try to review your code each week, time permitting. To do this, we'll fork a copy of your repository to one of our GitHub accounts. Then we'll clone it to our development machine.
+
+In our forked and cloned copy, we'll add a folder called `review` with a file in it called `README.me`. (The README.md file is a [Markdown-enabled](https://help.github.com/articles/github-flavored-markdown/) file that GitHub will display automatically when you click on this folder. This saves you the trouble of opening the file directly.)
+
+We'll add any notes we have about your sprint to this `review/README.md` file. Then will save it, stage it, commit it, and push it to our forked copy of your repository.
+
+Finally, we'll go to GitHub and will create a pull request for you. You should get notification that a pull request is waiting. You can merge the pull request into your repository (or just follow the link to our forked copy and read it there).
+
+# Empathy reflection workflow
 
 
