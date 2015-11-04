@@ -16,7 +16,6 @@ Additional practice and resources:
 - [Watch: Secrets of the Chrome Developer Dev Tools](https://vimeo.com/53073654)
 - [Watch/Try: Treehouse Chrome Developer Tools](http://teamtreehouse.com/library/debugging-a-web-app-with-chrome-dev-tools)
 
-
 <figure>
   <img src="../../images/chrome.png" alt="Chrome"><br>
   <figcaption>
