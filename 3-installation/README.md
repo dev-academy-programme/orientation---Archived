@@ -42,6 +42,8 @@ The reasons we use the virtual machine is because it ensures that everyone has e
 vagrant init eda/phase-zero; vagrant up
 ```
 
+4. There are 2 accounts on the machine. The `vagrant` account is only used by Vagrant. You should sign into the `dev` account with the password `academy`.
+
 ### Whoa! What is this "terminal" of which you speak?
 
 The terminal is essentially a window directly into your operating system. It runs an application, called a "shell", that let's you talk to the computer directly using typed "shell commands". You'll be using the terminal a lot throughout your career, so the sooner you get comfortable with it, the better.
