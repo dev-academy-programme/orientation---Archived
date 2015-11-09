@@ -13,9 +13,9 @@ You need to be able to:
 
 ## Javascript
 - [Read/Watch: Kirupa's tutorials on Javascript](http://www.kirupa.com/javascript_basics/index.htm). Kirupa uses a lot of visual material and analogies. He's awesome.
-- [Play: Learn Javascript by playing a Game](http://codecombat.com/play). The game default lanugage is Python - Be sure to select "Javascript" when prompted
--[Play: Learn Javascript by Game Challenges](https://www.codeavengers.com/).
--[Watch/Do: Code Schools introduction to Javascript](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+- [Play: Learn Javascript by playing a Game](http://codecombat.com/play). The game default lanugage is Python - Be sure to select "Javascript" when prompted 
+- [Play: Learn Javascript by Game Challenges](https://www.codeavengers.com/).
+- [Watch/Do: Code Schools introduction to Javascript](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
 **Other JS Resources:**
 - [Do: Code Academy](https://www.codecademy.com/learn/javascript). This is a long course, but is good for practice.
