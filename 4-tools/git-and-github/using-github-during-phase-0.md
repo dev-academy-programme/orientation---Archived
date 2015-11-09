@@ -19,6 +19,23 @@ You will learn how to
 
 Estimated time to complete: 10 minutes
 
+# Contents 
+- [Create a repo](#step-1-create-a-repo)
+- [Go to working folder](#step-2-go-to-your-working-folder)
+- [Cloning](#step-3-clone-your-repo-to-workspace)
+- [Create a new file](#step-3-clone-your-repo-to-workspace)
+- [Stage files (add, commit)](#step-6-stage-files-to-be-committed)
+- [Commiting](#step-6-stage-files-to-be-committed)
+- [Adding credentials](#step-8-add-credentials-and-try-again)
+- [Push files to GitHub](#step-9-push-files-to-github)
+- [Create a branch](#step-10-create-a-branch)
+- [Push a branch](#step-11-pushing-the-new-branch)
+- [Merge changes into Master](#step-12-merging-changes-back-into-master)
+- [**Forks and Pull requests**](#forks-and-pull-requests)
+- [**Code reviews**](#code-reviews)
+- [**EE reflection workflow**](#empathy-reflection-workflow)
+
+
 ## Step 1: Create a repo
 
 To create the repository for this week, go to your GitHub profile page. Mine is `https://github.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
@@ -384,7 +401,9 @@ Finally, we'll go to GitHub and will create a pull request for you. You should g
 
 # Empathy reflection workflow
 
-1. Go to [https://github.com/dev-academy-phase0/kakapo-2015-ee](https://github.com/dev-academy-phase0/kakapo-2015-ee)
+Your empathy reflections are private to the outside world. 
+
+1. Go to https://github.com/dev-academy-phase0/YourCohortName-YourCohortYear-ee E.g. https://github.com/dev-academy-phase0/kakapo-2015-ee
 2. Clone the repo to your machine
 3. `cd` into the repo
 4. Make a branch with your name `git checkout -b <your GitHub name>`. Be sure to replace `<your GitHub name>` with *your* GitHub name!
