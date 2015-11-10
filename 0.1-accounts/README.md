@@ -21,7 +21,7 @@ Inviations are sent out 2-5 days before phase-0 begin. Only then will these link
 - [TeamTreehouse](https://teamtreehouse.com/home): Teamtreehouse is a collection of video tutorials which will support your learning journey. EDA will provide an account for you to use during the duration of phase-0.
 
 ## Optional
-- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. Its also a great resource to find out what tech events are happening in your region. If choosing to sing up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.
+- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. Its also a great resource to find out what tech events are happening in your region. If choosing to sign up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.
 
 [![Gyazo](http://i.gyazo.com/e0c8b3c2e164162d2e021619aee97881.gif)](http://gyazo.com/e0c8b3c2e164162d2e021619aee97881)
 
