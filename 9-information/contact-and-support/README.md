@@ -1,5 +1,5 @@
 # Contact and Support List
-1. **Any Phase 0 questions, concerns or feedback** (prior to starting Phase 0): <mailto:jaime@devacademy.co.nz>
+1. **Any Phase 0 questions, concerns or feedback**: <mailto:jaime@devacademy.co.nz>
 2. **Billing, tuition, payments, refund policies etc**: <mailto:accounts@devacademy.co.nz>
 3. **To change your cohort or withdraw** <mailto:jaime@devacademy.co.nz> and <mailto:phase0@devbootcamp.com>.
 4. **Technical support** Reach out on slack to your phase-0 support people.
