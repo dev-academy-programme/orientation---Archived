@@ -26,7 +26,7 @@ When you're in our virtual Ubuntu machine, it is *exactly as if* you were on an 
 
 ## Purpose:
 
-The reasons we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, and you have more time to learn. Another good reason is that a *lot* of web development these days involves using virtual machines.
+The reason we use the virtual machine is because it ensures that everyone has exactly the same set up. This makes teaching much, much easier, and that means that we have more time to *teach*, and you have more time to learn. Another good reason is that a *lot* of web development these days involves using virtual machines.
 
 ## What if I already have linux running?
 
