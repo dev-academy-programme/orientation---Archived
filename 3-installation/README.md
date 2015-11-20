@@ -1,4 +1,5 @@
-# Using the virtual machine
+# Using the virtual machine - Begin as soon as possible
+
 
 **(It will take a little while to download and you cannot interupt/pause the download progress)**
 
