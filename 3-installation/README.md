@@ -1,8 +1,6 @@
 # Using the virtual machine
 
-## DO THIS IMMEDIATELY
-
-**(It will take a little while to download)**
+**(It will take a little while to download and you cannot interupt/pause the download progress)**
 
 For Phase-0, we'll be using a "virtual machine". This is a "computer within a computer". Essentially, it means that you download our "machine" to yours, and then when you run it, it's like you have another computer running inside your computer. This is called a virtual machine.
 
