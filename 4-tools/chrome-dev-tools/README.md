@@ -1,21 +1,23 @@
 # Chrome Developer Tools
 
-The Developer Tools in Google Chrome is a web app that helps web developers debug problems and try new things quickly. Other browsers have similar features, but many designers and developers prefer Chrome for its robust developer tools and support of web standards. 
+The Developer Tools in Google Chrome is a web app that helps web developers debug problems and try new things quickly. Other browsers have similar features, but many designers and developers prefer Chrome for its robust developer tools and support of web standards.
 
 The Chrome web browser contains a host of tools that make your life as a developer much easier. Take the time to get to learn them and you'll relieve or mitigate a lot of the pain of web development, allowing you to focus on the pleasure.
 
 ## Developer Tools in Action
+
 Both these free tutorials are an excellent introduction to Dev tools. Watch and follow along or read the over overview below:
+
 - [Watch: A re-introduction to Dev tools](http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/)
 - [Try: Discover Dev Tools](http://discover-devtools.codeschool.com/)
 
 Additional practice and resources:
+
 - [Watch: Secrets of the Chrome Developer Dev Tools](https://vimeo.com/53073654)
 - [Watch/Try: Treehouse Chrome Developer Tools](http://teamtreehouse.com/library/debugging-a-web-app-with-chrome-dev-tools)
 
-
 <figure>
-  <img src="/images/chrome.png" alt="Chrome"><br>
+  <img src="../../images/chrome.png" alt="Chrome"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Chrome</p>
   </figcaption>
@@ -24,14 +26,14 @@ Additional practice and resources:
 We can click on the "hamburger menu" and select More Tools > Developer Tools. Or we can use Control-Shift-I to open the tools. Or we can right click on the page and select "Inspect element" from the context menu:
 
 <figure>
-  <img src="/images/dev-tools-hamburger.png" alt="Tools from hamburger"><br>
+  <img src="../../images/dev-tools-hamburger.png" alt="Tools from hamburger"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> Dev tools from the hamburger menu</p>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="/images/dev-tools-context.png" alt="Tools from context"><br>
+  <img src="../../images/dev-tools-context.png" alt="Tools from context"><br>
   <figcaption>
     <p><strong>Figure 3:</strong> Dev tools from the context menu</p>
   </figcaption>
@@ -51,15 +53,13 @@ To the right in the Elements tab you'll see the CSS properties. Play around with
 The other tab you'll want to use right away is the Console tab. From the console you can see any error messages, but you can also interact with the page using JavaScript. We'll be using that feature a lot, too.
 
 <figure>
-  <img src="/images/chrome-console.png" alt="Dev tools console"><br>
+  <img src="../../images/chrome-console.png" alt="Dev tools console"><br>
   <figcaption>
     <p><strong>Figure 5:</strong> The Developer Tools Console tab</p>
   </figcaption>
 </figure>
 
 Notice how as we type, we get a list of possible commands. Nice, eh?
-
-
 
 ## Chrome extensions we'll use
 
