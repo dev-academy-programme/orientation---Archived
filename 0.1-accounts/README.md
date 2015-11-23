@@ -15,7 +15,6 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
   </figcaption>
 </figure>
 
-<br>
 
 <figure>
   <img src="../images/google-2.png" alt="enter email to link to google"><br>
@@ -24,6 +23,7 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
   </figcaption>
 </figure>
 
+<br>
 - [Gravatar](http://en.gravatar.com/): Github will pull your picture from Gravatar. Please make sure your picture is of your face to help us recognise you.
 
 - [Github](https://github.com/): Please create an account with **your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. Make sure it sends the right message.
