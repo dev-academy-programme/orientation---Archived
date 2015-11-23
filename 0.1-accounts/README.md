@@ -9,7 +9,7 @@ You will need to set up each of these accounts before starting Phase 0. The gene
 
 Go to [Google](https://accounts.google.com/Signup) and select the option "I prefer to use my own email address."
 <figure>
-  <img src="../../images/google.png" alt="sign up to google"><br>
+  <img src="../images/google.png" alt="sign up to google"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> google signup</p>
   </figcaption>
@@ -18,7 +18,7 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
 <br>
 
 <figure>
-  <img src="../../images/google-2.png" alt="enter email to link to google"><br>
+  <img src="../images/google-2.png" alt="enter email to link to google"><br>
   <figcaption>
     <p><strong>Figure 2:</strong> Example email address</p>
   </figcaption>
