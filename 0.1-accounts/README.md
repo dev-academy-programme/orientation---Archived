@@ -5,7 +5,24 @@ Ngā mihi nui kia koutou katoa! Warm greetings to you all! Welcome to Dev Academ
 
 You will need to set up each of these accounts before starting Phase 0. The general rule of thumb is to **use your first name as part of your username wherever possible** and include a photo of yourself (i.e. not your cat or bike). This helps us (the EDA community of staff, teachers, coaches and alumni) to better support you.
 
-- [Google](https://accounts.google.com/Signup): Your personal email address needs to be linked to google. When signing up, select the option "I prefer to use my own email address." You can skip this step if you are using gmail.
+- [Google](https://accounts.google.com/Signup): To sign you up to our automated tools, we require you use the same email address that you enrolled with. We also require that email be linked to google. **This is really important**. Even if you have a second gmail address, please continue using the primary email you enrolled with and complete steps below. If you applied using a gmail, you don't need to link to google and can skip this step.
+
+Go to [Google](https://accounts.google.com/Signup) and select the option "I prefer to use my own email address."
+<figure>
+  <img src="../../images/google.png" alt="sign up to google"><br>
+  <figcaption>
+    <p><strong>Figure 1:</strong> google signup</p>
+  </figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <img src="../../images/google-2.png" alt="enter email to link to google"><br>
+  <figcaption>
+    <p><strong>Figure 2:</strong> Example email address</p>
+  </figcaption>
+</figure>
 
 - [Gravatar](http://en.gravatar.com/): Github will pull your picture from Gravatar. Please make sure your picture is of your face to help us recognise you.
 
