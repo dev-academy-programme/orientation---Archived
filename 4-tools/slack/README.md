@@ -17,13 +17,10 @@ firstName_lastNameINITIAL_cohort
 
 **For students, please include**
 
-1. First name
-2. Last name initial
-3. Cohort
-4. Stream cs or rb
-</br>
-Example:  Donald_D_Kakapo_C#
-</br>
+1. first name  
+2. last name initial  
+3. cohort  
+E.g. anahera_p_kakapo
 
 ## Do
 - Do use Slack to get technical assistance

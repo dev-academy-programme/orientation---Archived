@@ -14,7 +14,7 @@ You will need to set up each of these accounts before starting Phase 0. The gene
 ## Accept Invitations
 Inviations are sent out 2-5 days before phase-0 begin. Only then will these links work.
 
-- [Slack](/slack.md): Slack is where cohort communications and technical support happens. **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material.
+- [Slack](/4-tools/slack/README.md): Slack is where cohort communications and technical support happens. **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material.
 
 - [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
 
