@@ -29,9 +29,8 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
 - [Github](https://github.com/): Please create an account with **your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. Make sure it sends the right message.
 
 - [Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
-
-## Accept Invitations
-You will recieve notification that you've been invited to our google group 2-5 days before phase-0 begin. Only then will thes links to our google drive work.
+  
+Once your admission process is complete, you will recieve notification that you've been invited to our google group (usually 2-5 days before phase-0 begins.) Only then will thes links to our google drive work.
 
 - [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
 
