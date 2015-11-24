@@ -28,14 +28,12 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
 
 - [Github](https://github.com/): Please create an account with **your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. Make sure it sends the right message.
 
-## Accept Invitations
-Inviations are sent out 2-5 days before phase-0 begin. Only then will these links work.
+- [Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
 
-- [Slack](/4-tools/slack/README.md): Slack is where cohort communications and technical support happens. **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material.
+## Accept Invitations
+You will recieve notification that you've been invited to our google group 2-5 days before phase-0 begin. Only then will thes links to our google drive work.
 
 - [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
-
-- [TeamTreehouse](https://teamtreehouse.com/home): Teamtreehouse is a collection of video tutorials which will support your learning journey. EDA will provide an account for you to use during the duration of phase-0.
 
 ## Optional
 - [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. Its also a great resource to find out what tech events are happening in your region. If choosing to sign up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.

@@ -1,25 +1,25 @@
 # Slack communication channel
 
-[The Enspiral-Dev-Academy slack channel](https://enspiral-dev-academy.slack.com/messages/general/) is where most of our communications will take place.
-First off, you'll need an invitation to join the channel so have a dig around your inbox and filtered folders for the invitation. When you find it and join up, you will be auto automatically added to our core channels:
+[The Enspiral-Dev-Academy slack community](https://enspiral-dev-academy.slack.com/messages/general/) is where most of our communications will take place.
+First off, you'll need to [join the slack community](https://edaslackinvite.herokuapp.com/). When you sign up, slack will send you an automated email - if you don't see it,  have a dig around your inbox and filtered folders for the invitation.
 
+When you join up, you will be automatically added to our core channels. However you will need to *search for your cohort specific channel* (e.g. Kakapo-2016) and join it.
+
+**The core channels are**
 1. **A cohort specific channel**: For cohort communication.. say for example finding a partner to pair with.
 2. **A helpdesk channel**: Where you can ask for help on a specific thing.
 3. **A general channel**: Stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.. that sort of stuff.
 4. **A random channel**: for random stuff like Web development jokes.
-5. **An ideas-and-feedback channel** : For cool things and improvements.
+
 
 ## Your username (important)
-To better identify people on slack we would like everyone to standardise there slack user names.
-This is not a built in feature of slack so we will follow the pattern of
+To better identify people on slack we use a standardised naming convention. Please use the pattern:
 
 firstName_lastNameINITIAL_cohort
 
-**For students, please include**
-
-1. first name  
-2. last name initial  
-3. cohort  
+1. first name
+2. last name initial
+3. cohort
 E.g. anahera_p_kakapo
 
 ## Do
