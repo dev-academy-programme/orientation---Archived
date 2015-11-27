@@ -88,12 +88,3 @@ Usually you would need to download and install git on your computer or use the v
 **Intermediate Git'ers**
 - [Learn Git Branching](http://pcottle.gitHub.io/learnGitBranching/) - basic git commands and branching.
 
-## More Git Practice [Optional]
-These lessons will walk you through installing Git on your system. If you choose to do them, use them in conjunction with the gitHub user account you created as part of your [preparation](/0.1-accounts) for Phase-0
-
-- Read/try: [GitHub for begginers: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)
-- Read/try: [Git the simple guide](http://rogerdudler.gitHub.io/git-guide/)
-- Watch/try: [How to Use Git and gitHub 1: Install Git and Basic Commands](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
-- Watch/try: [Treehouse Git Basics](https://teamtreehouse.com/library/git-basics). This is a treehouse course and is only accessible with an account. As a phase-0 student you will be given access to treehouse when you begin phase-0.
-
-*Next step: See [Git and gitHub weekly workflow](using-gitHub-during-phase-0.md)*
