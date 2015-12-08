@@ -29,7 +29,7 @@ The reason we use the virtual machine is because it ensures that everyone has ex
 
 ## What if I already have linux running?
 
-**We still recommend using the virtual machine** - This is because everything is configured to run out of the box with all the necessrary software and packages installed. Unfortunately, in most cases it is impossible for us to help people setup their individual machines and doing so takes considerable amount of time away from the energy you can put into learning the material.
+**We still recommend using the virtual machine** - This is because everything is configured to run out of the box with all the necessary software and packages installed. Unfortunately, in most cases it is impossible for us to help people setup their individual machines and doing so takes considerable amount of time away from the energy you can put into learning the material.
 
 ## How to set up the box
 
