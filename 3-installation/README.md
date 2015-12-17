@@ -38,7 +38,8 @@ The reason we use the virtual machine is because it ensures that everyone has ex
 3. From a **terminal**, enter the following line of code to download and run the Phase-0 virtual machine. NOTE: This download will probably take a couple hours, but could take considerably less if you have a really fast connection. Be prepared for a wait, and ​*start it now*​.
 
 ```sh
-vagrant init eda/phase-zero; vagrant up
+vagrant init eda/phase-zero
+vagrant up
 ```
 
 4. There are 2 accounts on the machine. The `vagrant` account is only used by Vagrant. You should sign into the `dev` account with the password `academy`.
