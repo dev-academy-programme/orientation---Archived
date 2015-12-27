@@ -30,12 +30,12 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
 
 - [Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
   
-Once your admission process is complete, you will recieve notification that you've been invited to our google group (usually 2-5 days before phase-0 begins.) Only then will thes links to our google drive work.
+Once your admission process is complete, you will recieve notification that you've been invited to our google group (usually 2-5 days before phase-0 begins.) Only then will these links to our google drive work.
 
 - [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
 
 ## Optional
-- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. Its also a great resource to find out what tech events are happening in your region. If choosing to sign up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.
+- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. It's also a great resource to find out what tech events are happening in your region. If choosing to sign up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.
 
 [![Gyazo](http://i.gyazo.com/e0c8b3c2e164162d2e021619aee97881.gif)](http://gyazo.com/e0c8b3c2e164162d2e021619aee97881)
 
