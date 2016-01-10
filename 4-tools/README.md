@@ -11,5 +11,4 @@ The Enspiral Dev Academy course is very hands on. You'll be writing code almost 
 5. [Git and GitHub](./git-and-github/)
 6. [Git and GitHub weekly workflow](./git-and-github/using-github-during-phase-0.md)
 7. [Slack](./slack)
-8. [Teamtreehouse](./treehouse)
 9. [Lints and validators](./lints-and-validators)
