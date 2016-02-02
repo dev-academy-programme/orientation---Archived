@@ -7,17 +7,14 @@ Another important thing to note about this learning style is it's not necessaril
 ## Expectations
 
 1. Commit and push often!
-2. Complete weekly challenges/deliverables
-3. Submit weekly feedback form
+2. Complete weekly assignments
 4. Communicate if there are circumstances that will effect your ability to hand in work on time.
 
-Each Monday you will have a weeks worth of material and deliverables that will be given to you via GitHub. We expect that you will work incrementally on the material and have it completed by Sunday 11:59pm. At the end of each week you will need to complete a feedback form in addition to your final push.
+Each Monday you will have a weeks worth of assignments pushed to you in your waffle board. We expect that you will work incrementally on the material and have it completed by Sunday 11:59pm. 
 
 ## Pairing
 
 Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. The skills needed to be a good pair will strengthen with practice, which is why we encourage pair programming in Phase 0!
-
-While it is not mandatory, we recommend pairing twice per week, but that is up to you.
 
 For more information on how to pair see [Pairing](/9-information/pairing)
 
