@@ -6,7 +6,7 @@ Phase 0 aims to:
 
 ## Expectations
 EDA is not a traditional school. 
-- We expect you to show up with [Integrity, Kindness and Effort](#Integrity, Kindness and Effort)
+- We expect you to show up with [Integrity, Kindness and Effort](programmeprogramme)
 - We expect you to be here because you want to be here to become a web developer. 
 - We expect you to take responsibility for your own learning, which includes:
   - Being open and honest about things you are finding difficult
