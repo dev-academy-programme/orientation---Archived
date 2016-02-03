@@ -1,8 +1,8 @@
 ## Introduction
 
-Phase 0 aims to:  
-1. familiarise you to the learning culture we foster at Enspiral Dev Academy (EDA), and  
-2. provide you with the foundation of skills and understanding we require of students on bootcamp. 
+In Phase 0 you need to:  
+1. familiarise yourself with learning culture we foster at Enspiral Dev Academy (EDA), and  
+2. build the foundation of skills and understanding we require of students on bootcamp. 
 
 ## Expectations
 EDA is not a traditional school. 
