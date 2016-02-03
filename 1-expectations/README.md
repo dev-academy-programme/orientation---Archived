@@ -35,9 +35,9 @@ If you feel like we are not fulfilling these expectations, we really want to kno
 
 ## Show up with Integrity, Kindness and Effort
 
-At EDA, we are asking you to do a crazy thing: learn how to be a web developer in a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made EDA successful.
+At EDA, we are asking you to do a crazy thing: learn how to be a web developer in a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made successfully served many EDA students before you.
 
-To outline these rules we have three agreements that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
+To outline these rules we have three agreements that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program. 
 
 Please read about [The Three Agreements](/9-information/three-agreements).
 
