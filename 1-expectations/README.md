@@ -6,7 +6,7 @@ In Phase 0 you need to:
 
 ## Expectations
 EDA is not a traditional school. 
-- We expect you to show up with [Integrity, Kindness and Effort](https://github.com/dev-academy-programme/orientation/blob/master/1-expectations/README.md#show-up-with-integrity-kindness-and-effort)
+- We require you to show up with [Integrity, Kindness and Effort](https://github.com/dev-academy-programme/orientation/blob/master/1-expectations/README.md#show-up-with-integrity-kindness-and-effort)
 - We expect you to be here because you want to be here to become a web developer. 
 - We expect you to take responsibility for your own learning, which includes:
   - Being open and honest about things you are finding difficult
