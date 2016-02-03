@@ -10,6 +10,7 @@ You will need to set up each of these accounts before starting Phase 0. The gene
 1. Google
 2. Gravatar
 2. Github
+3. Waffle.io
 3. Slack
 
 ## Google
@@ -45,11 +46,11 @@ Once your admission process is complete, you will recieve notification that you'
 
 - Go to your profile page in github, then click `edit settings`>`notification center` and uncheck all the `how you receive notifications` boxes.
 
-- Watch this [tutorial on assignment management in waffle](https://vimeo.com/147405661). The password is `eda`.
-
 - **You will be sent an invitation to your cohort's github team, by email. It will come by email by the time the course starts. You must accept this invitation to access assignments and course content**
 
-
+## Waffle.io
+- Sign up to [Waffle.io](https://waffle.io/) using your GitHub account - **select private repos**.
+- Watch this [tutorial on assignment management in waffle](https://vimeo.com/147405661). The password is `eda`.
 
 ## Slack
 [Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
