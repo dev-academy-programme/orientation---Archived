@@ -39,3 +39,7 @@ E.g. anahera_p_kakapo
 For the full tour, see [Slacks official tour](https://enspiral-dev-academy.slack.com/is/team-communication)
 
 
+Here's a snapshot of Hihi-2016's cohort slack channel - a safe, fun, helpful space:
+
+![Hihi-2016 cohort chat screenshot](friendly-cohort-channel.JPG)
+
