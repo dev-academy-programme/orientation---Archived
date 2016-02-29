@@ -45,7 +45,17 @@ Once your admission process is complete, you will recieve notification that you'
 ## Github
 - [Github](https://github.com/): Please create an account with **your first name as part of your github user name.** This will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' == good. 'eda-2015-sam-coder' == not so good. Make sure it sends the right message.
 
-- Go to your profile page in github, then click `edit settings`>`notification center` and uncheck all the `how you receive notifications` boxes.
+- *Important!* Go to your profile page in github, then click `edit settings`>`notification center.` Uncheck all of the `Automatic watching` and `Watching` boxes. This will ensure that you recieve important messages from your coaches, but avoid being spammed by numerous notifications specific to waffle assignments.
+
+<figure>
+  <img src="../images/github-settings.png" alt="github settings"><br>
+  <figcaption>
+    <p><strong>Figure 1:</strong> how you recieve notifications in github</p>
+  </figcaption>
+</figure>
+
+<br>
+
 
 - **You will be sent an invitation to your cohort's github team, by email. It will come by email by the time the course starts. You must accept this invitation to access assignments and course content**
 
@@ -55,7 +65,7 @@ Once your admission process is complete, you will recieve notification that you'
 
 ## Slack
 [Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
-  
+
 ## Toggl
 - [Sign up for Toggl timer](https://toggl.com/)
 - [Get the Toggl Chrome extension](https://chrome.google.com/webstore/detail/toggl-button/oejgccbfbmkkpaidnkphaiaecficdnfn?hl=en)
