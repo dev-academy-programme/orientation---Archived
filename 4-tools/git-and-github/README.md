@@ -69,7 +69,7 @@ Since Git was designed with a big project like Linux in mind, there are a lot of
 
 `git commit:` Git’s most important command. After you make any sort of change, you input this in order to take a “snapshot” of the repository. Usually it goes `git commit -m “Message here”`. The -m indicates that the following section of the command should be read as a message.
 
-`git branch:` Working with multiple collaborators and want to make changes on your own? This command will let you build a new branch, or timeline of commits, of changes and file additions that are completely your own. Your title goes after the command. If you wanted a new branch called “cats,” you’d type Git branch cats.
+`git branch:` Working with multiple collaborators and want to make changes on your own? This command will let you build a new branch, or timeline of commits, of changes and file additions that are completely your own. Your title goes after the command. If you wanted a new branch called “cats” you’d type `git branch cats`.
 
 `git checkout:` Literally allows you to “check out” a repository that you are not currently inside. This is a navigational command that lets you move to the repository you want to check. You can use this command as `git checkout master` to look at the master branch, or `git checkout cats` to look at another branch.
 
