@@ -18,7 +18,7 @@ Changing BIOS settings can be scary if you're not used to it. [How-To Geek](http
 
 Some Microsoft Windows versions use a tool called Hyper-V that can cause problems when run concurrently with VirtualBox (they both compete for the same resources, and in fact have very similar functions). Disabling Hyper-V can be done from the Windows command prompt, but you need to open it _with administrator privileges_.
 
-1. Open `cmd.exe` by opening the Start Menu and searching for `cmd` (switch to the Start screen in Windows 8).
+1. Open `cmd.exe` by opening the Start Menu and searching for `cmd` (switch to the Start screen in Windows 8). Right click and select _Run as administrator_.
 2. Type the following command:
   ```shell
   bcdedit /set hypervisorlaunchtype off
