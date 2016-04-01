@@ -31,3 +31,7 @@ There's a known issue with Vagrant and Windows 10 that requires installation of 
 ### 6. I had to interrupt the install, and now when I restart I get `Vagrantfile already exists in this directory`
 
 You can either remove the Vagrantfile with `rm Vagrantfile`, or simply skip the `vagrant init` step and type `vagrant up`.
+
+### 7. The VM loads, but I can't access the internet from inside it
+
+Try changing the networking type in the VM (from VirtualBox). It will normally be set to _NAT_; try _Bridged_.
