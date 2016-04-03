@@ -35,3 +35,7 @@ You can either remove the Vagrantfile with `rm Vagrantfile`, or simply skip the 
 ### 7. The VM loads, but I can't access the internet from inside it
 
 Try changing the networking type in the VM (from VirtualBox). It will normally be set to _NAT_; try _Bridged_.
+
+### 8. Install fails with an error similar to `Box ... could not be found`
+
+This is usually caused by entering the name of the EDA VM incorrectly, or a network problem somewhere between you and the Vagrant server. Check the name carefully: it should look like `eda/phase-zero`. You may want to copy/paste the command from the instructions rather than trust your typing!
