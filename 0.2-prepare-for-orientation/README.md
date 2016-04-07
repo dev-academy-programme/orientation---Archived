@@ -1,7 +1,7 @@
 # Prepare for introduction session
 
 ## Virtual orientation (introduction session)
-On day one of phase-0, we will host two **virtual** orientations via Zoom. These are typically at 1pm and 6pm and last for 45 minutes. Your facilitator will confirm the time nd send out an invite in your Cohort slack channel. It is necessary to participate in **either** of the sessions, but not both.
+On day one of phase-0, we will host two **virtual** orientations via Zoom. These are typically at 1pm and 6pm and last for 45 minutes. Your facilitator will confirm the time and send an invite in your Cohort slack channel. It is necessary to participate in **either** of the sessions, but not both.
 
 ## Personal preparation (optional)
 You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (often at the same time). It's important to prepare yourself for success by recognising how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at EDA more fulfilling. You will be spending a significant amount of time working with others, so it's important to practice explaining your ideas to others. **keep track of your results and enter them in the prep form**
