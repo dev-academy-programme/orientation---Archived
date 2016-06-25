@@ -1,5 +1,7 @@
 # Prepare for introduction session
 
+This si a test fork experiment
+
 ## Virtual orientation (introduction session)
 On day one of phase-0, we will host two **virtual** orientations via Zoom. These are typically at 1pm and 6pm and last for 45 minutes. Your facilitator will confirm the time and send an invite on your Cohort slack channel. It is necessary to participate in **either** of the sessions, but not both.
 
