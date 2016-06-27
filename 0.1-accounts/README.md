@@ -7,13 +7,13 @@ You will need to set up each of these accounts before starting Phase 0. The gene
 
 ## Accounts you need
 
-1. Google
-2. Gravatar
+1. Gravatar
 2. Github
 3. Waffle.io
 3. Slack
 4. Toggl timer
 
+<!--
 ## Google
 [Google](https://accounts.google.com/Signup): To sign you up to our automated tools, we require you use the same email address that you enrolled with. We also require that email be linked to google. **This is really important**. Even if you have a second gmail address, please continue using the primary email you enrolled with and complete steps below. If you applied using a gmail, you don't need to link to google and can skip this step.
 
@@ -26,6 +26,7 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
 </figure>
 
 
+
 <figure>
   <img src="../images/google-2.png" alt="enter email to link to google"><br>
   <figcaption>
@@ -33,11 +34,11 @@ Go to [Google](https://accounts.google.com/Signup) and select the option "I pref
   </figcaption>
 </figure>
 
-<br>
-
 Once your admission process is complete, you will recieve notification that you've been invited to our google group (usually 2-5 days before phase-0 begins.) Only then will these links to our google drive work.
 
-- [Google groups / Google drive](https://drive.google.com/a/enspiral.com/folderview?id=0B5aB0OHeInzgeWZoQm9VaWJQeWc&usp=sharing): This is a mailing list for your cohort (e.g. Kakapo-2015@devacademy.co.nz) and provides access to learning materials stored on the student drive.
+-->
+<br>
+
 
 ## Gravatar
 [Gravatar](http://en.gravatar.com/): Github will pull your picture from Gravatar. Please make sure your picture is of your face to help us recognise you.
