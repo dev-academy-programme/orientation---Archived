@@ -4,7 +4,7 @@ For general information about Git and GitHub see [git and GitHub intro](../git-a
 
 To pass copies of the your repository around to your team, you need a place to put a copy where everyone on your team can have access to it. That is what GitHub does. Really, that's almost all it does: provide a place for you to store your code.
 
-As part of your preparation for Phase-0 you should have set up an account on [GitHub](https://GitHub.com/) using your first name as part of your GitHub user name. If not, go set one up right now. Note that the general practice on GitHub is to use "train-case" (all lowercase letters with words separated by hyphens). So if you're name were Mohandas K. Gandhi, your GitHub username would be `mohandas-k-gandhi`, or just `mohandas-gandhi`. In the future, you may be involved in many projects involving GitHub, using your own name for your GitHub account, where possible, works best.
+As part of your preparation for Phase 0 you should have set up an account on [GitHub](https://GitHub.com/) using your first name as part of your GitHub user name. If not, go set one up right now. Note that the general practice on GitHub is to use "train-case" (all lowercase letters with words separated by hyphens). So if you're name were Mohandas K. Gandhi, your GitHub username would be `mohandas-k-gandhi`, or just `mohandas-gandhi`. In the future, you may be involved in many projects involving GitHub, using your own name for your GitHub account, where possible, works best.
 
 Once you have an account, you can create your first repository. Then we'll clone it to your new virtual machine.
 
@@ -73,56 +73,35 @@ We've added a folder inside your home folder called "workspace". This is a commo
 ## Step 3: Clone your repo to workspace
 
 - Inside the workspace directory clone the repo into your workspace. Do this by pasting the copied link from the GitHub repo that you created in Step one, (figure 2). E.g. `git clone https://the-link-you-copied-when-you-created-your-repo.git`.
-
-<figure>
-  <img src="../../images/cloning.png" alt="Cloning the Repo"><br>
-  <figcaption>
-    <p><strong>Figure 3:</strong> Clone the repo into your workspace folder</p>
-  </figcaption>
-</figure>
-
 - Move into your repo's folder using the `cd` command, e.g., `cd sprint-1`.
 - View the contents of the folder using `ls -al`. You should see the sprint file you just created.
-- Open the cloned file in Sublime Text 3 using the command `subl .`.
+- Open the cloned file in Atom using the command `atom .`.
 
 <figure>
-  <img src="../../images/in-the-repo.png" alt="Open the repo in a text editor"><br>
+  <img src="../../images/git-atom-terminal.png" alt="Clone the repo and open in Atom"><br>
   <figcaption>
-    <p><strong>Figure 4:</strong> CD into the repo and open it in Sublime</p>
+    <p><strong>Figure 3:</strong> Clone the repo into your workspace folder, open in Atom</p>
   </figcaption>
 </figure>
+
 
 ## Step 4: Create a new file in your directory
 
-Now Sublime has opened in the `sprint-1` folder and I see this:
+Now Atom has opened in the `sprint-1` folder and I see this:
 
 <figure>
-  <img src="../../images/repo-open-in-subl.png" alt="Project open in Sublime"><br>
+  <img src="../../images/repo-in-atom.png" alt="Project open in Atom"><br>
   <figcaption>
-    <p><strong>Figure 5:</strong> The repo open in Sublime Text 3</p>
+    <p><strong>Figure 4:</strong> The repo open in Atom</p>
   </figcaption>
 </figure>
 
-- Use `Control-s` to open the Save dialog. Note that it opens in the root folder of your project.
-- Type the name of the file you want to save. Here we'll use `test.md`.
+- Create a new file using _File_ / _New File_. The shortcut key will be either `Ctrl-N` or `Cmd-N` depending on your operating system. Note that the file opens in the root folder of your project, and is labelled 'untitled.'
+- Open the 'Save File' dialog using either `Ctrl-S` or `Cmd-S`. Type the name of the file you want to save. Here we'll use `test.md`.
 - Click the Save button or hit the Enter key to save the file.
+- Now add some example text to the file. Note that when the changes to a file are unsaved, a dot appears next to the filename.
+- Use `Ctrl-S` or `Cmd-S` again to save your changes. As the file already has a name, the Save dialog will not open. The changes will be saved and the dot on the tab will disappear.
 
-<figure>
-  <img src="../../images/save-dialog.png" alt="Save dialog"><br>
-  <figcaption>
-    <p><strong>Figure 6:</strong> Creating a new file called <code>test.md</code> in Sublime Text 3</p>
-  </figcaption>
-</figure>
-
-- Now add some example text to the file. Note that when the changes to a file are unsaved, the little `x` in the tab changes to a dot.
-- Use `Control-s` again to save your changes. As the file already has a name, the Save dialog will not open. The changes will be saved and the dot on the tab will change back to the `x`.
-
-<figure>
-  <img src="../../images/some-test-text.png" alt="Adding example text"><br>
-  <figcaption>
-    <p><strong>Figure 7:</strong> Adding example text (before saving).</p>
-  </figcaption>
-</figure>
 
 ## Step 6: Stage files to be committed
 
@@ -137,7 +116,7 @@ But first, let's see what changes there are to be added. We can check this at an
 <figure>
   <img src="../../images/staging.png" alt="Staging files"><br>
   <figcaption>
-    <p><strong>Figure 8:</strong> Staging the <code>test.md</code> file.</p>
+    <p><strong>Figure 5:</strong> Staging the <code>test.md</code> file.</p>
   </figcaption>
 </figure>
 
@@ -162,7 +141,7 @@ git commit -m "Add sample text"
 <figure>
   <img src="../../images/whoops.png" alt="Whoopsie!"><br>
   <figcaption>
-    <p><strong>Figure 9:</strong> Oops. Something went wrong.</p>
+    <p><strong>Figure 6:</strong> Oops. Something went wrong.</p>
   </figcaption>
 </figure>
 
@@ -178,7 +157,7 @@ git config --global user.name "Your Name"
 <figure>
   <img src="../../images/complete-the-commit.png" alt="Completing the commit"><br>
   <figcaption>
-    <p><strong>Figure 10:</strong> Completing our commit.</p>
+    <p><strong>Figure 7:</strong> Completing our commit.</p>
   </figcaption>
 </figure>
 
@@ -193,7 +172,7 @@ We push the changes to GitHub with a simple `git push`:
 <figure>
   <img src="../../images/pushing.png" alt="Pushing to GitHub"><br>
   <figcaption>
-    <p><strong>Figure 11:</strong> Pushing our changes to GitHub.</p>
+    <p><strong>Figure 8:</strong> Pushing our changes to GitHub.</p>
   </figcaption>
 </figure>
 
@@ -206,7 +185,7 @@ git config --global push.default simple
 <figure>
   <img src="../../images/push-default.png" alt="Setting push.default"><br>
   <figcaption>
-    <p><strong>Figure 12:</strong> Setting the push.default for all time!</p>
+    <p><strong>Figure 9:</strong> Setting the push.default for all time!</p>
   </figcaption>
 </figure>
 
@@ -233,7 +212,7 @@ The `-b` tells git to create the branch. `checkout` checks it out. `sample-featu
 <figure>
   <img src="../../images/git-checkout-b.png" alt="Checkout new branch"><br>
   <figcaption>
-    <p><strong>Figure 13:</strong> Creating and checking out a new branch</p>
+    <p><strong>Figure 10:</strong> Creating and checking out a new branch</p>
   </figcaption>
 </figure>
 
@@ -244,9 +223,9 @@ Notice how the name of the branch has changed from "master" to "sample-feature".
 The branch we created is in our local repository only. If we want to push a copy to the remote repository (GitHub, known as the "origin"), then we'll need to specify both the remote repository and our local branch. Let's start by making some changes to our branch.
 
 <figure>
-  <img src="../../images/new-file.png" alt="Adding a new file"><br>
+  <img src="../../images/atom-new-file.png" alt="Adding a new file"><br>
   <figcaption>
-    <p><strong>Figure 14:</strong> Changes to the sample-feature branch</p>
+    <p><strong>Figure 11:</strong> Changes to the sample-feature branch</p>
   </figcaption>
 </figure>
 
@@ -260,7 +239,7 @@ git push origin sample-branch
 <figure>
   <img src="../../images/push-branch.png" alt="Pushing the new branch"><br>
   <figcaption>
-    <p><strong>Figure 15:</strong> Pushing the new branch to GitHub (origin)</p>
+    <p><strong>Figure 12:</strong> Pushing the new branch to GitHub (origin)</p>
   </figcaption>
 </figure>
 
@@ -275,7 +254,7 @@ Now we can push to our hearts content with nothing more than `git push`. Of cour
 <figure>
   <img src="../../images/track-remote-branch.png" alt="Tracking the remote branch"><br>
   <figcaption>
-    <p><strong>Figure 16:</strong> Telling git which remote branch tracks this one</p>
+    <p><strong>Figure 13:</strong> Telling git which remote branch tracks this one</p>
   </figcaption>
 </figure>
 
@@ -286,7 +265,7 @@ Now that we've committed and pushed our changes to the sample-feature branch, we
 <figure>
   <img src="../../images/git-merge-master.png" alt="Merging into master"><br>
   <figcaption>
-    <p><strong>Figure 16:</strong> "Fast-forward" merging sample-feature into master</p>
+    <p><strong>Figure 14:</strong> "Fast-forward" merging sample-feature into master</p>
   </figcaption>
 </figure>
 
@@ -307,7 +286,7 @@ We go to the official repository we want to clone. For example, suppose I wanted
 <figure>
   <img src="../../images/forking.png" alt="Forking a repo"><br>
   <figcaption>
-    <p><strong>Figure 17:</strong> Click the "Fork" button to fork the repo</p>
+    <p><strong>Figure 15:</strong> Click the "Fork" button to fork the repo</p>
   </figcaption>
 </figure>
 
@@ -316,25 +295,16 @@ After I've forked the repository to my own account, it looks like this. Notice t
 <figure>
   <img src="../../images/forked.png" alt="Forked repo"><br>
   <figcaption>
-    <p><strong>Figure 17:</strong> The repo is now "forked" onto my personal account</p>
+    <p><strong>Figure 16:</strong> The repo is now "forked" onto my personal account</p>
   </figcaption>
 </figure>
 
-I can now clone this to my development machine, make changes, commit them, etc. Here I clone the forked repo:
-
-<figure>
-  <img src="../../images/clone-the-fork.png" alt="Cloning the forked repo"><br>
-  <figcaption>
-    <p><strong>Figure 18:</strong> Now I've changed folders, cloned the fork, and opened it in Sublime</p>
-  </figcaption>
-</figure>
-
-I made a small change in a file using Sublime Text 3, then saved the change. Now I do the normal staging, commit and push:
+I can now clone this to my development machine, make changes, commit them, etc.  Say I made a small change in a file using Atom, then saved the change. Now I do the normal staging, commit and push:
 
 <figure>
   <img src="../../images/push-the-fork.png" alt="Pushing changes to the forked repo"><br>
   <figcaption>
-    <p><strong>Figure 19:</strong> After making my changes, I stage, commit, and push normally</p>
+    <p><strong>Figure 18:</strong> After making my changes, I stage, commit, and push normally</p>
   </figcaption>
 </figure>
 
@@ -343,7 +313,7 @@ Now we can go back to *my* GitHub account and create a pull request. To the righ
 <figure>
   <img src="../../images/comparing-changes.png" alt="Comparing changes to the forked repo"><br>
   <figcaption>
-    <p><strong>Figure 20:</strong> Next-to-last step before creating the pull request</p>
+    <p><strong>Figure 19:</strong> Next-to-last step before creating the pull request</p>
   </figcaption>
 </figure>
 
@@ -352,7 +322,7 @@ We can also scroll down to see what has changed in this pull request. This is ca
 <figure>
   <img src="../../images/comment-pull-request.png" alt="Commenting on changes to the forked repo"><br>
   <figcaption>
-    <p><strong>Figure 21:</strong> Last step before creating the pull request</p>
+    <p><strong>Figure 22:</strong> Last step before creating the pull request</p>
   </figcaption>
 </figure>
 
@@ -363,7 +333,7 @@ Now, if we were those owners, we'd see a pull request show up on our repo. (Note
 <figure>
   <img src="../../images/new-pull-request.png" alt="New pull request"><br>
   <figcaption>
-    <p><strong>Figure 22:</strong> The owners of the official repo see our pull request</p>
+    <p><strong>Figure 23:</strong> The owners of the official repo see our pull request</p>
   </figcaption>
 </figure>
 
@@ -372,7 +342,7 @@ As an owner, I can click on "Pull requests" and see the waiting pull requests:
 <figure>
   <img src="../../images/waiting-pull-requests.png" alt="Waiting pull request"><br>
   <figcaption>
-    <p><strong>Figure 22:</strong> Waiting pull requests</p>
+    <p><strong>Figure 24:</strong> Waiting pull requests</p>
   </figcaption>
 </figure>
 
@@ -381,7 +351,7 @@ I can click on the "Fix minor wording" pull request to check it out before accep
 <figure>
   <img src="../../images/merge-pull-request.png" alt="Merge pull request"><br>
   <figcaption>
-    <p><strong>Figure 23:</strong> Merge or close the pull request</p>
+    <p><strong>Figure 25:</strong> Merge or close the pull request</p>
   </figcaption>
 </figure>
 
