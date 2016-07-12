@@ -7,7 +7,7 @@ The Enspiral Dev Academy course is very hands on. You'll be writing code almost 
 1. [Vagrant](./vagrant/)
 2. [Terminal / the Command Line](./terminal/)
 3. [Chrome Developer Tools](./chrome-dev-tools/)
-4. [Sublime Text 3](./sublime-text-3/)
+4. [Atom](./atom/)
 5. [Git and GitHub](./git-and-github/)
 6. [Git and GitHub weekly workflow](./git-and-github/using-github-during-phase-0.md)
 7. [Slack](./slack)
