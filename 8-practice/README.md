@@ -6,10 +6,11 @@ It's important to be able to type at a decent clip in this new career you've emb
 - Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type.
 - To learn the basics in touch typing and to improve your speeds, try either [typingstudy](http://www.typingstudy.com/lesson/1/part/1) or [typingclub](http://www.typingclub.com/typing-qwerty-en.html).
 - If you are already an accomplished touch typist, try [typing.io](https://typing.io/) to practice typing code, which has a ton of strange symbols.
-- For shortcuts, try [shortcutfoo](http://www.shortcutfoo.com). You'll want to know about some of the awesome sublime text shortcuts.
+- For shortcuts, try [shortcutfoo](http://www.shortcutfoo.com). You'll want to know about some of the awesome Atom shortcuts.
+
 You need to be able to:
  - Type at least 40 words per minute
- - Use common shortcuts in Sublime
+ - Use common shortcuts in Atom
 
 ## Javascript
 - [Read/Watch: Kirupa's tutorials on Javascript](http://www.kirupa.com/javascript_basics/index.htm). Kirupa uses a lot of visual material and analogies. He's awesome.
