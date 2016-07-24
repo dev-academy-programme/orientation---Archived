@@ -26,7 +26,7 @@ brew install git
 
 ### Atom
 
-Install Atom by following the instructions at [the Flight Manual](http://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac). We have a section with some suggestions on which plugins to install [here](../4-Tools/Atom/README.md).
+Install Atom by following the instructions at [the Flight Manual](http://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac). We have a section with some suggestions on which plugins to install [here](../4-tools/atom/README.md).
 
 
 ### Zsh
@@ -56,16 +56,16 @@ If you're running a recent version of Windows 10 you may be able to use Bash for
 Otherwise, we recommend using the terminal that comes with Git for Windows, Git BASH (see below), which at least lets you execute most of the basic commands.
 
 
-### Atom
-
-The install instructions for Atom are fairly comprehensive. See its section under [Tools](../4-Tools/atom/README.md) for more details.
-
-
 ### Git
 
 For Windows, we suggest you start with [Git for Windows](https://git-for-windows.github.io/). This comes with Git BASH, which you could open any time the Phase 0 instructions talk about using the terminal or command line. It provides many of the commands that terminals on OSX and Linux provide.
 
 Note that we don't suggest you use their graphical version of Git, because you need to get familiar with the terminal and typing commands.
+
+
+### Atom
+
+The install instructions for Atom are fairly comprehensive. See its section under [Tools](../4-tools/atom/README.md) for more details.
 
 
 ## Linux instructions
