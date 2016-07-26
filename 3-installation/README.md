@@ -9,7 +9,7 @@ Many EDA staff also like using Zsh - the Z shell - and usually a framework for i
 
 ### Terminal
 
-We recommend you use the [iTerm2](https://www.iterm2.com/) terminal. Download and install it from the linked site. There's a terminal called, oddly enough, 'terminal' provided with OSX, but iTerm2 is better.
+We recommend you use the [iTerm2](https://www.iterm2.com/) terminal. Although you _could_ complete Phase 0 without it, it's extremely popular among OS X developers, has a lot of extra features and makes things look nicer in the default configuration. Download and install it from the linked site. There's a terminal called, oddly enough, 'terminal' provided with OSX, but iTerm2 is better.
 
 Once you've installed iTerm2, there's a great package manager for OS X called [Homebrew](https://brew.sh) which we recommend you install. It takes care of installing and updating other tools you'll need. Go to [https://brew.sh](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window.
 
