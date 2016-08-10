@@ -14,7 +14,7 @@ You need to be able to:
 
 ## Javascript
 - [Read/Watch: Kirupa's tutorials on Javascript](http://www.kirupa.com/javascript_basics/index.htm). Kirupa uses a lot of visual material and analogies. He's awesome.
-- [Play: Learn Javascript by playing a Game](http://codecombat.com/play). The game default lanugage is Python - Be sure to select "Javascript" when prompted 
+- [Play: Learn Javascript by playing a Game](http://codecombat.com/play). The game default language is Python - Be sure to select "Javascript" when prompted 
 - [Play: Learn Javascript by Game Challenges](https://www.codeavengers.com/).
 - [Watch/Do: Code Schools introduction to Javascript](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
@@ -25,13 +25,12 @@ You need to be able to:
 - [Watch/Do: Treehouse Front End Development course](https://teamtreehouse.com/tracks/front-end-web-development)
 
 ## HTML and CSS
-- [Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web). 
+- [Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web).
 - [Read/Do: Learn HTML/CSS Shaye Howe](http://learn.shayhowe.com/html-css/)
 - [Build a website with CodeAcademy](https://www.codecademy.com/learn/web)
 
 ## Git and GitHub
-- [See Git and GitHub in Tools section](../4-tools/git-and-github#giving-git-a-test-drive) 
+- [See Git and GitHub in Tools section](../4-tools/git-and-github#giving-git-a-test-drive)
 
 ## Command line
 - [See Command line/terminal in Tools section](../4-tools/terminal#practicing-the-command-line)
-
