@@ -18,4 +18,34 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.7/install.sh | b
 
 Node on Windows is a little trickier, but definitely still possible. Try using [Node Version Manager for Windows](https://github.com/coreybutler/nvm-windows/releases).
 
-You may find [Babun](https://babun.github.io) useful as a Windows shell/terminal.
+We recommend you use [Babun](https://babun.github.io) as a Windows shell/terminal.
+
+
+## Building native modules
+
+Building native modules with node uses a tool called node-gyp. These modules require languages and tools other than plain JavaScript to work. One of these tools is node-inspector, the debugging tool we use. Most encryption/hashing tools (bcrypt, libsodium) will also require a native module.
+
+Guidelines for each operating system on setting up to build native modules can be found [here](https://github.com/nodejs/node-gyp).
+
+
+## Mac / OSX
+
+If you don't already have them, you may need to install `libtool`, `autoconf`, and `automake`:
+
+```shell
+brew install libtool autoconf automake
+```
+
+You may also need XCode: a free, albeit large, download from the App Store.
+
+
+## Windows
+
+To build native modules on Windows, we need to install the [windows-build-tools]() package:
+
+```shell
+npm install windows-build-tools --global --production
+```
+
+This installs versions of tools required for some `npm install` commands that won't interfere with tools you might already have installed on your machine. If the above doesn't work, you might need to consult [the node-gyp instructions](https://github.com/nodejs/node-gyp) and possibly [Compiling native addon modules](https://github.com/Microsoft/nodejs-guidelines/blob/master/windows-environment.md#compiling-native-addon-modules).
+
