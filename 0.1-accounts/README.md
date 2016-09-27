@@ -3,7 +3,7 @@
 
 Ngā mihi nui kia koutou katoa! Warm greetings to you all! Welcome to Dev Academy.
 
-You will need to set up each of these accounts before starting Phase 0. The general rule of thumb is to **use your first name as part of your username wherever possible** and include a photo of yourself (i.e. not your cat or bike). This helps us (the EDA community of staff, teachers, coaches and alumni) to better support you.
+You will need to set up these accounts before starting Phase 0. The general rule of thumb is to **use your first name as part of your username wherever possible** and include a photo of yourself (i.e. not your cat or bike). This helps us (the EDA community of staff, teachers, coaches and alumni) to better support you.
 
 ## Accounts you need
 
