@@ -17,7 +17,7 @@ Complete **before** you begin Phase 0.
 3. [Installation](/installation) (varies, start now)
 4. [Tools you will use](/tools/) (45 minutes)
 5. [Resources you will use](/resources/) (10 minutes)
-6. [Accessibility to persons with disabilities](/accessibility/) (15 minutes)
+6. [Web accessibility](/accessibility/) (15 minutes)
 7. [Empathy](/empathy/) (10 minutes)
 
 
