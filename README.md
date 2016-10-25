@@ -8,6 +8,7 @@ Complete upon acceptance to the programme.
 2. [Prepare for introduction session](prepare-for-orientation) (10 minutes)
 3. [Complete the preparation form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) (2 minutes)
 
+
 ## Orientation
 
 Complete **before** you begin Phase 0.
