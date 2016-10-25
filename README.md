@@ -28,7 +28,7 @@ We recommend you be familiar with these tools and technologies.
 1. [Command line/Terminal](tools/terminal#practicing-the-command-line)
 2. [Typing and shortcuts](practice#typing-and-shortcuts)
 3. [Git and Github](tools/git-and-github#giving-git-a-test-drive)
-4. [Javascript](practice#javascript)
+4. [JavaScript](practice#javascript)
 5. [HTML/CSS](practice#html-and-css)
 
 
