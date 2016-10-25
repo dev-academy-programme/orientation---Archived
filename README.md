@@ -44,8 +44,7 @@ Important information including policies, contact lists, learning strategies etc
 6. [Changing cohorts or withdrawing](/changing-cohorts-or-withdrawing)
 7. [Contact and support](/contact-and-support)
 8. [Dev Academy agreements](/dev-academy-agreements)
-9. [Learning strategies](/learning-strategies)
-10. [Pairing](/pairing)
-11. [Research and debugging](/research-and-debugging)
-12. [Use of space](/use-of-space)
+9. [Pairing](/pairing)
+10. [Research and debugging](/research-and-debugging)
+11. [Use of space](/use-of-space)
 
