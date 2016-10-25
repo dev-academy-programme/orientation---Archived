@@ -8,12 +8,13 @@ Knowing how to use your command line will be vital to your success as a programm
 # Practicing the command line
 
 Both these tutorials can help you get more familiar with the command line
-- [Read/do: The command line crash course](http://cli.learncodethehardway.org/book/)
+- [Read/do: The command line crash course](https://learnpythonthehardway.org/book/appendixa.html) (it's been moved to the appendix of a Python book, but don't let that stop you!)
 - [Read/do: Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
+
 
 # Common commands
 
-Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., vim or emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument. There are a small set of commands you'll need to get started with the terminal.
+Some people memorize a lot of commands for the terminal, and use terminal-based text applications (e.g., Vim or Emacs). If you invest enough time in such tools, you can become extremely fast. But it's a big up-front investment, kind of like learning a musical instrument. There are a small set of commands you'll need to get started with the terminal.
 
 ## pwd
 
@@ -102,6 +103,6 @@ To get out of the shell (terminal), just type `exit` and hit Enter.
 
 ## Resources
 
-- [Cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf) (that'll keep ya busy)
+- [Cheat sheets](https://rumorscity.com/2014/08/16/6-best-linuxunix-command-cheat-sheet/) (that'll keep ya busy)
 
 
