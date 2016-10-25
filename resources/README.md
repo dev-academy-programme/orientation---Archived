@@ -16,7 +16,7 @@ Throughout your career as a web developer or in a related field, you will often 
 
 The greatest value of Enspiral, after the opportunities to learn soft skills, is the availability of significant and easy-to-find resources. Please don't miss this opportunity to launch your career into the stratosphere.
 
-The biggest resource available to you is your instructors. Throughout Phase-0, *use the Slack channel to get help*. You can also message instructors directly if it's not something you want to share with the entire channel.
+The biggest resource available to you is your instructors. Throughout Phase 0, *use the Slack channel to get help*. You can also message instructors directly if it's not something you want to share with the entire channel.
 
 ## Resources
 

@@ -25,7 +25,7 @@ This policy aims at helping you adapt to the Dev Academy learning culture. If yo
 ## Withdrawing from Phase 0
 If you have decided to leave the program, there are a few steps we ask you to take to do this.
 
-**If you have not started Phase 0** yet, or are in the Week 0 module, please contact both <mailto:admissions@devacademy.co.nz> and your phase-0 facilitator to let us know of your decision.
+**If you have not started Phase 0** yet, or are in the Week 0 module, please contact both <mailto:admissions@devacademy.co.nz> and your Phase 0 facilitator to let us know of your decision.
 
 You will need to complete the [withdrawal form](http://goo.gl/forms/heEV7aH0zh)
 

@@ -1,6 +1,6 @@
 # Best practices for success
 
-The **Phase-0** material is organized into a series of nine "sprints", each approximately a week in length for the typical student. You can move faster or slower, but if you think 1 sprint = 1 week you'll have a good idea of your pace.
+The **Phase 0** material is organized into a series of nine "sprints", each approximately a week in length for the typical student. You can move faster or slower, but if you think 1 sprint = 1 week you'll have a good idea of your pace.
 
 You can also do deeper or shallower dives into the material, but do try to make it through all the material before the course starts as we'll be working with the presumption that you've already seen this material.
 
@@ -21,7 +21,7 @@ At the beginning of each sprint, review the list of objectives and any deliverab
 
 We'll give you time estimates for these parts. These will range widely as some of us move more quickly than others. Also, the time required will depend on how deeply and thoroughly you work through the material.
 
-**Don't go down rabbit holes!** You're not Alice in Wonderland (though you may sometimes feel like Alice), so do stay out of rabbit holes. To "go down a rabbit hole" means to get so involved in or obsessed with a topic that you spent way too much time on it. The material in Phase-0 other than the code is for your *familiarization*. You are not meant to become an expert in any of this.
+**Don't go down rabbit holes!** You're not Alice in Wonderland (though you may sometimes feel like Alice), so do stay out of rabbit holes. To "go down a rabbit hole" means to get so involved in or obsessed with a topic that you spent way too much time on it. The material in Phase 0 other than the code is for your *familiarisation*. You are not meant to become an expert in any of this.
 
 ## Skim the material
 
