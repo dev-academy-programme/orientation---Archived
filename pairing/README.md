@@ -22,6 +22,7 @@ That said pairing varies between teams.  Some pair 99% of the time; some pair on
 Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open-mind on pairing throughout EDA and challenge yourself to work on your pairing skills while here.
 
 ## Expectations
+
 As part of Phase 0, students are expected to pair program with a member of their cohort at least once a week.
 
 * It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties
@@ -29,7 +30,7 @@ As part of Phase 0, students are expected to pair program with a member of their
 * You should work on any of the challenges
 * When you arrange your pairing sessions, you should decide the following:
   1. What challenge to work on
-  2. Whether you will 1) attempt the challenge first or 2) decide to save the challenge for your pairing session and not work on it before the session
+  2. Whether you will attempt the challenge first or decide to save the challenge for your pairing session and not work on it before the session
   3. What time you need to finish the session
 
 
@@ -54,6 +55,7 @@ You will be successful if you:
 
 
 ### Problems and Tips
+
 Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
 
 **Problem: "My pair isn't responding to my messages."**
@@ -91,12 +93,13 @@ Half way through each pairing session you and your pair should switch roles if y
 
 
 ## Successful Pairing
+
 Successful pairing requires two components:
 
 **Good Communication**
 Good communication during pairing is mainly through vocalizing your thoughts and thought process.
 - If you don't understand, you should tell your partner.
-- If you want to try something in IRB or NETRepl, tell your pair.
+- If you want to try something in a REPL like Codepen or JSFiddle, tell your pair.
 - If you want to go research something, tell your partner.
 *Tell your partner everything you are thinking and doing!*
 
@@ -107,11 +110,12 @@ Both people should know the exact line of code and the solution or concept they 
 
 
 ## Remote pairing
+
 Pairing remotely is more difficult than pairing in person.  You can't see a person's body language or face.  To be successful, **remote pairing requires discipline in adhering to pairing roles and excessive communication.**
 
 While pairing in Phase 0, **you cannot communicate too much**.  For realz.
 
 ## Respectful Communication
-I hope it goes without saying (but I will say it anyway) that pairing or any other communication during EDA should not involve inappropriate topics.  EDA is a respectful place filled with people of diverse backgrounds.  In particular, comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
 
+We hope it goes without saying (but we'll say it anyway) that pairing or any other communication during EDA should not involve inappropriate topics.  EDA is a respectful place filled with people of diverse backgrounds.  In particular, comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please contact your facilitator if you feel another student violated this policy.
 
