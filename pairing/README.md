@@ -24,16 +24,13 @@ Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2
 ## Expectations
 As part of Phase 0, students are expected to pair program with a member of their cohort at least once a week.
 
-* It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties**
+* It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties
 * You should set aside at least 45 minutes for each pairing session
 * You should work on any of the challenges
 * When you arrange your pairing sessions, you should decide the following:
   1. What challenge to work on
   2. Whether you will 1) attempt the challenge first or 2) decide to save the challenge for your pairing session and not work on it before the session
   3. What time you need to finish the session
-
-
-**Note: In most cases you should pair with someone in your accountability group.
 
 
 ## Courtesy
