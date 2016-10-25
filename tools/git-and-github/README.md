@@ -12,24 +12,14 @@ So to conclude, GitHub is a tool that you download and GitHub is a service that 
 ## Git
 
 During your Dev Academy experience (and for the most part of your web development career) you will be using Git and GitHub daily.
-**During Phase-0 you will be using a virtual machine that has Git already installed.** Nonetheless there is nothing stopping you from downloading Git and having a play around with it on your local (not virtual) machine.
 
-While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamiliar with the command line interface please see the tools section - [command line interface](../terminal)
+While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamiliar with the command line interface please see the tools section - [command line interface](/terminal)
 
 ## Why use Git
-Without Git or another form of version control system (VCS), being a web developer would be significantly more painful day to day. Using a
-VCS is extra work, and the advantages aren't always obvious. But trust us, Git is a very powerful (and essential) tool for collaboration.
 
-<!--
-Looking at some of the problems you can run into without Git can give us some clues as to why Git is helpful.
+Without Git or another form of version control system (VCS), being a web developer would be significantly more painful day to day. Using a VCS is extra work, and the advantages aren't always obvious. But trust us, Git is a very powerful (and essential) tool for collaboration.
 
-* You spend a couple of days working on a feature for a client, you send it off to the client for review, but the client doesn't like it and asks you to remove it. So you delete the feature and keep working. But a couple of days later she changes her mind. Its a pity to have to redo it all.
 
-* The client hires another developer to help you out. You send the other person a copy of the code, you give them a task, you start on your new task, and the two of you work on your own copy of the code. What happens when you both finish? How do you merge those changes together into one version to show the client? You would probably have to compare each copy side by side and then decide what to keep, or what to change. Doing this with two people would be cumbersome enough, so what would you do if you worked with 5, 10 or 20 people? You would have no time to code as you would spend all your time copying, pasting and comparing files.
-
-A VCS (e.g. Git) takes care of all of this for you.
-
--->
 ## How Git works
 
 With Git, each project has its own repository - a collection of all the versions of the project along with some special information - What order the changes occurred; A description of each change; who was responsible for each change etc.
@@ -39,7 +29,7 @@ Git doesn't automatically keep track of your versions - You have to explicitly t
 Most of the time when you interact with your project, the complexity is hidden so that you won't even know it is there until you need to interact with it. Git has a set of tools to review your project history - For example, providing you the ability to view or filter the full list of commits, or even switch what version your project is currently displaying. Want to go take a look at what your project
 looked like this time last week, last month, last year? Git will let you do all of those things and more, often with just one command.
 
-## Words people talk about when they talk about Git
+## Words people use when they talk about Git
 *Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)*
 
 `Command Line:` The computer program we use to input Git commands. On a Mac, it’s called Terminal. On a PC, it’s a non-native program that you download when you download Git for the first time. In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.

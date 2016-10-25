@@ -6,7 +6,7 @@ In Phase 0 you need to:
 
 ## Expectations
 EDA is not a traditional school. 
-- We require you to show up with [Integrity, Kindness and Effort](https://github.com/dev-academy-programme/orientation/blob/master/1-expectations/README.md#show-up-with-integrity-kindness-and-effort)
+- We require you to show up with [Integrity, Kindness and Effort](expectations/README.md#show-up-with-integrity-kindness-and-effort)
 - We expect you to be here because you want to be here to become a web developer. 
 - We expect you to take responsibility for your own learning, which includes:
   - Being open and honest about things you are finding difficult
@@ -31,7 +31,8 @@ In Phase 0, you can expect us to:
   - you've already earnestly attempted to overcome the problem, read any error messages, googled, and reached out to your cohort
   - between the hours of 9:00 - 17:00, Monday to Friday
 
-If you feel like we are not fulfilling these expectations, we really want to know - please email Pete at [pete@devacademy.co.nz](mailto:pete@devacademy.co.nz)
+If you feel like we are not fulfilling these expectations, we really want to know - please talk to us on Slack or tell us via the weekly feedback forms.
+
 
 ## Show up with Integrity, Kindness and Effort
 
@@ -39,10 +40,12 @@ At EDA, we are asking you to do a crazy thing: learn how to be a web developer i
 
 To outline these rules we have three agreements that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program. 
 
-Please read about [The Three Agreements](/9-information/three-agreements).
+Please read about [The Three Pillars](/three-pillars).
+
 
 ## Learning strategies
-Read more about our approach to education in the [Learning strategies section ](/9-information/learning-strategies)
+
+Read more about our approach to education in the [Learning strategies section ](/learning-strategies)
 
 
 ## Looking for work

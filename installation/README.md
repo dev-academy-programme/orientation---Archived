@@ -26,7 +26,7 @@ brew install git
 
 ### Atom
 
-Install Atom by following the instructions at [the Flight Manual](http://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac). We have a section with some suggestions on which plugins to install [here](../4-tools/atom/README.md).
+Install Atom by following the instructions at [the Flight Manual](http://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac). We have a section with some suggestions on which plugins to install [here](/tools/atom/README.md).
 
 
 ### Zsh
@@ -65,7 +65,7 @@ Note that we don't suggest you use their graphical version of Git, because you n
 
 ### Atom
 
-The install instructions for Atom are fairly comprehensive. See its section under [Tools](../4-tools/atom/README.md) for more details.
+The install instructions for Atom are fairly comprehensive. See its section under [Tools](/tools/atom/README.md) for more details.
 
 
 ## Linux instructions
@@ -110,7 +110,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 Atom is the default editor for EDA. It's what we recommend to students as their first code editor, and you'll find it installed on all our machines at the school. You can experiment with other editors as you get more confident, but Atom's a great choice when you're starting out and many professional coders use it as their main editor.
 
-We've included a bit more of a guide under [Tools](../4-tools/atom/README.md).
+We've included a bit more of a guide under [Tools](/tools/atom/README.md).
 
 
 ## The Dev Academy Virtual Machine

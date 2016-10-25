@@ -13,32 +13,6 @@ You will need to set up these accounts before starting Phase 0. The general rule
 3. Slack
 4. Toggl timer
 
-<!--
-## Google
-[Google](https://accounts.google.com/Signup): To sign you up to our automated tools, we require you use the same email address that you enrolled with. We also require that email be linked to google. **This is really important**. Even if you have a second gmail address, please continue using the primary email you enrolled with and complete steps below. If you applied using a gmail, you don't need to link to google and can skip this step.
-
-Go to [Google](https://accounts.google.com/Signup) and select the option "I prefer to use my own email address."
-<figure>
-  <img src="../images/google.png" alt="sign up to google"><br>
-  <figcaption>
-    <p><strong>Figure 1:</strong> google signup</p>
-  </figcaption>
-</figure>
-
-
-
-<figure>
-  <img src="../images/google-2.png" alt="enter email to link to google"><br>
-  <figcaption>
-    <p><strong>Figure 2:</strong> Example email address</p>
-  </figcaption>
-</figure>
-
-Once your admission process is complete, you will recieve notification that you've been invited to our google group (usually 2-5 days before phase-0 begins.) Only then will these links to our google drive work.
-
--->
-<br>
-
 
 ## Gravatar
 [Gravatar](http://en.gravatar.com/): Github will pull your picture from Gravatar. Please make sure your picture is of your face to help us recognise you.
@@ -65,7 +39,7 @@ Once your admission process is complete, you will recieve notification that you'
 - Watch this [tutorial on assignment management in waffle](https://vimeo.com/147405661). The password is `eda`.
 
 ## Slack
-[Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/4-tools/slack/README.md):
+[Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/tools/slack/README.md):
 
 ## Toggl
 - [Sign up for Toggl timer](https://toggl.com/)
@@ -80,4 +54,4 @@ You'll use the toggl buttons on your assignment waffle cards to record how much 
 
 
 ## Next up:
-[Prepare for orientation](/0.2-prepare-for-orientation/README.md)
+[Prepare for orientation](/prepare-for-orientation/README.md)
