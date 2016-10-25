@@ -30,7 +30,7 @@ You need to be able to:
 - [Build a website with CodeAcademy](https://www.codecademy.com/learn/web)
 
 ## Git and GitHub
-- [See Git and GitHub in Tools section](../4-tools/git-and-github#giving-git-a-test-drive)
+- [See Git and GitHub in Tools section](/tools/git-and-github#giving-git-a-test-drive)
 
 ## Command line
-- [See Command line/terminal in Tools section](../4-tools/terminal#practicing-the-command-line)
+- [See Command line/terminal in Tools section](/tools/terminal#practicing-the-command-line)
