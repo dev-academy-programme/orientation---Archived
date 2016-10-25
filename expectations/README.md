@@ -42,12 +42,12 @@ At EDA, we are asking you to do a crazy thing: learn how to be a web developer i
 
 We have three pillars that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program. 
 
-Please read about [The Three Pillars](/three-pillars).
+Please read about [The Three Pillars](/three-pillars/README.md).
 
 
 ## Learning strategies
 
-Read more about our approach to education in the [Learning strategies section ](/learning-strategies)
+Read more about our approach to education in the [Learning strategies section ](/learning-strategies/README.md)
 
 
 ## Looking for work
