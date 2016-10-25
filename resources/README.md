@@ -2,11 +2,13 @@
 
 ## Objectives
 
-Learn the resources available to you to help you to succeed and, indeed, *excel* in the Enspiral course.
+Learn the resources available to you to help you to succeed and, indeed, *excel* at Enspiral Dev Academy.
+
 
 ## Deliverables
 
 Read and heed. Ask questions on the Slack channel if you are unsure about anything.
+
 
 ## Use your resources!
 
@@ -14,9 +16,10 @@ When students fail to live up to their fullest potential in this course, as in r
 
 Throughout your career as a web developer or in a related field, you will often find yourself in demanding situations, and at times your resources may be limited. This can be quite frustrating.
 
-The greatest value of Enspiral, after the opportunities to learn soft skills, is the availability of significant and easy-to-find resources. Please don't miss this opportunity to launch your career into the stratosphere.
+The greatest value of EDA, after the opportunities to learn soft skills, is the availability of significant and easy-to-find resources. Please don't miss this opportunity to launch your career into the stratosphere.
 
 The biggest resource available to you is your instructors. Throughout Phase 0, *use the Slack channel to get help*. You can also message instructors directly if it's not something you want to share with the entire channel.
+
 
 ## Resources
 
@@ -26,5 +29,5 @@ The biggest resource available to you is your instructors. Throughout Phase 0, *
 - Organize your bookmarks. A bookmark you can't find might as well not exist.
 - Learn how to use the documentation. Yes, it's a lot of reading. Get used to it now. The API documentation, tutorials, standards, etc. may seem daunting at first, but they will be your best friends when you are stuck on some problem. And let us not forget Google! No one really knows how web developers worked before Google, but we think it may have involved stone knives and bearskin rugs.
 - Learn how to use forums, IRC, gitter, etc. There are many tools out there for you to use to find the answer to your problem. At the top of that list is [StackExchange](http://stackoverflow.com/), usually called "stack overflow". But IRC channels, [gitter channels](https://gitter.im/), [Google forums](https://groups.google.com/forum/#!overview), GitHub issues, and much more are available 24/7 with folks eager to answer your most foolish questions. Don't keep them waiting!
-8. Slack your instructors and teammates! Speak up! As them Romans used to say, [*audentes fortuna iuvat*](https://en.wikipedia.org/wiki/Fortune_favours_the_bold).
+- Slack your instructors and teammates! Speak up! As them Romans used to say, [*audentes fortuna iuvat*](https://en.wikipedia.org/wiki/Fortune_favours_the_bold).
 
