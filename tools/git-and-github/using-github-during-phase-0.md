@@ -6,14 +6,14 @@ To pass copies of the your repository around to your team, you need a place to p
 
 As part of your preparation for Phase 0 you should have set up an account on [GitHub](https://GitHub.com/) using your first name as part of your GitHub user name. If not, go set one up right now. Note that the general practice on GitHub is to use "train-case" (all lowercase letters with words separated by hyphens). So if you're name were Mohandas K. Gandhi, your GitHub username would be `mohandas-k-gandhi`, or just `mohandas-gandhi`. In the future, you may be involved in many projects involving GitHub, using your own name for your GitHub account, where possible, works best.
 
-Once you have an account, you can create your first repository. Then we'll clone it to your new virtual machine.
+Once you have an account, you can create your first repository. Then we'll clone it to your computer. We often call the cloned copy 'local' and the one on GitHub 'remote'.
 
 # GitHub workflow:
 
 This is an example of how you will be interacting with GitHub each week.
 
 You will learn how to
-* Create a standard workspace directory (A folder which will hold all of your EDA repositories)
+* Create a standard workspace directory (A directory which will hold all of your EDA repositories)
 * Create a repository (E.g. `sprint-1)
 * Clone it, make changes to it, commit them and push to GitHub
 
@@ -21,7 +21,7 @@ Estimated time to complete: 10 minutes
 
 # Contents 
 - [Create a repo](#step-1-create-a-repo)
-- [Go to working folder](#step-2-go-to-your-working-folder)
+- [Go to working directory](#step-2-go-to-your-working-directory)
 - [Cloning](#step-3-clone-your-repo-to-workspace)
 - [Create a new file](#step-3-clone-your-repo-to-workspace)
 - [Stage files (add, commit)](#step-6-stage-files-to-be-committed)
@@ -53,7 +53,7 @@ Then click that big green `Create repository` button. C'mon. You know you want t
   </figcaption>
 </figure>
 
-Great. You've got a repo! Now we need to clone our repo into your working folder.
+Great. You've got a repo! Now we need to clone our repo into your working directory.
 You should see an "Https clone URl" to the right of your newly cloned repo (image below). Click that little clipboard button to copy the URL of the repository to your clipboard.
 
 <figure>
@@ -63,31 +63,31 @@ You should see an "Https clone URl" to the right of your newly cloned repo (imag
   </figcaption>
 </figure>
 
-## Step 2: Go to your working folder
+## Step 2: Go to your working directory
 
-We've added a folder inside your home folder called "workspace". This is a common convention. You should put all your repositories in this folder so they are easy to find and keep track of.
+Add a directory inside your home directory called "workspace". This is a common convention. You should put all your repositories in this directory so they are easy to find and keep track of.
 
-- Open the terminal on your virtual machine.
+- Open the terminal
 - Type `cd ~/workspace`.
 
 ## Step 3: Clone your repo to workspace
 
 - Inside the workspace directory clone the repo into your workspace. Do this by pasting the copied link from the GitHub repo that you created in Step one, (figure 2). E.g. `git clone https://the-link-you-copied-when-you-created-your-repo.git`.
-- Move into your repo's folder using the `cd` command, e.g., `cd sprint-1`.
-- View the contents of the folder using `ls -al`. You should see the sprint file you just created.
+- Move into your repo's directory using the `cd` command, e.g., `cd sprint-1`.
+- View the contents of the directory using `ls -al`. You should see the sprint file you just created.
 - Open the cloned file in Atom using the command `atom .`.
 
 <figure>
   <img src="../../images/git-atom-terminal.png" alt="Clone the repo and open in Atom"><br>
   <figcaption>
-    <p><strong>Figure 3:</strong> Clone the repo into your workspace folder, open in Atom</p>
+    <p><strong>Figure 3:</strong> Clone the repo into your workspace directory, open in Atom</p>
   </figcaption>
 </figure>
 
 
 ## Step 4: Create a new file in your directory
 
-Now Atom has opened in the `sprint-1` folder and I see this:
+Now Atom has opened in the `sprint-1` directory and I see this:
 
 <figure>
   <img src="../../images/repo-in-atom.png" alt="Project open in Atom"><br>
@@ -96,7 +96,7 @@ Now Atom has opened in the `sprint-1` folder and I see this:
   </figcaption>
 </figure>
 
-- Create a new file using _File_ / _New File_. The shortcut key will be either `Ctrl-N` or `Cmd-N` depending on your operating system. Note that the file opens in the root folder of your project, and is labelled 'untitled.'
+- Create a new file using _File_ / _New File_. The shortcut key will be either `Ctrl-N` or `Cmd-N` depending on your operating system. Note that the file opens in the root directory of your project, and is labelled 'untitled.'
 - Open the 'Save File' dialog using either `Ctrl-S` or `Cmd-S`. Type the name of the file you want to save. Here we'll use `test.md`.
 - Click the Save button or hit the Enter key to save the file.
 - Now add some example text to the file. Note that when the changes to a file are unsaved, a dot appears next to the filename.
@@ -105,7 +105,7 @@ Now Atom has opened in the `sprint-1` folder and I see this:
 
 ## Step 6: Stage files to be committed
 
-So now we have these changes on our computer, but only in our folder. The changes have not been recorded by the repository, neither have they been pushed up to GitHub. So let's do that. You should save, stage and commit changes, and push them to GitHub *very* frequently. Waiting until you've finished a project or even a significant amount of work before committing the changes defeats the purpose of a version control system! So commit frequently and push regularly.
+So now we have these changes on our computer, but only in our directory. The changes have not been recorded by the repository, neither have they been pushed up to GitHub. So let's do that. You should save, stage and commit changes, and push them to GitHub *very* frequently. Waiting until you've finished a project or even a significant amount of work before committing the changes defeats the purpose of a version control system! So commit frequently and push regularly.
 
 Before we can commit the files to the repository, we have to "stage" them. This is how we tell git which files we want to put in the repository. It's kind of like putting things in a box by the front door so you remember to move them to the garage for storage.
 
@@ -363,7 +363,7 @@ And that's all there is to forking and pull requests. You'll be using them a lot
 
 We'll try to review your code each week, time permitting. To do this, we'll fork a copy of your repository to one of our GitHub accounts. Then we'll clone it to our development machine.
 
-In our forked and cloned copy, we'll add a folder called `review` with a file in it called `README.me`. (The README.md file is a [Markdown-enabled](https://help.github.com/articles/github-flavored-markdown/) file that GitHub will display automatically when you click on this folder. This saves you the trouble of opening the file directly.)
+In our forked and cloned copy, we'll add a directory called `review` with a file in it called `README.me`. (The README.md file is a [Markdown-enabled](https://help.github.com/articles/github-flavored-markdown/) file that GitHub will display automatically when you click on this directory. This saves you the trouble of opening the file directly.)
 
 We'll add any notes we have about your sprint to this `review/README.md` file. Then will save it, stage it, commit it, and push it to our forked copy of your repository.
 
