@@ -1,6 +1,6 @@
-# The Three Agreements: Integrity, Kindness, and Effort (IKE)
+# The Three Pillars: Integrity, Kindness, and Effort (IKE)
 
-At Dev Academy, we have three agreements that guide our actions (this includes staff). We expect every person to uphold these values every day in Phase 0 and in the program. By enrolling in EDA, you agree to these agreements.
+At Dev Academy, our community has three pillars that guide our actions (this includes staff). We expect every person to uphold these values every day in Phase 0 and in the program. By enrolling in EDA, you agree to also uphold these values.
 
 
 ## The first agreement: Integrity
@@ -28,13 +28,13 @@ We expect all of you and staff to show kindness by providing feedback and code r
 Last but not least, we expect you to be kind to yourself.  You've taken a big risk and are making a big change.  Give yourself some space and understanding as you face the challenges of our program.
 
 ## The third agreement: Effort
-This may be the most straight-forward agreement. In essence, we expect you to bring your whole self (your intelligence, focus, creativity, and personality) into each challenge every day. This means that we expect you to do your best to meet each learning competency. If you are struggling, we expect you to ask others (including staff) for help.
+This may be the most straight-forward pillar. In essence, we expect you to bring your whole self (your intelligence, focus, creativity, and personality) into each challenge every day. This means that we expect you to do your best to meet each learning competency. If you are struggling, we expect you to ask others (including staff) for help.
 
 We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The EDA experience is fundamentally about *learning*. We expect you to demonstrate effort and mastery of each learning competency by completing the challenges.
 
-***
+----
 
-**Not meeting these agreements are grounds for being asked to leave the program (at any phase).**
+**Not upholding and exemplifying these values are grounds for being asked to leave the program (at any phase).**
 
 We will send periodic updates to those of you who have not submitted your work or have fallen out of integrity in other ways. These emails are not meant to shame. Rather, we simply want to remind you of your agreement to come to EDA in integrity, with kindness, and with effort everyday. We want to give everyone the opportunity to meet these agreements.
 

@@ -36,16 +36,16 @@ We recommend you be familiar with these tools and technologies.
 
 Important information including policies, contact lists, learning strategies etc.
 
-1. [Anti-harassment policy](/anti-harassment-policy)
-2. [Code of conduct](/code-of-conduct)
-3. [Accountability groups](/accountability-groups)
-4. [Approach to learning](/approach-to-learning)
-5. [Changing cohorts or withdrawing](/changing-cohorts-or-withdrawing)
-6. [Contact and support](/contact-and-support)
-7. [Dev Academy agreements](/dev-academy-agreements)
-8. [Learning strategies](/learning-strategies)
-9. [Pairing](/pairing)
-10. [Research and debugging](/research-and-debugging)
-11. [Three agreements](/three-agreements)
+1. [Three pillars](/three-pillars)
+2. [Anti-harassment policy](/anti-harassment-policy)
+3. [Code of conduct](/code-of-conduct)
+4. [Accountability groups](/accountability-groups)
+5. [Approach to learning](/approach-to-learning)
+6. [Changing cohorts or withdrawing](/changing-cohorts-or-withdrawing)
+7. [Contact and support](/contact-and-support)
+8. [Dev Academy agreements](/dev-academy-agreements)
+9. [Learning strategies](/learning-strategies)
+10. [Pairing](/pairing)
+11. [Research and debugging](/research-and-debugging)
 12. [Use of space](/use-of-space)
 
