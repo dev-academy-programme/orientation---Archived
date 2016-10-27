@@ -19,7 +19,7 @@ Software Engineers pair in order to:
 
 That said pairing varies between teams.  Some pair 99% of the time; some pair only some of the time; others pair only when it makes sense.
 
-Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open-mind on pairing throughout EDA and challenge yourself to work on your pairing skills while here.
+Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open mind on pairing throughout EDA and challenge yourself to work on your pairing skills while here.
 
 ## Expectations
 
