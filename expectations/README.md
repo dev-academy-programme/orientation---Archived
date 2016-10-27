@@ -10,7 +10,7 @@ In Phase 0 you need to:
 
 EDA is not a traditional school. 
 - We require you to show up with [Integrity, Kindness and Effort](#show-up-with-integrity-kindness-and-effort)
-- We expect you to be here because you want to be here to become a web developer. 
+- We expect you to be here because you want to be here to become a web developer 
 - We expect you to take responsibility for your own learning, which includes:
   - Being open and honest about things you are finding difficult
   - Tracking your own progress
