@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Dev Academy is committed to creating and protecting an equal, inclusive, and empathetic educational community. We are all stewards of this unique learning environment. Every one of us is responsible for upholding these values whenever we participate in all aspects of the EDA community.
+Dev Academy is committed to creating and protecting an equal, safe, inclusive, and empathetic educational community. We are all stewards of this unique learning environment. Every one of us is responsible for upholding these values whenever we participate in all aspects of the EDA community.
 
 In particular:
 
