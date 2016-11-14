@@ -9,7 +9,7 @@ Pair programming has gained in popularity among companies as enabling developers
 
 [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming) is an important part of the culture and teaching style of EDA.  We believe that everyone learns better by teaching and mentoring.
 
-Additionally, pair programming and [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) are increasingly common in software development in general and pretty standard for Ruby on Rails jobs.  It is also likely to be part of the interview process.
+Additionally, pair programming and [Agile Development](http://en.wikipedia.org/wiki/Agile_software_development) are increasingly common in software development in general and pretty standard for web dev jobs. It is also likely to be part of the interview process.
 
 Software Engineers pair in order to:
 
