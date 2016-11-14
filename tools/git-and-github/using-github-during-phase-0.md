@@ -19,7 +19,7 @@ You will learn how to
 
 Estimated time to complete: 10 minutes
 
-# Contents 
+# Contents
 - [Create a repo](#step-1-create-a-repo)
 - [Go to working directory](#step-2-go-to-your-working-directory)
 - [Cloning](#step-3-clone-your-repo-to-workspace)
@@ -275,7 +275,7 @@ Forks and pull requests are not a feature of git, but of GitHub. They are a way 
 
 For example, suppose that you want to help us to fix a typo in this repository. If you lack permission to commit changes to this repository, then that makes it difficult, no? You can clone the repository, but when you try to push changes you'll get a message that you don't have the authority to do so.
 
-But not all is lost! You can "fork" your own copy of our repo, and then clone that. You make changes to your own copy and push them to your forked repo. Then you create a "pull request" that let's us know that you have changes you'd like us to incorporate into our canonical repo. We can see the changes, and we can agree to incorporate them or not. It's up to us.
+But not all is lost! You can "fork" your own copy of our repo, and then clone that. You make changes to your own copy and push them to your forked repo. Then you create a "pull request" that lets us know that you have changes you'd like us to incorporate into our canonical repo. We can see the changes, and we can agree to incorporate them or not. It's up to us.
 
 This is how many open source projects work if you're not a "committer"&mdash;i.e., not someone who has the authority to make commits and pushes to the actual repo. For such circumstances, you'll fork a copy, make your changes (or your "patch" to their code), and then submit a pull request. If they like what you did, they'll pull the changes into the official repo. If you do this often enough, they might even invite you to become a "committer". Big prestige points!
 

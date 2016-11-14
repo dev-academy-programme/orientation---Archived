@@ -3,18 +3,18 @@
 In Phase 0 you need to:  
 
 1. familiarise yourself with the learning culture we foster at Enspiral Dev Academy (EDA), and  
-2. build the foundation of skills and understanding we require of students on bootcamp. 
+2. build the foundation of skills and understanding we require of students on bootcamp.
 
 
 ## Expectations
 
-EDA is not a traditional school. 
+EDA is not a traditional school.
 - We require you to show up with [Integrity, Kindness and Effort](#show-up-with-integrity-kindness-and-effort)
-- We expect you to be here because you want to be here to become a web developer 
+- We expect you to be here because you want to be here to become a web developer
 - We expect you to take responsibility for your own learning, which includes:
   - Being open and honest about things you are finding difficult
   - Tracking your own progress
-  - Reaching out when you have questions or need help 
+  - Reaching out when you have questions or need help
   - Communicate with us if there are circumstances that will effect your ability to keep up with the assignments
 - We expect you to constructively engage with your cohort
 - We expect you to complete all core assignments to the best of your ability by bootcamp
@@ -38,9 +38,9 @@ If you feel like we are not fulfilling these expectations, we really want to kno
 
 ## Show up with Integrity, Kindness and Effort
 
-At EDA, we are asking you to do a crazy thing: learn how to be a web developer in a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made successfully served many EDA students before you.
+At EDA, we are asking you to do a crazy thing: learn how to be a web developer in a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have successfully served many EDA students before you.
 
-We have three pillars that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program. 
+We have three pillars that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
 
 Please read about [The Three Pillars](/three-pillars/README.md).
 
