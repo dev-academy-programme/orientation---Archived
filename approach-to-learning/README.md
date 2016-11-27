@@ -14,8 +14,6 @@ In order to be successful at Dev Academy, students need to:
 
 The Phase 0 program attempts to bring the EDA environment to your home in a way that helps you prepare for your new life and enter Phase 1 at a level where you feel prepared enough to be successful. That said, Phase 0 is a different beast than the on-site portion of Dev Academy. Because you are remote, you need to be far more organized than you will when you get on-site. You will have to manage peer pairing, guided pairing sessions, challenges per week, reflections, etc. It will take quite a bit of organizational work, so be ready for it. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. You can't assume your Phase 0 facilitator will initiate contact in the event you fall behind. It is up to you to take Phase 0 seriously and to learn as much as you can. Teachers and facilitators are here to guide you and help you, but Dev Academy relies on students taking the initiative to learn.
 
-*Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/)*
-
 ## Tips for Success
 Whatever your learning or thinking style, here are a few strategies you can try to incorporate to help you learn and succeed.
 
