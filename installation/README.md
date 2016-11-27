@@ -115,11 +115,9 @@ Atom is the default editor for EDA. It's what we recommend to students as their 
 We've included a bit more of a guide under [Tools](/tools/atom/README.md).
 
 
-## The Dev Academy Virtual Machine
+## The Dev Academy Virtual Machine (optional)
 
-**(Get started as soon as possible. Everything will take awhile to download, and you cannot interupt or pause the download progress without starting again from the beginning.)**
-
-If you want to, you can use a [_virtual machine_](https://en.wikipedia.org/wiki/Virtual_machine) for some or all of your Phase 0 work. This is a "computer within a computer": your own computer _emulates_ another kind of computer, allowing you to run the exact same set of programs as other students on the course. Essentially, it means that you download our computer to yours.
+If the above options aren't working out for you, you can choose to use a Dev Academy [_virtual machine_](https://en.wikipedia.org/wiki/Virtual_machine) for some or all of your Phase 0 work. This is a "computer within a computer": your own computer _emulates_ another kind of computer, allowing you to run the exact same set of programs as other students on the course. Essentially, it means that you download our computer to yours.
 
 The virtual machine (VM) runs [Ubuntu Linux](https://ubuntu.com), which features a set of tools commonly used by web developers. When you're in our VM it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a [_sandbox_](https://en.wikipedia.org/wiki/Sandbox_(computer_security)), so it can't hurt your computer. 
 
@@ -137,6 +135,8 @@ Running two computers on one set of hardware does make everything run a bit slow
 
 
 ## How to set up the box
+
+**(Please note that everything will take awhile to download, and you cannot interupt or pause the download progress without starting again from the beginning.)**
 
 1. Go to [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and download and install the correct VirtualBox application for your operating system.
 2. Go to [Vagrant](https://www.vagrantup.com/downloads.html) and download and install the correct Vagrant application for your operating system.
