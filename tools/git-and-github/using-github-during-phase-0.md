@@ -233,7 +233,7 @@ The branch we created is in our local repository only. If we want to push a copy
 Then we'll stage and commit our changes, then we'll push and create the new remote branch.
 
 ```sh
-git push origin sample-branch
+git push origin sample-feature
 ```
 
 <figure>
@@ -290,7 +290,7 @@ We go to the official repository we want to clone. For example, suppose I wanted
   </figcaption>
 </figure>
 
-After I've forked the repository to my own account, it looks like this. Notice that we're not on *my* account, not "dev-academy-phase0", and that next to the "Fork" button, the number of forks is now 1.
+After I've forked the repository to my own account, it looks like this. Notice that we're now on *my* account, not "dev-academy-phase0", and that next to the "Fork" button, the number of forks is now 1.
 
 <figure>
   <img src="../../images/forked.png" alt="Forked repo"><br>
