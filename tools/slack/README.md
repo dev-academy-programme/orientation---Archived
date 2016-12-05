@@ -25,25 +25,16 @@ firstName_lastNameINITIAL_cohort
 
 E.g. anahera_p_kakapo
 
-## Do
-
-- Do use Slack to get technical assistance
-
-## Don't
-
-- Don't use Slack for extension requests
-- Don't use Slack for communications with EDA staff that are non-technical
-
 
 ## Using Slack
 
-We recommend that anytime you are working on the material you have the [Slack app](https://slack.com/downloads).
+We recommend that anytime you are working on the material you have the [Slack app](https://slack.com/downloads) open.
 
 To see who is in the channel, click the 'i' icon in the top right corner. If you have a specific question for someone you can direct message them, but keep in mind that others in the community might know the answer too, so don't cut yourself off from the pool of community knowledge by posting unnecessary private messages.
 
 You can tag someone in your post by putting an @ in front of their user name. If they are not online, they will be notified via email. If you want the whole group to know something, you can use @channel. This will send an email to everyone in the channel. Nonetheless *refrain from using @channel for channels that are not the cohort channel*.
 
-For the full tour, see [Slack's official tour](https://enspiral-dev-academy.slack.com/is/team-communication)
+For the full tour, see [Slack's official tour](https://enspiral-dev-academy.slack.com/is/team-communication).
 
 Here's a snapshot of Hihi-2016's cohort slack channel - a safe, fun, helpful space:
 
