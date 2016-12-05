@@ -39,7 +39,7 @@ You will need to set up these accounts before starting Phase 0. The general rule
 - Watch this [tutorial on assignment management in waffle](https://vimeo.com/147405661). The password is `eda`.
 
 ## Slack
-[Slack](https://edaslackinvite.herokuapp.com/): Slack is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/) **Please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see [EDA Slack user guide](/tools/slack/README.md):
+[Slack](https://edaslackinvite.herokuapp.com/) is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/), **please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see the [EDA Slack user guide](/tools/slack/README.md).
 
 ## Toggl
 - [Sign up for Toggl timer](https://toggl.com/)
