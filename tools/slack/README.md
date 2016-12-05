@@ -2,9 +2,10 @@
 
 [The Enspiral Dev Academy Slack community](https://enspiral-dev-academy.slack.com/messages/general/) is where most of our communications will take place. First off, you'll need to [join the Slack community](https://edaslackinvite.herokuapp.com/). When you sign up, Slack will send you an automated email. If you don't see it, have a dig around your inbox and filtered folders for the invitation.
 
-When you join up, you will be automatically added to our core channels. However you will need to *search for your cohort specific channel* (e.g. Kakapo-2016) and join it. You should also join:
+When you join up, you will be automatically added to our core channels. However you will need to *search for your cohort specific channel* (e.g. #kakapo-2016) and join it. You should also join:
 
 **The core channels are**
+
 1. **Your cohort-specific channel**: for cohort communication. For example, finding a partner to pair with, problem solving, and checkin coordination.
 2. **#code-helpdesk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
 3. **#general**: stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
