@@ -23,7 +23,7 @@ We recommend you use [Babun](https://babun.github.io) as a Windows shell/termina
 
 ## Building native modules
 
-Building native modules with node uses a tool called node-gyp. These modules require languages and tools other than plain JavaScript to work. One of these tools is node-inspector, the debugging tool we use. Most encryption/hashing tools (bcrypt, libsodium) will also require a native module.
+Building native modules with node uses a tool called node-gyp. These modules require languages and tools other than plain JavaScript to work. Most encryption/hashing tools (bcrypt, libsodium) will also require a native module.
 
 Guidelines for each operating system on setting up to build native modules can be found [here](https://github.com/nodejs/node-gyp).
 
