@@ -44,12 +44,6 @@ We have three pillars that guide the actions of everyone in the EDA community (s
 
 Please read about [The Three Pillars](/three-pillars/README.md).
 
-
-## Learning strategies
-
-Read more about our approach to education in the [Learning strategies section ](/learning-strategies/README.md)
-
-
 ## Looking for work
 
 Until you have graduated, please don't try to look for work as a developer. This includes applying for internship programs like Summer of Tech. At the end of the bootcamp we run a careers week which will help launch you into the job market.
