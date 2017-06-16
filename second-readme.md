@@ -12,4 +12,4 @@ Complete these steps **before** you begin Phase 0.
 6. [Web accessibility](/accessibility/) (15 minutes)
 7. [Empathy](/empathy/) (10 minutes)
 
-**Next up:** [Get a head start](third-readme.md)
+**Next up:** Once you've finished the steps above, you can [get yourself a head start](third-readme.md)!
