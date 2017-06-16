@@ -31,3 +31,7 @@ Connecting with others takes some time and energy. It may sometimes feel like a 
 > "If you want to go fast, go alone. If you want to go far, go together"
   
 In our experience, this is true. Your cohort is a valuable resource - connect, share and collaborate!
+
+------
+
+Back to [preparation work (second stage)](second-readme.md)
