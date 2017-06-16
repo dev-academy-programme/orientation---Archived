@@ -1,6 +1,6 @@
 # Get a head start
 
-Woohoo, you've completed the first two stages of prepation for Dev Academy! Nice going! Now it's time to get a head start.
+Woohoo, you've completed the [second stage of preparation](second-readme.md) for Dev Academy! Nice going! Now it's time for the final steps to give yourself a head start.
 
 We recommend you be familiar with these tools and technologies:
 
