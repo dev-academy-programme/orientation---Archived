@@ -79,7 +79,7 @@ Chances are if you're running Linux you probably have a fair idea of what you ne
 
 ### Terminal
 
-You definitely already have a terminal installed, which will probably be GNOME Terminal in Ubuntu. This is a perfectly good terminal emulator and you can happily carry on using it. 
+You definitely already have a terminal installed, which will probably be GNOME Terminal in Ubuntu. This is a perfectly good terminal emulator and you can happily carry on using it.
 
 
 ### Git
@@ -119,7 +119,7 @@ We've included a bit more of a guide under [Tools](/tools/atom/README.md).
 
 If the above options aren't working out for you, you can choose to use a Dev Academy [_virtual machine_](https://en.wikipedia.org/wiki/Virtual_machine) for some or all of your Phase 0 work. This is a "computer within a computer": your own computer _emulates_ another kind of computer, allowing you to run the exact same set of programs as other students on the course. Essentially, it means that you download our computer to yours.
 
-The virtual machine (VM) runs [Ubuntu Linux](https://ubuntu.com), which features a set of tools commonly used by web developers. When you're in our VM it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a [_sandbox_](https://en.wikipedia.org/wiki/Sandbox_(computer_security)), so it can't hurt your computer. 
+The virtual machine (VM) runs [Ubuntu Linux](https://ubuntu.com), which features a set of tools commonly used by web developers. When you're in our VM it is *exactly as if* you were on an actual Ubuntu machine. Because you are! It's a full Ubuntu installation. But it runs inside a [_sandbox_](https://en.wikipedia.org/wiki/Sandbox_(computer_security)), so it can't hurt your computer.
 
 
 ## Requirements
@@ -186,7 +186,7 @@ Hey, let's take a "snapshot" of the machine so that if you do somehow break it, 
 3. Click on the _Snapshots_ toggle button in the upper corner of the VirtualBox window.
 4. Click on the little icon that looks like a camera (sort of).
 5. Give your snapshot a name, such as "Clean install" or something like that.
-6. Click OK to save your snapshot. 
+6. Click OK to save your snapshot.
 
 Now, if you ever install something that gives your VM indigestion, you can just switch back to the clean install.
 
@@ -202,8 +202,3 @@ Have fun!
 - [Linux terminal](http://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Mac terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 - [Windows Command Prompt in 15 minutes](http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
-
-
-------
-
-Back to [preparation work (second stage)](second-readme.md)

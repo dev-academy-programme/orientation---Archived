@@ -47,7 +47,3 @@ Please read about [The Three Pillars](/three-pillars/README.md).
 ## Looking for work
 
 Until you have graduated, please don't try to look for work as a developer. This includes applying for internship programs like Summer of Tech. At the end of the bootcamp we run a careers week which will help launch you into the job market.
-
-------
-
-Back to [preparation work (second stage)](second-readme.md)

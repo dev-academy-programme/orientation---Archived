@@ -54,7 +54,3 @@ Even if you end up mostly skimming a section, try to get at least some familiari
 To iterate is to loop back. You'll hear that word a lot as a developer. This entire course (and, indeed, your work as a developer) will involve regular reiteration. So start now. Every couple of weeks, take a moment to look back and skim through notes, resources, and previous material. Try redoing anything you've forgotten or think you can quickly do better.
 
 This should be a cumulative process, each sprint building on the previous sprints. If you're not experiencing it that way, please let us know ASAP.
-
-------
-
-Back to [preparation work (second stage)](second-readme.md)

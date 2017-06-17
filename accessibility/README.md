@@ -26,7 +26,3 @@ To learn a bit about accessibility before we get started, please take a few mome
 - [Accessible technology at the UW](http://www.washington.edu/accessibility/web/)
 - [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) (Google)
 - [Designing an accessible website](http://www.afb.org/info/programs-and-services/technology-evaluation/creating-accessible-websites/123) (AFB)
-
-------
-
-Back to [preparation work (second stage)](second-readme.md)
