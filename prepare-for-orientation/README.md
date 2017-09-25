@@ -12,4 +12,5 @@ You are about to embark on a new learning experience. You will be challenged in 
 ## Next up:
 <a href="https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform" target="_blank">Complete the prep form</a>. <br>
 
-and then 
+
+Once you're finished the Virtual Orientation, you can [go through to the next stage of preparation](../course-prep.md), when you're ready
