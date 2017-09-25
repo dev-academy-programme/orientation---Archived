@@ -11,7 +11,6 @@ You will need to set up these accounts before starting Phase 0. The general rule
 2. Github
 3. Waffle.io
 3. Slack
-4. Toggl timer
 
 
 ## Gravatar
@@ -40,17 +39,6 @@ You will need to set up these accounts before starting Phase 0. The general rule
 
 ## Slack
 [Slack](https://edaslackinvite.herokuapp.com/) is where cohort communications and technical support happens. Once you have [signed up for our EDA slack community](https://edaslackinvite.herokuapp.com/), **please download the [desktop app](https://slack.com/apps)** and have it open when working on the material. For more information see the [EDA Slack user guide](/tools/slack/README.md).
-
-## Toggl
-- [Sign up for Toggl timer](https://toggl.com/)
-- [Get the Toggl Chrome extension](https://chrome.google.com/webstore/detail/toggl-button/oejgccbfbmkkpaidnkphaiaecficdnfn?hl=en)
-
-You'll use the toggl buttons on your assignment waffle cards to record how much time you spend doing each assignment. Keeping track of time spent on each assignment, and each sprint, provides good feedback for you and for us. It's a reminder to focus on the assignment, keep to your timeboxes, and figure out if it's time to ask for help.
-
-## Optional
-- [Meetup](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/): Meetup is the channel by which we advertise our coding events. It's also a great resource to find out what tech events are happening in your region. If choosing to sign up, we recommend changing the [default email settings](http://www.meetup.com/account/comm/) to reduce the number of emails.
-
-[![Gyazo](http://i.gyazo.com/e0c8b3c2e164162d2e021619aee97881.gif)](http://gyazo.com/e0c8b3c2e164162d2e021619aee97881)
 
 
 ## Next up:
