@@ -1,8 +1,6 @@
 # Best practices for success
 
-The **Phase 0** material is organized into a series of nine "sprints", each approximately a week in length for the typical student. You can move faster or slower, but if you think 1 sprint = 1 week you'll have a good idea of your pace.
-
-You can also do deeper or shallower dives into the material, but do try to make it through all the material before the course starts as we'll be working with the presumption that you've already seen this material.
+The **Phase 0** material is organized into a series of nine "sprints", each approximately 25hrs in length for the typical student. You can move faster or slower, but after the first couple of sprints you'll have a good idea of your pace.
 
 ## Synopsis
 
@@ -37,7 +35,7 @@ Time to get to work! Go through the material following your plan of attack. Take
 
 ## If you get stuck, move on
 
-If you get stuck on something for more than five minutes, take a break, get a drink of water or a bite to eat, and then come back. If after another five or ten minutes, you're still stuck, move on, if possible. And send a message to the instructors on Slack explaining what you're stuck on. We'll give you help as quickly as we can.
+If you get stuck on something for more than five minutes, take a break, get a drink of water or a bite to eat, and then come back. If after another five or ten minutes, you're still stuck, move on, if possible. And send a message to the instructors on Slack explaining what you're stuck on, or reach out on your cohort specific slack channel. We'll give you help as quickly as we can.
 
 But don't sit around twiddling your thumbs while you wait for a response. You'll be getting stuck a lot throughout your career, and it's very important that you do not let this paralyze you. Get used to working around your confusion right now.
 
