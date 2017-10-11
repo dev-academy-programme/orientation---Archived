@@ -22,8 +22,8 @@ A couple of things to help us along:
 
 1. Click "sign up" (in the top right corner)
 2. Choose a username that
-  3. includes your first name
-  4. is something you'll be happy for employers to see
+  * includes your first name
+  * is something you'll be happy for employers to see
 3. Update profile (Hover top right corner, click your profile > edit)
   4. Add a profile image and name
   5. Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
