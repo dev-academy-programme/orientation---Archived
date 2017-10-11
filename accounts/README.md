@@ -2,9 +2,9 @@
 
 A couple of things to help us along:
 
-1. **Use your first name as part of your username wherever possible.** This helps the EDA community of staff, teachers, coaches and alumni) better support you.
-2. **Open links in new windows.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs.
-3. **Skim read TLDR sections.** We use TLDR to indicate this information is useful but not essential for completing the task right now.
+1. **Use your first name as part of your username wherever possible.** (To help us all recognise each other)
+2. **Open links in new tabs.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs.
+3. **Skim read TLDR sections.** We use TLDR to indicate the information is useful but not essential for completing the task right now.
 
 ## Accounts you need
 
@@ -20,11 +20,11 @@ A couple of things to help us along:
 
 <br>
 
-1. Click "sign up" (in the top right corner)
+1. Click "sign up" (top right corner)
 2. Choose a username that:
     * includes your first name
     * is something you'll be happy for employers to see
-3. Update profile (Hover top right corner, click your profile > edit)
+3. Update profile (hover top right corner, click your profile > edit)
     * Add a profile image and name
     * Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
 
