@@ -21,12 +21,12 @@ A couple of things to help us along:
 <br>
 
 1. Click "sign up" (in the top right corner)
-2. Choose a username that
-  * includes your first name
-  * is something you'll be happy for employers to see
+2. Choose a username that:
+    * includes your first name
+    * is something you'll be happy for employers to see
 3. Update profile (Hover top right corner, click your profile > edit)
-  4. Add a profile image and name
-  5. Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
+    * Add a profile image and name
+    * Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
 
 4. Accept invitation to your cohort's github team - your facilitator will send this to you either during the call or after.
 
