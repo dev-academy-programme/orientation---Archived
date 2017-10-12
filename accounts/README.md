@@ -13,6 +13,9 @@ A couple of things to help us along:
 3. Slack
 
 <br>
+---------------------------------------
+<br>
+
 
 ## Github
 
@@ -41,6 +44,9 @@ A couple of things to help us along:
 
 <br>
 
+<br>
+---------------------------------------
+<br>
 
 ## Waffle.io
 1. Sign up to [Waffle.io](https://waffle.io/) using your GitHub account
@@ -48,6 +54,11 @@ A couple of things to help us along:
 
 > TLDR <br>
 > This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
+
+<br>
+---------------------------------------
+<br>
+
 
 ## Slack
 1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an invite to slack

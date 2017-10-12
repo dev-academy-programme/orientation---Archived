@@ -10,6 +10,10 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 3. Git
 4. Chrome
 
+<br>
+---------------------------------------
+<br>
+
 
 ## OS X (Mac) instructions
 
@@ -33,7 +37,9 @@ brew update
 brew install git
 ```
 
+<br>
 ---------------------------------------
+<br>
 
 ## Windows instructions
 
@@ -60,7 +66,10 @@ brew install git
 - Where instructions talk about using command line or terminal, use Git Bash
 
 
------------------------------------
+<br>
+---------------------------------------
+<br>
+
 
 ## Linux instructions (Ubuntu)
 
