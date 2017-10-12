@@ -6,8 +6,8 @@ We will complete a set of onboarding tasks together as a cohort, with the guidan
 After orientation, its important that you read the student handbook.
 
 ## Orientation:
-1. [Sign up for accounts](/accounts) (10 minutes)
-2. [Complete the preparation form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) (2 minutes)
+1. [Sign up for accounts](/accounts)
+2. [Install software](/install)
 
 ## Post-Orientation
 1. [Student handbook](course-prep.md)

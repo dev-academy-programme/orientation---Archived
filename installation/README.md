@@ -1,52 +1,42 @@
 # Installation
 
-At EDA you'll be using three tools every day: a terminal (the 'command line'), an editor (Atom), and Git. You'll also need a web browser of course, and for consistency we suggest you use Google Chrome.
 
-Many EDA staff also like using Zsh - the Z shell - and usually a framework for it called [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh). To be clear, you don't need to use this to complete the course work but you might like to try it to see if it's a tool you'll enjoy working with.
+At EDA you'll be using three tools every day: a terminal, an editor and Git. You'll also need a web browser of course, and for consistency we suggest you use Google Chrome.
+
+## Installs
+
+1. iTerm2 (Mac) or Babun(Windows)
+2. Homebrew (Mac only)
+3. Git
+4. Chrome
 
 
 ## OS X (Mac) instructions
 
-### Terminal
+### iTerm and Homebrew
 
-We recommend you use the [iTerm2](https://www.iterm2.com/) terminal. Although you _could_ complete Phase 0 without it, it's extremely popular among OS X developers, has a lot of extra features and makes things look nicer in the default configuration. Download and install it from the linked site. There's a terminal called, oddly enough, 'terminal' provided with OSX, but iTerm2 is better.
+1. Navigate to [iTerm2](https://www.iterm2.com/)
+2. Download and install it.
+3. Naviage to [Homebrew](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window.
 
-Once you've installed iTerm2, there's a great package manager for OS X called [Homebrew](https://brew.sh) which we recommend you install. It takes care of installing and updating other tools you'll need. Go to [https://brew.sh](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window.
+> TLDR
+> Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice. Homebrew helps us update install and manage 'packages' that you'll need and want to use when coding.
 
 
 ### Git
 
-Once you've installed Homebrew, type the following commands in iTerm2:
+1. Open up iTerm2 Once you've installed Homebrew, type the following commands in iTerm2:
+2. Type the following command in iTerm2
 
 ```
 brew update
 brew install git
 ```
 
-
-### Atom
-
-Install Atom by following the instructions at [the Flight Manual](http://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac). We have a section with some suggestions on which plugins to install [here](/tools/atom/README.md).
-
-
-### Zsh
-
-If you want to try Zsh, run the following commands in iTerm2:
-
-```
-brew update
-brew install zsh zsh-completions
-```
-
-Then copy/paste the following command:
-
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
 ## Windows instructions
 
-The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident. You might also consider using the EDA virtual machine described later in this document.
+> TLDR
+> The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident. You might also consider using the EDA virtual machine described later in this document.
 
 
 ### Terminal
