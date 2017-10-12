@@ -16,8 +16,8 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 ### iTerm and Homebrew
 
 1. Navigate to [iTerm2](https://www.iterm2.com/)
-2. Download and install it.
-3. Naviage to [Homebrew](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window.
+2. Download and install it
+3. Naviage to [Homebrew](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window
 
 > TLDR
 > Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice. Homebrew helps us update install and manage 'packages' that you'll need and want to use when coding.
@@ -43,7 +43,7 @@ brew install git
 
 ### Babun (terminal)
 
-1. Go to [Babun](https://babun.github.io).
+1. Go to [Babun](https://babun.github.io)
 2. Follow the download and install instructions
 
 > TLDR
@@ -52,63 +52,35 @@ brew install git
 
 ### Git
 
-1. Go to [Git for Windows](https://git-for-windows.github.io/).
-2. Follow the install instructions.
-*Important*
-- Git for Windows comes with Git BASH (command line/text) and a graphical version.
-- During the course, use only Git BASH.
+1. Go to [Git for Windows](https://git-for-windows.github.io/)
+2. Follow the install instructions
+**Important**
+- Git for Windows comes with Git BASH (command line/text) and a graphical version
+- During the course, use only Git BASH
 - Where instructions talk about using command line or terminal, use Git Bash
 
 
+-----------------------------------
 
-### Atom
-
-The install instructions for Atom are fairly comprehensive. See its section under [Tools](/tools/atom/README.md) for more details.
-
-
-## Linux instructions
-
-> Note: if you want to experiment with Linux from a Windows machine, you could try using the EDA Virtual Machine described below. It's a little slower than the real thing but it provides a good example of what Linux can offer.
-
-Chances are if you're running Linux you probably have a fair idea of what you need and how to get it. However, you could be trying Linux for the first time, so here's a general guide to the tools you'll need. We'll keep it specific to Ubuntu, because that's the distribution most users will encounter first before branching out.
+## Linux instructions (Ubuntu)
 
 
-### Terminal
+### GNOME (Terminal)
+**Already installed**
 
-You definitely already have a terminal installed, which will probably be GNOME Terminal in Ubuntu. This is a perfectly good terminal emulator and you can happily carry on using it.
-
+1. Open up GNOME Terminal
+2. Have a looksie
 
 ### Git
 
-You'll be using Git every day! To install it, type the following in the terminal:
+1. In the GNOME Terminal (which we'll refer to as simply terminal) copy and paste the following command:
 
 ```
 sudo apt-get update && sudo apt-get install git
 ```
 
-If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
+>TLDR: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
 
-
-### Zsh
-
-By default Ubuntu uses something called the Bash shell. If you want to try Zsh, it's probably not installed on a brand new Ubuntu box. Usually you'd install it with:
-
-```
-sudo apt-get install zsh
-```
-
-You could then install Oh My Zsh by copy/pasting this command into the terminal:
-
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-
-### Atom
-
-Atom is the default editor for EDA. It's what we recommend to students as their first code editor, and you'll find it installed on all our machines at the school. You can experiment with other editors as you get more confident, but Atom's a great choice when you're starting out and many professional coders use it as their main editor.
-
-We've included a bit more of a guide under [Tools](/tools/atom/README.md).
 
 
 ## The Dev Academy Virtual Machine (optional)
