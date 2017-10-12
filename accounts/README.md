@@ -12,7 +12,7 @@ A couple of things to help us along:
 2. Waffle.io
 3. Slack
 
-
+<br>
 
 ## Github
 
@@ -35,7 +35,7 @@ A couple of things to help us along:
 <figure>
   <img src="../images/github-settings.png" alt="github settings"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> how you recieve notifications in github</p>
+    <p><strong>Figure 1:</strong> how you receive notifications in github</p>
   </figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ A couple of things to help us along:
 > This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
 
 ## Slack
-1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an inivite to slack
+1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an invite to slack
 2. Go to your email inbox and open the email sent to you. Click 'join now'.
 3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
 4. Download the [desktop app](https://slack.com/app) and login.
