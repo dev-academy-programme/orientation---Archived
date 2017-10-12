@@ -33,26 +33,32 @@ brew update
 brew install git
 ```
 
+---------------------------------------
+
 ## Windows instructions
 
 > TLDR
-> The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident. You might also consider using the EDA virtual machine described later in this document.
+> The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
 
-### Terminal
+### Babun (terminal)
 
-At present, we recommend you try a terminal client called [Babun](https://babun.github.io). This is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Phase 0 without installing other software.
+1. Go to [Babun](https://babun.github.io).
+2. Follow the download and install instructions
 
-If you're running a recent version of Windows 10 you may be able to use Bash for Windows. Here's [a guide](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to getting it working.
-
-Otherwise, we recommend using the terminal that comes with Git for Windows, Git BASH (see below), which at least lets you execute most of the basic commands.
+> TLDR
+> Babun is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Phase 0 without installing other software.
 
 
 ### Git
 
-For Windows, we suggest you start with [Git for Windows](https://git-for-windows.github.io/). This comes with Git BASH, which you could open any time the Phase 0 instructions talk about using the terminal or command line. It provides many of the commands that terminals on OSX and Linux provide.
+1. Go to [Git for Windows](https://git-for-windows.github.io/).
+2. Follow the install instructions.
+*Important*
+- Git for Windows comes with Git BASH (command line/text) and a graphical version.
+- During the course, use only Git BASH.
+- Where instructions talk about using command line or terminal, use Git Bash
 
-Note that we don't suggest you use their graphical version of Git, because you need to get familiar with the terminal and typing commands.
 
 
 ### Atom
