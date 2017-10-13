@@ -1,7 +1,7 @@
 # Changing cohorts or Withdrawing
 
-[change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
-[withdrawal form](http://goo.gl/forms/heEV7aH0zh).
+- [change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
+- [withdrawal form](http://goo.gl/forms/heEV7aH0zh).
 
 <br>
 
