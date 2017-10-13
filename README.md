@@ -11,5 +11,5 @@ After orientation, its important you read the student handbook and then fill out
 2. [Install software](/install)
 
 ## Post-Orientation
-1. [Student handbook](course-prep.md)
+1. [Student handbook](student-handbook.md)
 2. [Personal information]()

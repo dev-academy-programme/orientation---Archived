@@ -20,11 +20,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Dev Academy Staff will be happy to assist those experiencing harassment to feel safe for the duration of their time in Phase 0 and at Dev Academy.
 
-## Your Phase 0 contacts
+## Your Phase 0 contact
 
- - Wellington: Sarrah Jayne <mailto:sarrah@devacademy.co.nz>
- - Auckland: Gabrielle Matches <mailto:gabrielle.matches@devacademy.co.nz>
- - Either centre: Rohan Wakefield <mailto:rohan@devacademy.co.nz>
+ - Wellington and Auckland: Sarrah Jayne <mailto:sarrah@devacademy.co.nz>
 
 ---
 

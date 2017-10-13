@@ -1,12 +1,12 @@
 # Best practices for success
 
-The **Phase 0** material is organized into a series of nine "sprints", each approximately 25hrs in length for the typical student. You can move faster or slower, but after the first couple of sprints you'll have a good idea of your pace.
+The **Phase 0** material is organized into a series of nine "sprints", each approximately 25hrs in length for the typical student.You can move faster or slower, but after the first couple of sprints you'll have a good idea of your pace.
 
 ## Synopsis
 
 1. Review the objectives for the sprint
 2. Skim the material
-3. Create a plan of attack
+3. Create a plan
 4. Work through the material
 5. If you get stuck, move on
 6. Take notes!
@@ -23,9 +23,9 @@ We'll give you time estimates for these parts. These will range widely as some o
 
 ## Skim the material
 
-Before you get started, skim through the material to see what's involved and to get a feel for how to divide your time and effort. Sometimes material is sequential&mdash;you need to complete one item before you can move on to the next&mdash;but often you can do things out of order. So keep that in mind.
+Before you get started, skim through the material to see what's involved and to get a feel for how to divide your time and effort.Sometimes material is sequential&mdash;you need to complete one item before you can move on to the next&mdash;but often you can do things out of order. So keep that in mind.
 
-## Create a plan of attack (a strategy)
+## Create a plan / strategy
 
 Now that you know roughly what's involved, make a plan for working through the material. Guess at where you'll be and when, and then check yourself regularly to make sure that you're not spending too much (or too little) time on any one thing.
 
