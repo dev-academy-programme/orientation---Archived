@@ -68,6 +68,7 @@ brew install git
 
 1. Go to [Git for Windows](https://git-for-windows.github.io/)
 2. Follow the install instructions
+
 **Important**
 - Git for Windows comes with Git BASH (command line/text) and a graphical version
 - During the course, use only Git BASH
