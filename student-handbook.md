@@ -11,10 +11,8 @@ Important information including policies, contact lists, learning strategies etc
 6. [Best practices for success](/best-practices/)
 7. [Changing cohorts or withdrawing](/changing-cohorts-or-withdrawing)
 8. [Contact and support](/contact-and-support)
-9. [Dev Academy agreements](/dev-academy-agreements)
-10. [Pairing](/pairing)
-11. [Research and debugging](/research-and-debugging)
-12. [Use of space](/use-of-space)
+10. [Research and debugging](/research-and-debugging)
+11. [Use of space](/use-of-space)
 
 
 
