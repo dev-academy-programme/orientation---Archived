@@ -1,4 +1,4 @@
-# Changing Cohorts or Withdrawing
+# Withdrawing
 
 ## Repeating in Phase 0
 

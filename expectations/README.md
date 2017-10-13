@@ -1,4 +1,4 @@
-## Introduction
+## Expectations
 
 In Phase 0 you need to:
 
