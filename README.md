@@ -8,7 +8,7 @@ After orientation, its important you read the student handbook and then fill out
 
 ## Orientation:
 1. [Sign up for accounts](/accounts)
-2. [Install software](/install)
+2. [Install software](/installation)
 
 ## Post-Orientation
 1. [Read the Student handbook](student-handbook.md)
