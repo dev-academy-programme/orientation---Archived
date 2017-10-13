@@ -21,7 +21,7 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 
 1. Navigate to [iTerm2](https://www.iterm2.com/)
 2. Download and install it
-3. Navigate to [Homebrew](https://brew.sh) and copy/paste the command on the front page into an open iTerm2 window
+3. Navigate to [Homebrew](https://brew.sh) and copy/paste the command on the Homebrew homepage into an open iTerm2 window
 
 > TLDR
 > Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice. Homebrew helps us update install and manage 'packages' that you'll need and want to use when coding.
