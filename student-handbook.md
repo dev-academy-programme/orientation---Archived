@@ -13,11 +13,7 @@ Important information including policies, contact lists, learning strategies etc
 8. [Contact and support](/contact-and-support)
 10. [Research and debugging](/research-and-debugging)
 11. [Use of space](/use-of-space)
-
-
-
-
-3. [Empathy](/empathy/) (10 minutes)
+12. [Engineering Empathy](/empathy/)
 
 
 <br>-------------------------
