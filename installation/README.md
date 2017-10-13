@@ -8,7 +8,7 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 1. iTerm2 (Mac) or Babun(Windows)
 2. Homebrew (Mac only)
 3. Git
-4. Chrome
+4. VS code
 
 <br>
 ---------------------------------------
@@ -36,6 +36,14 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 brew update
 brew install git
 ```
+
+### Visual Studio Code (VS code)
+
+1. Navigate to [Visual Studio Code](https://code.visualstudio.com/)
+2. Download and install the current stable release
+3. Unzip, and drag the app into your applications folder
+
+> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 <br>
 ---------------------------------------
@@ -65,6 +73,13 @@ brew install git
 - During the course, use only Git BASH
 - Where instructions talk about using command line or terminal, use Git Bash
 
+### Visual Studio Code (VS code)
+
+1. Navigate to [Visual Studio Code](https://code.visualstudio.com/)
+2. Download and install the current stable release
+3. Unzip and intstall it in your programs directory
+
+> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 <br>
 ---------------------------------------
@@ -90,7 +105,13 @@ sudo apt-get update && sudo apt-get install git
 
 >TLDR: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
 
+### Visual Studio Code (VS code)
 
+1. Navigate to [Visual Studio Code](https://code.visualstudio.com/)
+2. Download and install the current stable release
+3. Unzip and intstall
+
+> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 
 ## Resources
