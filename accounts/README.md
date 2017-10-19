@@ -56,7 +56,8 @@ A couple of things to help us along:
 2. Go to your email inbox and open the email sent to you. Click 'join now'.
 3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
 4. Download the [desktop app](https://slack.com/app) and login.
-5. Click on "channels" to find your cohort.
+5. Click on "channels" to find your cohort channel
+6. Join the Auckland or Wellington channel
 
 >Context: For more information see the [EDA Slack user guide](/tools/slack/README.md).
 
