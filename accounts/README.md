@@ -17,7 +17,7 @@ A couple of things to help us along:
 
 
 
-## Github
+### Github
 
 > Context<br> GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' == good. 'eda-2015-sam-coder' == not so good. Make sure it sends the right message.
 
@@ -46,7 +46,7 @@ A couple of things to help us along:
 
 ---
 
-## Waffle.io
+### Waffle.io
 1. Sign up to [Waffle.io](https://waffle.io/) using your GitHub account
 2. Select "private and public" repos
 
@@ -56,14 +56,13 @@ A couple of things to help us along:
 ---
 
 
-## Slack
+### Slack
 1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an invite to slack
 2. Go to your email inbox and open the email sent to you. Click 'join now'.
 3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
 4. Download the [desktop app](https://slack.com/app) and login.
 5. Click on "channels" to find your cohort.
 
->Context
->For more information see the [EDA Slack user guide](/tools/slack/README.md).
+>Context:For more information see the [EDA Slack user guide](/tools/slack/README.md).
 
 
