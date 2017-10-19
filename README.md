@@ -5,8 +5,11 @@ This guide will help onboard you into the Dev Academy ecosphere. We will complet
 
 After orientation, it's important you read the student handbook and fill out the personal information form.
 
-## During Orientation:
+## Before Orientation:
+2. [Check/prepare your computer]()
 1. [Sign up for accounts](/accounts)
+
+## During Orientation:
 2. [Install software](/installation)
 
 ## After Orientation
