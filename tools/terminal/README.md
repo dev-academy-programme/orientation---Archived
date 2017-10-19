@@ -2,6 +2,8 @@
 
 The command line (a.k.a terminal, shell, prompt) is another way of interacting with your computer. Instead of working with windows, toolbars, menus, and buttons, you're just interacting with text.
 
+At Dev Academy we use iTerm (mac), babun (windows) and gnome (linux).
+
 You perform actions by writing commands, and you get your information back from the computer in the form of text.
 Knowing how to use your command line will be vital to your success as a programmer-- and it's the first place to start getting acclimated to this new way of using your computer.
 
@@ -101,8 +103,5 @@ OK, that's enough for the moment. You'll pick these up quickly as you go along. 
 
 To get out of the shell (terminal), just type `exit` and hit Enter.
 
-## Resources
-
-- [Cheat sheets](https://rumorscity.com/2014/08/16/6-best-linuxunix-command-cheat-sheet/) (that'll keep ya busy)
 
 
