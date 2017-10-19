@@ -36,7 +36,7 @@ brew install git
 2. Download and install the current stable release
 3. Unzip, and drag the app into your applications folder
 
-> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
 ---
 ---
@@ -47,7 +47,7 @@ brew install git
 
 ### Babun (terminal)
 
-1. Go to [Babun](https://babun.github.io)
+1. Go to [Babun](https://babun.GitHub.io)
 2. Follow the download and install instructions
 
 > Context: Babun is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Phase 0 without installing other software.
@@ -55,7 +55,7 @@ brew install git
 ---
 ### Git
 
-1. Go to [Git for Windows](https://git-for-windows.github.io/)
+1. Go to [Git for Windows](https://git-for-windows.GitHub.io/)
 2. Follow the install instructions
 
 **Important**
@@ -70,7 +70,7 @@ brew install git
 2. Download and install the current stable release
 3. Unzip and intstall it in your programs directory
 
-> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
 ---
 ---
@@ -101,7 +101,7 @@ sudo apt-get update && sudo apt-get install git
 2. Download and install the current stable release
 3. Unzip and intstall
 
-> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
 ---
 ## Resources

@@ -1,4 +1,4 @@
-For general information about Git and GitHub see [git and GitHub intro](../git-and-github)
+For general information about Git and GitHub see [git and GitHub intro](../git-and-GitHub)
 
 # GitHub
 
@@ -27,7 +27,7 @@ Estimated time to complete: 10 minutes
 - [Stage files (add, commit)](#step-6-stage-files-to-be-committed)
 - [Commiting](#step-6-stage-files-to-be-committed)
 - [Adding credentials](#step-8-add-credentials-and-try-again)
-- [Push files to GitHub](#step-9-push-files-to-github)
+- [Push files to GitHub](#step-9-push-files-to-GitHub)
 - [Create a branch](#step-10-create-a-branch)
 - [Push a branch](#step-11-pushing-the-new-branch)
 - [Merge changes into Master](#step-12-merging-changes-back-into-master)
@@ -38,7 +38,7 @@ Estimated time to complete: 10 minutes
 
 ## Step 1: Create a repo
 
-To create the repository for this week, go to your GitHub profile page. Mine is `https://github.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
+To create the repository for this week, go to your GitHub profile page. Mine is `https://GitHub.com/chasm/`. Click on the **Repositories** tab and then on the big green button that says **New**.
 
 You should see the page below, except with your username, of course.
 
@@ -363,7 +363,7 @@ And that's all there is to forking and pull requests. You'll be using them a lot
 
 We'll try to review your code each week, time permitting. To do this, we'll fork a copy of your repository to one of our GitHub accounts. Then we'll clone it to our development machine.
 
-In our forked and cloned copy, we'll add a directory called `review` with a file in it called `README.me`. (The README.md file is a [Markdown-enabled](https://help.github.com/articles/github-flavored-markdown/) file that GitHub will display automatically when you click on this directory. This saves you the trouble of opening the file directly.)
+In our forked and cloned copy, we'll add a directory called `review` with a file in it called `README.me`. (The README.md file is a [Markdown-enabled](https://help.GitHub.com/articles/GitHub-flavored-markdown/) file that GitHub will display automatically when you click on this directory. This saves you the trouble of opening the file directly.)
 
 We'll add any notes we have about your sprint to this `review/README.md` file. Then will save it, stage it, commit it, and push it to our forked copy of your repository.
 

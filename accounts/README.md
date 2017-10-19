@@ -8,16 +8,16 @@ A couple of things to help us along:
 
 ## Accounts you need
 
-1. Github
+1. GitHub
 2. Waffle.io
 3. Slack
 
 
 ---
 
-### Github
+### GitHub
 
-> Context: GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' == good. 'eda-2015-sam-coder' == not so good. Make sure it sends the right message.
+> Context: GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for GitHub usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' is good. 'eda-2015-sam-coder' is not so good. Make sure it sends the right message.
 
 <br>
 
@@ -29,14 +29,14 @@ A couple of things to help us along:
     * Add a profile image and name
     * Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
 
-4. Accept invitation to your cohort's github team - your facilitator will send this to you either during the call or after.
+4. Accept invitation to your cohort's GitHub team - your facilitator will send this to you either during the call or after.
 
 <br>
 
 <figure>
-  <img src="../images/github-settings.png" alt="github settings"><br>
+  <img src="../images/GitHub-settings.png" alt="GitHub settings"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> how you receive notifications in github</p>
+    <p><strong>Figure 1:</strong> how you receive notifications in GitHub</p>
   </figcaption>
 </figure>
 

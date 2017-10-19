@@ -25,7 +25,7 @@ During your Dev Academy experience (and for the most part of your web developmen
 >Context: Git allows groups of people to work together on the same code, at the same time, without overwriting each others work. It is not Ruby, or JS, or C#. It is software that you download - a form of distributed version control which means it manages changes to a project without overwriting any part of the project.
 >With over 10 million users, GitHub has become a social network for web developers - much like facebook or twitter. You build a profile, upload projects to share and connect with other users by “following” their accounts. And while many users store programs and code projects, there’s nothing preventing you from keeping text documents or other file types in your project folders to show off.
 
-- [Practice using Git](https://try.github.io/levels/1/challenges/1)
+- [Practice using Git](https://try.GitHub.io/levels/1/challenges/1)
 - [Learn Git in 24 minutes (video)](https://www.youtube.com/watch?v=jYzW_fEoRCk)
 - [Git and GitHub crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
