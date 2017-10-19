@@ -1,4 +1,4 @@
-# Changing cohorts or Withdrawing
+# Changing cohorts or withdrawing
 
 - [change of cohort form](http://goo.gl/forms/WHZK8bbvlK)
 - [withdrawal form](http://goo.gl/forms/heEV7aH0zh).
