@@ -23,7 +23,7 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 2. Download and install it
 3. Navigate to [Homebrew](https://brew.sh) and copy/paste the command on the Homebrew homepage into an open iTerm2 window
 
-> TLDR
+> Context
 > Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice. Homebrew helps us update install and manage 'packages' that you'll need and want to use when coding.
 
 
@@ -43,7 +43,7 @@ brew install git
 2. Download and install the current stable release
 3. Unzip, and drag the app into your applications folder
 
-> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 <br>
 ---------------------------------------
@@ -51,7 +51,7 @@ brew install git
 
 ## Windows instructions
 
-> TLDR
+> Context
 > The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
 
@@ -60,7 +60,7 @@ brew install git
 1. Go to [Babun](https://babun.github.io)
 2. Follow the download and install instructions
 
-> TLDR
+> Context
 > Babun is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Phase 0 without installing other software.
 
 
@@ -80,7 +80,7 @@ brew install git
 2. Download and install the current stable release
 3. Unzip and intstall it in your programs directory
 
-> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 <br>
 ---------------------------------------
@@ -104,7 +104,7 @@ brew install git
 sudo apt-get update && sudo apt-get install git
 ```
 
->TLDR: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
+>Context: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
 
 ### Visual Studio Code (VS code)
 
@@ -112,7 +112,7 @@ sudo apt-get update && sudo apt-get install git
 2. Download and install the current stable release
 3. Unzip and intstall
 
-> TLDR VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
+> Context VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and github.
 
 
 ## Resources

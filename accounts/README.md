@@ -2,9 +2,9 @@
 
 A couple of things to help us along:
 
-1. **Use your first name as part of your username wherever possible.** (To help us all recognise each other)
+1. **Use your first name as part of your username wherever possible**
 2. **Open links in new tabs.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs.
-3. **Skim read TLDR sections.** We use TLDR to indicate the information is useful but not essential for completing the task right now.
+3. **Skim read Context sections.** We use Context to indicate the information is useful but not essential for completing the task right now.
 
 ## Accounts you need
 
@@ -12,14 +12,14 @@ A couple of things to help us along:
 2. Waffle.io
 3. Slack
 
-<br>
----------------------------------------
-<br>
+
+---
+
 
 
 ## Github
 
-> TLDR<br> GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' == good. 'eda-2015-sam-coder' == not so good. Make sure it sends the right message.
+> Context<br> GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for github usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' == good. 'eda-2015-sam-coder' == not so good. Make sure it sends the right message.
 
 <br>
 
@@ -44,20 +44,16 @@ A couple of things to help us along:
 
 <br>
 
-<br>
----------------------------------------
-<br>
+---
 
 ## Waffle.io
 1. Sign up to [Waffle.io](https://waffle.io/) using your GitHub account
 2. Select "private and public" repos
 
-> TLDR <br>
+> Context <br>
 > This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
 
-<br>
----------------------------------------
-<br>
+---
 
 
 ## Slack
@@ -67,7 +63,7 @@ A couple of things to help us along:
 4. Download the [desktop app](https://slack.com/app) and login.
 5. Click on "channels" to find your cohort.
 
->TLDR
+>Context
 >For more information see the [EDA Slack user guide](/tools/slack/README.md).
 
 
