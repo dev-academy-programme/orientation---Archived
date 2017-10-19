@@ -5,4 +5,4 @@
 2. At least 500MG of harddrive space
 
 # Pre-course recommendations
-1. Start practicing! Check out the [Get a headstart section](./practice)
+1. Start practicing! Check out the [Get a headstart section](../practice)
