@@ -8,14 +8,10 @@ After orientation, it's important you read the student handbook and fill out the
 ## Before Orientation:
 1. [Check requirements](/prepare)
 2. [Sign up for accounts](/accounts)
-
-## During Orientation:
-1. [Install software](/installation)
+3. [Install software](/installation)
+4. [Practice your tools and hone your craft](/practice)
 
 ## After Orientation
 1. [Read the Student handbook](student-handbook.md)
 2. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
 
-## Get A Head Start
-Chomping at the bit to get going? Practice and hone your skills:
-1. [Practice your tools and hone your craft](/practice)
