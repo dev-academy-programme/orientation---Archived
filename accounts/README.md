@@ -42,6 +42,7 @@ A couple of things to help us along:
 ### Waffle.io
 1. Sign up to [Waffle.io](https://waffle.io/) using your GitHub account
 2. Select "private and public" repos
+3. Click "authorise"
 
 > Context: This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
 
@@ -51,7 +52,8 @@ A couple of things to help us along:
 1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an invite to slack
 2. Go to your email inbox and open the email sent to you. Click 'join now'.
 3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
-4. Download the [desktop app](https://slack.com/app) and login.
+4. Download the [desktop app](https://slack.com/app)
+5. Login to the slack org enspiral-dev-academy using the desktop app
 5. Click on "channels" to find your cohort channel
 6. Join the Auckland or Wellington channel
 
