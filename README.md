@@ -1,5 +1,5 @@
 # Ngā mihi nui kia koutou!
-### Welcome to orientation!
+**Welcome to orientation!**
 
 This guide will help onboard you into the Dev Academy ecosphere.
 We will complete a set of onboarding tasks together as a cohort, with the guidance of your facilitator.
