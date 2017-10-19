@@ -1,9 +1,7 @@
 # Installation
 
 
-At EDA you'll be using three tools every day: a terminal, an editor and Git. You'll also need a web browser of course, and for consistency we suggest you use Google Chrome.
-
-## Installs
+At EDA you'll be using three tools every day: a terminal, an editor and Git. You'll also need a web browser of course, and for consistency we suggest you use Google Chrome. We'll be installing the following:
 
 1. iTerm2 (Mac) or Babun(Windows)
 2. Homebrew (Mac only)
@@ -11,8 +9,6 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 4. VS code
 
 ---
-
-
 ## OS X (Mac) instructions
 
 ### iTerm and Homebrew
@@ -49,7 +45,6 @@ brew install git
 
 > Context: The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
----
 ### Babun (terminal)
 
 1. Go to [Babun](https://babun.github.io)
@@ -81,7 +76,6 @@ brew install git
 ---
 
 ## Linux instructions (Ubuntu)
-
 
 ### GNOME (Terminal)
 **Already installed**

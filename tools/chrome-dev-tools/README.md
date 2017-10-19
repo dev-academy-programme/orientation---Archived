@@ -23,7 +23,7 @@ Additional practice and resources:
   </figcaption>
 </figure>
 
-We can click on the "hamburger menu" and select More Tools > Developer Tools. Or we can use Control-Shift-I to open the tools. Or we can right click on the page and select "Inspect element" from the context menu:
+We can click on the "hamburger menu" and select More Tools > Developer Tools. Or we can use Control-Shift-I to open the tools. Or we can right click on the page and select "Inspect element" from the Context: menu:
 
 <figure>
   <img src="../../images/dev-tools-hamburger.png" alt="Tools from hamburger"><br>
@@ -33,9 +33,9 @@ We can click on the "hamburger menu" and select More Tools > Developer Tools. Or
 </figure>
 
 <figure>
-  <img src="../../images/dev-tools-context.png" alt="Tools from context"><br>
+  <img src="../../images/dev-tools-Context:.png" alt="Tools from Context:"><br>
   <figcaption>
-    <p><strong>Figure 3:</strong> Dev tools from the context menu</p>
+    <p><strong>Figure 3:</strong> Dev tools from the Context: menu</p>
   </figcaption>
 </figure>
 
