@@ -3,15 +3,12 @@
 
 This guide will help onboard you into the Dev Academy ecosphere. We will complete a set of onboarding tasks together as a cohort, with the guidance of your facilitator.
 
-After orientation, it's important you read the student handbook and fill out the personal information form.
 
-## Before Orientation:
+## Prepare for Phase-0
 1. [Check requirements](/prepare)
 2. [Sign up for accounts](/accounts)
 3. [Install software](/installation)
 4. [Practice your tools and hone your craft](/practice)
-
-## After Orientation
-1. [Read the Student handbook](student-handbook.md)
-2. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
+5. [Read the Student handbook](student-handbook.md)
+6. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
 
