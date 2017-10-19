@@ -22,7 +22,7 @@ Dev Academy Staff will be happy to assist those experiencing harassment to feel 
 
 ## Your Phase 0 contact
 
- - Wellington and Auckland: Sarrah Jayne <mailto:sarrah@devacademy.co.nz>
+ - Wellington and Auckland: Sarrah Jayne <sarrah@devacademy.co.nz>
 
 ---
 

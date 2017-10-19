@@ -16,9 +16,7 @@ Important information including policies, contact lists, learning strategies etc
 12. [Engineering Empathy](/empathy/)
 
 
-<br>-------------------------
-<br>
-
+---
 ### Resources
 
 1. [Tools you will use](/tools/) (45 minutes). Focus specifically on:
