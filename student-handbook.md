@@ -17,13 +17,3 @@ Important information including policies, contact lists, learning strategies etc
 
 
 ---
-### Resources
-
-1. [Tools you will use](/tools/) (45 minutes). Focus specifically on:
-    1. [Command line/Terminal](tools/terminal#practicing-the-command-line)
-    2. [Git and Github](tools/git-and-github#giving-git-a-test-drive)
-2. [Resources you will use](/resources/) (10 minutes)
-3. [Web accessibility](/accessibility/) (15 minutes)
-4. [Typing and shortcuts](practice#typing-and-shortcuts)
-5. [JavaScript](practice#javascript)
-6. [HTML/CSS](practice#html-and-css)
