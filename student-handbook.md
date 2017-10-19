@@ -8,7 +8,6 @@ Important information including policies, contact lists, learning strategies etc
 3. [Code of conduct](/code-of-conduct)
 4. [Approach to learning](/approach-to-learning)
 5. [Our expectations](/expectations/)
-6. [Best practices for success](/best-practices/)
 7. [Changing cohorts or withdrawing](/changing-cohorts-or-withdrawing)
 8. [Contact and support](/contact-and-support)
 10. [Research and debugging](/research-and-debugging)

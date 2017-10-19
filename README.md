@@ -16,4 +16,4 @@ After orientation, it's important you read the student handbook and fill out the
 ---
 ### Get A Head Start
 Chomping at the bit to get going? Practice and hone your skills:
-1. [Get a head start](/practice)
+1. [Practice your tools and hone your craft](/practice)

@@ -9,4 +9,4 @@ The Enspiral Dev Academy course is very hands on. You'll be writing code almost 
 5. [Git and GitHub weekly workflow](./git-and-github/using-github-during-phase-0.md)
 6. [Slack](./slack)
 7. [Lints and validators](./lints-and-validators)
-8. [Vagrant (optional)](./vagrant/) - you will use this if you choose to run the Dev Academy virtual machine
+
