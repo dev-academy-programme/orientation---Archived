@@ -17,10 +17,6 @@ A couple of things to help us along:
 
 ### GitHub
 
-> Context: GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for GitHub usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' is good. 'eda-2015-sam-coder' is not so good. Make sure it sends the right message.
-
-<br>
-
 1. Click "sign up" (top right corner)
 2. Choose a username that:
     * includes your first name
@@ -34,13 +30,13 @@ A couple of things to help us along:
 <br>
 
 <figure>
-  <img src="../images/GitHub-settings.png" alt="GitHub settings"><br>
+  <img src="../images/github-settings.png" alt="GitHub settings"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> how you receive notifications in GitHub</p>
   </figcaption>
 </figure>
 
-
+> Context: GitHub will be where you keep all of your code from EDA and becomes your technical resume when applying for positions. The most popular form for GitHub usernames is to use "snake-case": all lowercase letters with words separated by hyphens, e.g., bobs-yer-uncle. Remember that this name will be used by you professionally, so don't make the mistake of  using something you wouldn't want potential employers or clients to see. 'anahi-hiyu' is good. 'eda-2015-sam-coder' is not so good. Make sure it sends the right message.
 ---
 
 ### Waffle.io
