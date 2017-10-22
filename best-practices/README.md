@@ -1,6 +1,6 @@
 # Best practices for success
 
-The **Phase 0** material is organized into a series of nine "sprints", each approximately 25hrs in length for the typical student.You can move faster or slower, but after the first couple of sprints you'll have a good idea of your pace.
+The **Phase 0** material is organized into a series of nine "sprints", each approximately 25hrs in length for the typical student. You can move faster or slower, but after the first couple of sprints you'll have a good idea of your pace.
 
 ## Synopsis
 
@@ -23,7 +23,7 @@ We'll give you time estimates for these parts. These will range widely as some o
 
 ## Skim the material
 
-Before you get started, skim through the material to see what's involved and to get a feel for how to divide your time and effort.Sometimes material is sequential&mdash;you need to complete one item before you can move on to the next&mdash;but often you can do things out of order. So keep that in mind.
+Before you get started, skim through the material to see what's involved and to get a feel for how to divide your time and effort. Sometimes material is sequential&mdash;you need to complete one item before you can move on to the next&mdash;but often you can do things out of order. So keep that in mind.
 
 ## Create a plan
 
