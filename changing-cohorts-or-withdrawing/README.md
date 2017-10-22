@@ -20,7 +20,7 @@ Should you need to repeat a module, take note:
 If repeating is an option you want to explore more, please talk to your facilitator. Remember that there may be a wait before the next cohort starts, so take that into consideration when making your decision. We recognise that students make significant sacrifices and rearrange their lives in order to make study work, so we do try to avoid roll backs wherever possible.
 
 
-## Deferring to a Later Cohort
+## Deferring to a later cohort
 
 If now is not a good time to attend Dev Academy, you may opt to defer to a later cohort.
 
