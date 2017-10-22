@@ -1,8 +1,8 @@
-## Introduction
+## Expectations
 
-In Phase 0 you need to:  
+In Phase 0 you need to:
 
-1. familiarise yourself with the learning culture we foster at Enspiral Dev Academy (EDA), and  
+1. familiarise yourself with the learning culture we foster at Enspiral Dev Academy (EDA), and
 2. build the foundation of skills and understanding we require of students on bootcamp.
 
 

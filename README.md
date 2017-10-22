@@ -1,14 +1,14 @@
-# Get ready for the course!
+# Ngā mihi nui kia koutou!
+**Welcome to orientation!**
+
+This guide will help onboard you into the Dev Academy ecosphere.
 
 
-Below are some important/helpful steps in smoothing the road for after your orientation.
+## Prepare for Phase-0
+1. [Check requirements](/prepare)
+2. [Sign up for accounts](/accounts)
+3. [Install software](/installation)
+4. [Practice your tools and hone your craft](/practice)
+5. [Read the Student handbook](student-handbook.md)
+6. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
 
-Complete these steps before your Virtual Orientation so that you can get started on your assignments with no hassle. This will take you less than 30 minutes.
-
-1. [Sign up for accounts](/accounts) (10 minutes)
-2. [Prepare for introduction session](prepare-for-orientation) (10 minutes)
-3. [Complete the preparation form](https://docs.google.com/forms/d/1-MW9w5sHtyWZCoFFyDoIqFU8xgDClGIQug2ufACy0-4/viewform) (2 minutes)
-
-Once you're finished the above steps, sit back, relax, and enjoy your Orientation
-
-Afterwards, there is [further preparation material to read](course-prep.md) for more information about the course, our expectations of you as a student, and how to get setup to start developing.

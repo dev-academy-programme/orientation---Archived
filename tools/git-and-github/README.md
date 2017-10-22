@@ -30,7 +30,7 @@ Most of the time when you interact with your project, the complexity is hidden s
 looked like this time last week, last month, last year? Git will let you do all of those things and more, often with just one command.
 
 ## Words people use when they talk about Git
-*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)*
+*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1)*
 
 `Command Line:` The computer program we use to input Git commands. On a Mac, it’s called Terminal. On a PC, it’s a non-native program that you download when you download Git for the first time. In both cases, you type text-based commands, known as prompts, into the screen, instead of using a mouse.
 
@@ -43,7 +43,7 @@ looked like this time last week, last month, last year? Git will let you do all 
 `Branch:` How do multiple people work on a project at the same time without Git getting them confused? Usually, they “branch off” of the main project with their own versions full of changes they themselves have made. After they’re done, it’s time to “merge” that branch back with the “master,” the main directory of the project.
 
 ### Git-Specific Commands
-*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-gitHub-a-journey-for-beginners-part-1)*
+*Shared via [Readwrite.com](http://readwrite.com/2013/09/30/understanding-GitHub-a-journey-for-beginners-part-1)*
 
 Since Git was designed with a big project like Linux in mind, there are a lot of Git commands. However, to use the basics of Git, you’ll only need to know a few terms. They all begin the same way, with the word `git`.
 
@@ -73,7 +73,7 @@ Since Git was designed with a big project like Linux in mind, there are a lot of
 Usually you would need to download and install Git on your computer or use the virtual machine (which has Git already included). Nonetheless, these 2 lessons allow you to practice Git and GitHub workflow in just the web browser, without downloading and installing.
 
 **For beginners:**
-- [Try Git](https://try.gitHub.io/levels/1/challenges/1) - This basics of Git commands, demonstrating the ways in which you will be interacting with Git.
+- [Try Git](https://try.GitHub.io/levels/1/challenges/1) - This basics of Git commands, demonstrating the ways in which you will be interacting with Git.
 
 **Intermediate Git'ers**
-- [Learn Git Branching](http://pcottle.gitHub.io/learnGitBranching/) - basic Git commands and branching.
+- [Learn Git Branching](http://pcottle.GitHub.io/learnGitBranching/) - basic Git commands and branching.

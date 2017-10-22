@@ -28,7 +28,7 @@ Whatever your learning or thinking style, here are a few strategies you can try 
 ##Things to be Aware Of
 
 ### Not for Everyone
-That said, the Dev Academy experience is not for everyone. The curriculum condenses an inordinate amount of information into 9 weeks, and the rigor, pace, and teaching style does not suit every student's needs. It is important to be honest with yourself and your teachers if this teaching style does not suit your learning needs.
+That said, the Dev Academy experience is not for everyone. The curriculum condenses an inordinate amount of information into 9 sprints, and the rigor, pace, and teaching style does not suit every student's needs. It is important to be honest with yourself and your teachers if this teaching style does not suit your learning needs.
 
 ### Yellow flags
 We gauge a student's fit in Phase 0 and Dev Academy through their kindness, integrity, and effort that they put into the program. Participation and communication are key components. Students who demonstrate any or a combination of the indicators below may be put on a path for monitoring or being asked to leave. These indicators, or yellow flags include, but are not limited to:
