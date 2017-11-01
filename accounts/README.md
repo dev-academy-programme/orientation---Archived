@@ -54,9 +54,8 @@ A couple of things to help us along:
 3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
 4. Download the [desktop app](https://slack.com/app)
 5. Login to the slack org enspiral-dev-academy using the desktop app
-5. Click on "channels" to find your cohort channel
-6. Join the Auckland or Wellington channel
+6. Click on "channels" to find your Phase 0 channel
+7. Join the Phase0_auckland or Phase0_wellington channel
+8. Join the Auckland or Wellington space channels (optional)
 
 >Context: For more information see the [EDA Slack user guide](/tools/slack/README.md).
-
-
