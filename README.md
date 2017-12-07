@@ -11,4 +11,4 @@ This guide will help onboard you into the Dev Academy ecosphere.
 4. [Practice your tools and hone your craft](/practice)
 5. [Read the Student handbook](student-handbook.md)
 6. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
-
+7. [Get your first assignment](/assignments)
