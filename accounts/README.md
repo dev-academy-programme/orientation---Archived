@@ -40,8 +40,9 @@ A couple of things to help us along:
 ---
 
 ### Waffle.io
-1. Sign up to [Waffle.io](https://waffle.io/) using your GitHub account
-2. Select "private and public" repos
+1. Be sure to be signed in to GitHub first.  
+2. Visit [Waffle.io](https://waffle.io/) and select Sign Up
+3. Select "private and public" repos
 3. Click "authorise"
 
 > Context: This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
@@ -58,5 +59,3 @@ A couple of things to help us along:
 6. Join the Auckland or Wellington channel
 
 >Context: For more information see the [EDA Slack user guide](/tools/slack/README.md).
-
-
