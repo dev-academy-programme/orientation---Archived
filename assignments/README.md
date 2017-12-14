@@ -2,9 +2,9 @@
 
 1. Accept the invitation to join your GitHub Org from your email inbox.
 2. Go to waffle.io
-3. Under 'Your Projects' select your cohort
-4. Use the filter and enter your GitHub Username
-5. Follow the instructions in the tickets
+3. Under 'Your Projects' select your cohort (figure 1 and 2)
+4. Use the filter and enter your GitHub Username (figure 3)
+5. Clcik on a ticket and follow the instructions within (figure 4)
 
 ##### Notes  
 - GitHub orgs are named after native trees and native birds. It contains a number of repositories (repo)
@@ -12,25 +12,33 @@
 - Waffler is a visual interface for that GitHub repository
 - You will need to filter out your assignments (see images below)
 
-[link text](../../images/waffle_select_cohort.png "Selecting cohort in Waffle")
+[Selecting your cohort in waffle](../images/waffle_select_cohort.png "Selecting cohort in Waffle")
 
 <figure>
-  <img src="../../images/waffle_select_cohort.png" alt="select cohort in waffle"><br>
+  <img src="../images/waffle_select_cohort.png" alt="select cohort in waffle"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Select your cohort under 'Your Projects'</p>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/waffle_cohort_full_view.png" alt="waffle full view"><br>
+  <img src="../images/waffle_cohort_full_view.png" alt="waffle full view"><br>
   <figcaption>
-    <p><strong>Figure 2:</strong> Waffle unfiltered view. Notice here you can see all user's assignments.'</p>
+    <p><strong>Figure 2:</strong> Waffle unfiltered board view. All user's assignments visible.'</p>
   </figcaption>
 </figure>
 
 <figure>
-  <img src="../../images/waffle_cohort_filter_user_view.png" alt="waffle filtered view"><br>
+  <img src="../images/waffle_cohort_filter_user_view.png" alt="waffle filtered view"><br>
   <figcaption>
-    <p><strong>Figure 3:</strong>Waffle filtered view - User's assignments visible.'</p>
+    <p><strong>Figure 3:</strong>Waffle filtered view - Only user's assignments visible.'</p>
+  </figcaption>
+</figure>
+
+
+<figure>
+  <img src="../images/waffle_open_ticket.png" alt="waffle ticket"><br>
+  <figcaption>
+    <p><strong>Figure 4:</strong>Example of first waffle ticket'</p>
   </figcaption>
 </figure>
