@@ -12,33 +12,31 @@
 - Waffler is a visual interface for that GitHub repository
 - You will need to filter out your assignments (see images below)
 
-[Selecting your cohort in waffle](../images/waffle_select_cohort.png "Selecting cohort in Waffle")
-
 <figure>
-  <img src="../images/waffle_select_cohort.png" alt="select cohort in waffle"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Select your cohort under 'Your Projects'</p>
   </figcaption>
+  <img src="../images/waffle_select_cohort.png" alt="select cohort in waffle"><br>
 </figure>
 
 <figure>
+  <figcaption>
+    <p><strong>Figure 2:</strong>Unfiltered board view. All user's assignments visible.'</p>
+  </figcaption>
   <img src="../images/waffle_cohort_full_view.png" alt="waffle full view"><br>
-  <figcaption>
-    <p><strong>Figure 2:</strong> Waffle unfiltered board view. All user's assignments visible.'</p>
-  </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    <p><strong>Figure 3:</strong>Filtered view - Only user's assignments visible.'</p>
+  </figcaption>
   <img src="../images/waffle_cohort_filter_user_view.png" alt="waffle filtered view"><br>
-  <figcaption>
-    <p><strong>Figure 3:</strong>Waffle filtered view - Only user's assignments visible.'</p>
-  </figcaption>
 </figure>
 
 
 <figure>
-  <img src="../images/waffle_open_ticket.png" alt="waffle ticket"><br>
-  <figcaption>
+ <figcaption>
     <p><strong>Figure 4:</strong>Example of first waffle ticket'</p>
   </figcaption>
+ <img src="../images/waffle_open_ticket.png" alt="waffle ticket"><br>
 </figure>
