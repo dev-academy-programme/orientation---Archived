@@ -10,7 +10,8 @@
 - GitHub orgs are named after native trees and native birds. It contains a number of repositories (repo)
 - A GitHub repo is similar to a digital directory or storage space, where course information is kept
 - Waffler is a visual interface for that GitHub repository
-- You will need to filter out your assignments (see images below)
+- You will need to filter out your assignments (see images below)<br>  
+
 
 <figure>
   <figcaption>
@@ -21,14 +22,14 @@
 
 <figure>
   <figcaption>
-    <p><strong>Figure 2:</strong>Unfiltered board view. All user's assignments visible.'</p>
+    <p><strong>Figure 2:</strong> Unfiltered board view. All user's assignments visible.</p>
   </figcaption>
   <img src="../images/waffle_cohort_full_view.png" alt="waffle full view"><br>
 </figure>
 
 <figure>
   <figcaption>
-    <p><strong>Figure 3:</strong>Filtered view - Only user's assignments visible.'</p>
+    <p><strong>Figure 3:</strong> Filtered view - Only user's assignments visible.</p>
   </figcaption>
   <img src="../images/waffle_cohort_filter_user_view.png" alt="waffle filtered view"><br>
 </figure>
@@ -36,7 +37,7 @@
 
 <figure>
  <figcaption>
-    <p><strong>Figure 4:</strong>Example of first waffle ticket'</p>
+    <p><strong>Figure 4:</strong> Example of first waffle ticket</p>
   </figcaption>
  <img src="../images/waffle_open_ticket.png" alt="waffle ticket"><br>
 </figure>
