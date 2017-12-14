@@ -12,11 +12,17 @@
 - Waffler is a visual interface for that GitHub repository
 - You will need to filter out your assignments (see images below)
 
+<figure>
+  <img src="../../images/pwd.png" alt="The pwd command"><br>
+  <figcaption>
+    <p><strong>Figure 1:</strong> pwd</p>
+  </figcaption>
+</figure>
 
 <figure>
   <img src="../../images/waffle_select_cohort.png" alt="select cohort in waffle"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> Select your cohohrt under 'Your Projects'</p>
+    <p><strong>Figure 1:</strong> Select your cohort under 'Your Projects'</p>
   </figcaption>
 </figure>
 
