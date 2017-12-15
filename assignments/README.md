@@ -1,7 +1,7 @@
 # Get your first assignments
 
 1. Accept the invitation to join your GitHub Org from your email inbox.
-2. Go to waffle.io
+2. Go to [waffle.io](https://waffle.io/)
 3. Under 'Your Projects' select your cohort (figure 1 and 2)
 4. Use the filter and enter your GitHub Username (figure 3)
 5. Clcik on a ticket and follow the instructions within (figure 4)
