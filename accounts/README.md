@@ -55,7 +55,7 @@ A couple of things to help us along:
 4. Download the [desktop app](https://slack.com/app)
 5. Login to the slack org enspiral-dev-academy using the desktop app
 6. Click on "channels" to find your Phase 0 channel
-7. Join the Phase0_auckland or Phase0_wellington channel
-8. Join the Auckland or Wellington space channels (optional)
+7. Join the **#phase0_auckland** or **#phase0_wellington** channel
+8. Join the **#auckland** or **#wellington** space channels
 
 >Context: For more information see the [EDA Slack user guide](/tools/slack/README.md).
