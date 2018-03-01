@@ -104,7 +104,7 @@ sudo apt-get update && sudo apt-get install git
 ```
 
 
-3. Restart your terminal and enter the following commands:
+2. Restart your terminal and enter the following commands:
   * `git config user.name <YOUR GITHUB USERNAME HERE>`
   * `git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>`
 
