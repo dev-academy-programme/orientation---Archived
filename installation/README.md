@@ -29,6 +29,12 @@ At EDA you'll be using three tools every day: a terminal, an editor and Git. You
 brew update
 brew install git
 ```
+
+3. Once git is installed, Quit and Restart iTerm2 and enter the following commands:
+  * `git config user.name <YOUR GITHUB USERNAME HERE>`
+  * `git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>`
+
+
 ---
 ### Visual Studio Code (VS code)
 
@@ -63,6 +69,11 @@ brew install git
 - During the course, use only Git BASH
 - Where instructions talk about using command line or terminal, use Git Bash
 
+3. Open Git Bash and enter the following commands:
+  * `git config user.name <YOUR GITHUB USERNAME HERE>`
+  * `git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>`
+
+
 ---
 ### Visual Studio Code (VS code)
 
@@ -91,6 +102,12 @@ brew install git
 ```
 sudo apt-get update && sudo apt-get install git
 ```
+
+
+3. Restart your terminal and enter the following commands:
+  * `git config user.name <YOUR GITHUB USERNAME HERE>`
+  * `git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>`
+
 
 >Context: If you like, you can check it's working by typing `git`. You should see some help text explaining how to use Git.
 
