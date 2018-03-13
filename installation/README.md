@@ -32,8 +32,8 @@ brew install git
 
 3. Once git is installed, Quit and Restart iTerm2 and enter the following commands:
   ```
-  git config user.name <YOUR GITHUB USERNAME HERE>
-  git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>
+  git config --global user.name <YOUR GITHUB USERNAME HERE>
+  git config --global user.email <YOUR GITHUB EMAIL ADDRESS HERE>
 
   ```
 
@@ -74,8 +74,8 @@ brew install git
 
 3. Open Git Bash and enter the following commands:
   ```
-  git config user.name <YOUR GITHUB USERNAME HERE>
-  git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>
+  git config --global user.name <YOUR GITHUB USERNAME HERE>
+  git config --global user.email <YOUR GITHUB EMAIL ADDRESS HERE>
 
   ```
 
@@ -112,9 +112,9 @@ sudo apt-get update && sudo apt-get install git
 
 2. Restart your terminal and enter the following commands:
   ```
-  git config user.name <YOUR GITHUB USERNAME HERE>
+  git config --global user.name <YOUR GITHUB USERNAME HERE>
 
-  git config user.email <YOUR GITHUB EMAIL ADDRESS HERE>
+  git config --global user.email <YOUR GITHUB EMAIL ADDRESS HERE>
   ```
 
 
