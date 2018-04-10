@@ -13,7 +13,7 @@ So to conclude, Git is a tool that you download and GitHub is a service that you
 
 During your Dev Academy experience (and for the most part of your web development career) you will be using Git and GitHub daily.
 
-While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamiliar with the command line interface please see the tools section - [command line interface](/terminal)
+While Git has some graphical interfaces (with has buttons, navigation display etc), its important that you use the command line interface to interact with it. If you are unfamiliar with the command line interface (CLI) please see the [terminal](/tools/terminal) topic in the `tools` section of this repo. 
 
 ## Why use Git
 
