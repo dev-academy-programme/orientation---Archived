@@ -47,6 +47,12 @@ brew install git
 
 > Context: VS code is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web via terminal and GitHub.
 
+4. Follow the Instructions to set up VS Code commands in the Command Line
+
+<figure>
+  <img src="../images/Mac-VS-Code.png" alt="select cohort in waffle" style="width: 80%; margin-left: 10%;"><br>
+</figure>
+
 ---
 ---
 
