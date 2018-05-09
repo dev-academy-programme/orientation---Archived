@@ -25,7 +25,6 @@ A couple of things to help us along:
     * Add a profile image and name
     * Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
 4. Check your email and click the validation link
-5. Accept invitation to your cohort's GitHub team - your facilitator will send this to you either during the call or after.
 
 <br>
 
