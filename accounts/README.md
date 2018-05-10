@@ -44,8 +44,6 @@ A couple of things to help us along:
 3. Select "private and public" repos
 3. Click "authorise"
 
-> Context: This [tutorial on assignment management in waffle](https://vimeo.com/147405661) is useful if you'd like to help on navigating waffle. The password is `eda`.
-
 ---
 
 ### Slack
