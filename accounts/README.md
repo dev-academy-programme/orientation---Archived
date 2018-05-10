@@ -21,9 +21,9 @@ A couple of things to help us along:
 2. Choose a username that:
     * includes your first name
     * is something you'll be happy for employers to see
-3. Update profile (hover top right corner, click your profile > edit)
+3. Update profile (click image in the top right corner, click Settings > Upload new picture)
     * Add a profile image and name
-4. __Important__ Update notifications: If you do not change this setting you will receive multiple emails from GitHub every time we send you assignments.`Uncheck Watching` and `Participating` boxes
+4. __Important__ Update notifications (Click Notifications > Uncheck all boxes watching and participating boxes). If you do not change this setting you will receive multiple emails from GitHub every time we send you assignments. 
 4. Check your email and click the validation link
 
 <br>
