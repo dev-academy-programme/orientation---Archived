@@ -5,9 +5,9 @@ This step can only be done once you've completed the prep form in the previous s
 2. Message @harrison_eda on slack and ask for your assignments.
 
 ## Using Waffle
-https://waffle.io/phase-0/phase-0?assigned=YourUserName
+`https://waffle.io/phase-0/phase-0?assigned=YourUserName`
 
-1. Copy the URL above and add your GitHub to the end of the URL by replacing \'YourUserName\' placeholder
+1. Copy the URL above and __add your GitHub Username__ to the end of the URL by replacing \'YourUserName\' placeholder
 2. Click on a ticket and follow the instructions within (figure 4).
 
 ##### Notes  
@@ -21,5 +21,5 @@ https://waffle.io/phase-0/phase-0?assigned=YourUserName
   <figcaption>
     <p><strong>Figure 1:</strong>Waffle user view</p>
   </figcaption>
-  <img src="./images/waffle-user-view.png" alt="view user view of waffle"><br>
+  <img src="../images/waffle-user-view.png" alt="view user view of waffle"><br>
 </figure>
