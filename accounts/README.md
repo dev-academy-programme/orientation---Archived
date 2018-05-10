@@ -23,7 +23,7 @@ A couple of things to help us along:
     * is something you'll be happy for employers to see
 3. Update profile (hover top right corner, click your profile > edit)
     * Add a profile image and name
-    * Update notifications: ` Uncheck Watching` boxes. `Check Particpating` boxes
+4. __Important__ Update notifications: If you do not change this setting you will receive multiple emails from GitHub every time we send you assignments.`Uncheck Watching` and `Participating` boxes
 4. Check your email and click the validation link
 
 <br>
