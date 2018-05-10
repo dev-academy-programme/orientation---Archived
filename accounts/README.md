@@ -49,7 +49,7 @@ A couple of things to help us along:
 ### Slack
 1. [Click on this link](https://edaslackinvite.herokuapp.com/) to receive an invite to slack
 2. Go to your email inbox and open the email sent to you. Click 'join now'.
-3. Use the **naming convention** to select a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
+3. Use the **naming convention** to create a username: firstname_lastnameINITIAL_cohort e.g. anahera_p_kakapo.
 4. Download the [desktop app](https://slack.com/app)
 5. Login to the slack org enspiral-dev-academy using the desktop app
 5. Add a picture of your self (drop down at the top left of the app, under \'profile and account\')
