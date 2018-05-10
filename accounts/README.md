@@ -29,7 +29,7 @@ A couple of things to help us along:
 <br>
 
 <figure>
-  <img src="../images/github-settings.png" alt="GitHub settings"><br>
+  <img src="../images/github-notification-settings.png" alt="GitHub settings"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> how you receive notifications in GitHub</p>
   </figcaption>
