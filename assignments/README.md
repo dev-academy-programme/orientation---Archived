@@ -2,7 +2,7 @@
 This step can only be done once you've completed the prep form in the previous step.
 
 1. You will have been invited to join our [Phase-0 GitHub Org](https://github.com/phase-0/). Check your email and accept the invitation.
-2. Message @harrison_eda on slack and ask for your assignments.
+2. Message @kelly_eda on slack and ask for your assignments.
 
 ## Using Waffle
 `https://waffle.io/phase-0/phase-0?assigned=YourUserName`
